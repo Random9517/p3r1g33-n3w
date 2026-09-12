@@ -1,0 +1,494 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0051" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00008110_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev081_10b_0000", "ev081_10b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETCHARA", "0", "char_00008110_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「ん……やっぱり、人がいない方が落ち着く……ありがとう……わざわざ人気\n　がない所、探してくれて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETCHARA", "0", "char_00008110_01", "1", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「本当は……海なんて来たくなかったの……でも無理矢理引っ張り出されて…\n　…どうしようかと……夏の日差しで、とけちゃうかと思ってた……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETCHARA", "0", "char_00008110_01", "0", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「隊長さんも……海で遊ぶより、パラソルの下でゆっくりするほうが、好き…\n　…？　そう……なら一緒に、のんびり……しよっか」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETCHARA", "0", "char_00008110_01", "7", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「……………………あ……人はいないけど……あそこ、と……あっちと……そ\n　こにも……きっと海難事故、だよね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETCHARA", "0", "char_00008110_01", "1", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「後で導いてあげないと……誰かに取り憑いちゃうかもしれないから……日が\n　落ちてからの方がいい、かな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETCHARA", "0", "char_00008110_01", "3", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「……ん？　何を見てるのって……えっと……私が見てるものなんて……一つ\n　しかない、よ……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETCHARA", "0", "char_00008110_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「どうしたの、突然ビクンってして……ん、寒いの？　こんな炎天下なのに？\n　そっか……それなら私が、暖めてあげるね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_01" ]},
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「よいしょ、っと……ほら、人肌って温かいって言うから……こうやって身体\n　を寄せ合えば……んっ……どうかな……寒く、なくなった？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「もう少し、密着したほうがいいかな……んっ……あなたの方からも、抱きし\n　めてくれて、いいからね……んんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_02" ]},
+		{"command":[ "SETTEXT", "「ん……よかった……隊長さんの身体、温かい……生きてる証拠……鼓動が伝\n　わってきて……ふふっ……この体勢、なんだか安心する、ね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_03" ]},
+		{"command":[ "SETTEXT", "「あんっ……い、いきなりおっぱいを触ってくるなんて……エッチな隊長さん\n　だ……えっと……我慢、できなくなっちゃった……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_01" ]},
+		{"command":[ "SETTEXT", "「――うん、いいよ……私も……んんっ……期待してた、から……さっきから、\n　お尻に押し付けられてた、この固い、おちんちん……んんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_02" ]},
+		{"command":[ "SETTEXT", "「私の中に、入れて欲しい……誰も見てない、から……お外でなんて……正直\n　すごく恥ずかしい、けど……我慢、できないから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「来て……？　隊長さんのおちんちん、私のおまんこに押し込んで……一緒に\n　いっぱい……気持ちよく、なろ……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_06" ]},
+		{"command":[ "SETTEXT", "「んんっ……あっ、あぁんっ……そうこれ、これを待ってたのっ……んんっ…\n　…めりめりって、おまんこを広げて……おちんちん入ってきた……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_05" ]},
+		{"command":[ "SETTEXT", "「あっ、くぅんっ……い、言ったでしょ、私も期待してたって……おまんこ、\n　準備ばっちりだから……あっ、んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_06" ]},
+		{"command":[ "SETTEXT", "「簡単に一番奥まで、届いて……んぅんっ……けど……あっ、くぅんっ……や、\n　やっぱり、大きい、ね……お腹、ちょっと苦しいかも……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_04" ]},
+		{"command":[ "SETTEXT", "「心配、ありがとう……でも、大丈夫……苦しい以上に、気持ちいいから……\n　あなたの好きなように、動いていいよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "PLAYANIM", "0", "ev081_10b_0000", "ev081_10b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「んんっ、あっ、あぁんっ……！　おちんちん、ずぼずぼ来たっ……あっ、あ\n　ぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「さ、最初から、すごい勢いっ……あっ、んぅんっ……おまんこの中、全部、\n　ひっくり返されちゃう、みたいでっ……んんっ、くぅうんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「嬉しい、な……こんなに強く、求められてる……私の身体が欲しいって、思\n　ってくれるのが、嬉しいっ……あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「うん……うん……私も、それに応えてあげたい、から……あっ、んんっ……！\n　頑張っておまんこ、いっぱい締め付けるから、ね……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「んあぁんっ……！　あっ、んんっ、くぅんんっ……！　す、すごい、後ろか\n　ら突かれてる、からっ……角度がついてっ、あぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「私のお腹……おちんちんの形に、ポコッて膨らんじゃってるっ……あっ、あ\n　ぁんっ……！　んっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「私のおまんこも……んっ、あぁっ……どんどん、愛液が溢れてきちゃって…\n　…んあぁんっ！　恥ずかしい音、いっぱい……んぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「でも……私の身体、とけちゃいそうなぐらい気持ちいいっ……あっ、あぁん\n　っ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「ひゃんっ……！　ど、どうしたの、首筋に顔を埋めたりして……え？　に、\n　匂い？　汗のにおいがエッチって……んんっ、あっ、くぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「ま、まって、それなんか、すごく恥ずかしいっ……やぁ……汗の匂い、嗅が\n　ないでっ……あっ、あぁんっ……んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「――そ、そんな褒めたって、駄目なものは駄目……恥ずかしい、からぁ……\n　やだ、お願いっ、すんすんしないでぇ……あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「ああでもっ、どうして……あひっ、あっ、あぁんんっ……！　ただ恥ずかし\n　いだけ、じゃなくてっ、ドキドキがお腹の奥にまで響いて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「おまんこ、きゅーってしちゃう……恥ずかしいのが、気持ちいいって思っち\n　ゃう……んぅんっ……！　あひっ、あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「うん、分かってる……隊長さんも、だよね……！　おちんちん、もう我慢、\n　できないんだよね……！　私のおまんこに、出したいんだよね……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「いいよ、出してっ……！　んんっ、もっと激しくっ、いっぱい突いてっ……！\n　あっ、んんっ、あぁんんっ……！", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「私もイっちゃうから、隊長さんも一緒にっ……んぅんっ……！　膣内出しし\n　てっ、濃厚精液、びゅーびゅー出してぇっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_09" ]},
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「あっ、んぁぁぁぁぁぁぁぁぁーーーーっ！　で、出てる、熱いのっ……あっ、\n　くぅんっ……！　中出しされて、るっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「やっぱりこれ、好きぃ……膣内出しでイクの好きぃ……あっ、んんっ、あぁ\n　んんっ……！　んああぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_08" ]},
+		{"command":[ "SETTEXT", "「隊長さんの精が……生きてる気配が、どくどくっておまんこの奥に……流れ\n　込んできてっ……あっ、んぅうんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「身体の中まで、熱くなって……んっ、あっ……本当に、とけちゃうかも……\n　んんっ……はぁ、はぁ……んぁんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_07" ]},
+		{"command":[ "SETTEXT", "「隊長さんは、どう……？　私の身体で、気持ちよくなってくれた……？　満\n　足……してくれた？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_08" ]},
+		{"command":[ "SETTEXT", "「えへ、えへへ……よかった……んんっ……お願い、隊長さん……そのままも\n　っと強く……ぎゅっとして……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……んっ……隊長さん……もちろん、一回なんかじゃ満足、しな\n　いよね……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_07" ]},
+		{"command":[ "SETTEXT", "「――うん、大丈夫。確かにとっても暑いし……汗も、その……すごいことに\n　なっちゃってるけど……私も、もっと隊長さんとエッチ、したいから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_08" ]},
+		{"command":[ "SETTEXT", "「来て……今度は私の方からも、頑張ってお尻、動かすから……もっと激しく、\n　滅茶苦茶になるまで……気持ちよくなろうね……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev081_10b_0000", "ev081_10b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、あぁんっ……！　それっ、ドロドロ精液、掻き出すみたいに\n　っ、んあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「さっきより激しく、パンパンってっ、ああっ、あぁんんっ……！　私もおま\n　んこ、またぎゅーってして、お尻グイグイってするからね……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「あひっ、あっ、ふあぁんんっ！　んあぁんっ！　やっぱりこれ、角度がいい\n　からっ……一番気持ちいい所、おちんちんでズリズリって……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「ひゃぁんっ！　ま、まってっ、一緒におっぱいっ、乳首とか弄られちゃうと\n　っ……あっ、ひっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「すごすぎ、てぇ……！　息できないぐらい、感じちゃってっ……！　ひっ、\n　あっ、あぁんっ！　んふぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「ま、また首筋で、すんすんしてるっ……！　恥ずかしいのにっ、汗の匂い、\n　嗅がれてるっ……いやっ、んんっ！　あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「ちがう、うそ、いやなんかじゃないっ……ほんとは好きっ、隊長さんに私の\n　匂いいっぱい嗅がれるのっ、恥ずかしいけど好きぃ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「だけど……それなら私だって……すぅー、はぁー……えへ、えへへ……隊長\n　さんの匂い、いっぱい嗅いじゃうから、ね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「すぅー、はぁー……男らしい、隊長さんの匂いが……すぅー、はぁー……胸\n　いっぱいに広がって……あっ、んんっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「頭がぼーってしちゃうぐらい、幸せっ……あっ、あぁんっ！　おまんこぉ、\n　子宮の中から、きゅんきゅんしちゃう、んぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「た、隊長さん、顔をこっちにっ……んちゅ、ちゅ、ちゅてるっ……えへへ、\n　ちゅー、しちゃったぁ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んひゃぁんっ！？　あっ、ああっ、あぁんんっ！　たい、ちょうさんっ、い\n　きなり激しっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「――わ、私が可愛すぎるのが悪いってっ、そんなっ、ひっ、ひゃぁんんっ！\n　そ、それ、繋がってる所、くりとりすっ、あひゃぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「おちんちん、ずぼずぼしながら、一緒に弄られちゃうとっ、ひっ、ひゃうぅ\n　んんっ……！　ほんと、息できな、いっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「だめぇ……！　もう我慢できないのぉ……！　またイきたい、隊長さんのお\n　ちんちんで、イっちゃいたい、からぁ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「出してぇ……！　私の身体で、隊長さんも気持ちよくなってぇ……！　おま\n　んこぎゅーってするから、また一緒にイこうねぇ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「来てぇ、もっと激しく、もっと深くぅ……！　隊長さんのぜんぶを、私にぶ\n　つけて気持ちよくなってぇ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_12" ]},
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「イッくうぅぅんんっ……！　またっ、ああっ、中に出てぇ……！　ひあっ、\n　あぁんっ……！　精液、どぷって……中に来てるぅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「イク、イクイク、イクぅぅぅんっ……中出しおまんこっ……気持ちよすぎて、\n　イクの止まらないよぉっ……！　んあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_11" ]},
+		{"command":[ "SETTEXT", "「出して、もっと激しく、私の子宮に直接注ぎ込んでっ……！　あっ、んあぁ\n　んっ！　おまんこいっぱいになるまで、もっとぉ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_12" ]},
+		{"command":[ "SETTEXT", "「隊長さんっ……んちゅ、ちゅ、れるっ……！　えへへ、膣内出しされながら、\n　ちゅーするの……好きぃ……んちゅ、ちゅれるっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_11" ]},
+		{"command":[ "SETTEXT", "「ああ、でも……んっ……そろそろ、終わり……隊長さんの赤ちゃんの種……\n　もっと欲しいけど……二回目だもんね……仕方ない、よね……」　", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_12" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……んんっ……どう、かな？　隊長さんも気持ちよくなれた？　\n　私の身体、たんのー……してくれた……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_11" ]},
+		{"command":[ "SETTEXT", "「えへへ……よかった……あ、だめ、まだおちんちん抜かないで……もう少し\n　だけ、このままで……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_10" ]},
+		{"command":[ "SETTEXT", "「うん……誰か人に見つかっちゃうかもしれないけど……そうなったら恥ずか\n　しい、けど……それでも、もうちょっと、だけくっついていたいな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「あ――えへへ、ありがとう、隊長さん。……海に来るなんて、最初は嫌で嫌\n　でしかたなかったけど……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「隊長さんと一緒なら、それも悪くないかな、なんて……少し休んだら……砂\n　のお城、一緒に作ってくれたら……嬉しいな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_15" ]},
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「ひゃあぅんっ！　だめっ……おちんちん抜けてっ、んぅんぅっ……！　精液\n　っ、お尻に掛かってるっ……あぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「私の肌に、直接っ……あっ、んんっ……隊長さんの熱い、どろどろ精液がい\n　っぱい……んぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_14" ]},
+		{"command":[ "SETTEXT", "「あぁ……膣内出し、とは違うけど……全身で隊長さんの事を感じられるのも、\n　嬉しくて……あっ、んんっ、んあぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「じんわり、お腹の奥から広がっていくみたいにぃ……あっ、くぅんんっ……！\n　こういう感じでイクのも、いいかも……んぅんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_15" ]},
+		{"command":[ "SETTEXT", "「全身、汗まみれの上に……精液までこんなに……ああ……なんてエッチな匂\n　い……頭くらくらして、これでもまたっ……んぅんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_14" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ、はぁ……さ、流石にちょっと、疲れたね……ただでさえ、日差\n　しが強くて、暑いのに……激しかった、から……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「――心配してくれて、ありがとう……そうだね、水分を取って、休まないと、\n　だけど……あと少しだけ、このままで……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_13" ]},
+		{"command":[ "SETTEXT", "「少し休んだら、ね……隊長さん、私と一緒に、海で遊んでくれる……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETTEXT", "「うん……海とか夏の日差しとか、やっぱり苦手、だけど……あなたと一緒な\n　ら、楽しめる……かも、しれないから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "アヌビス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00008110_02_14" ]},
+		{"command":[ "SETTEXT", "「その……砂のお城、とか……一緒に作ってくれたら、嬉しいな……えへへ…\n　…」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_081_1004410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

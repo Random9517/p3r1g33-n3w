@@ -1,0 +1,573 @@
+{
+    "scriptCommands" :  [
+        {"command":[ "FADEIN", "NORMAL" ]},
+        {"command":[ "SETIMAGE", "0", "bg_0205" ]},
+        {"command":[ "DISPIMAGE","0", "TRUE" ]},
+        {"command":[ "FADEOUT", "NORMAL" ]},
+        {"command":[ "PLAYBGM", "BGM_015" ]},
+        {"command":[ "LOADANIMIMAGE", "0", "anim_00029702_02" ]},
+        {"command":[ "SETANIMRANGE", "0", "ev297_02b_0000", "ev297_02b_0023" ]},
+        {"command":[ "WAITMOVE" ]},
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "俺たちはいそいそと祭の会場を抜け出した。\nもうガマンしきれなかったのだ。", "NORMAL" ]},
+        {"command":[ "DISPNAME", "TRUE" ]},
+        {"command":[ "DISPTEXT", "TRUE" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "そんなだから、俺たちは家に着くなり、\nむしゃぶりつくように抱き合った。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「委員長……、私、もう……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204107" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「うん、俺も……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "着ているものをはぎとるようにはだけさせ、\n半裸のままでお互いの体を抱きしめ合う。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "FADEOUT", "NORMAL" ]},
+        {"command":[ "SETIMAGE", "0", "still_00029702_02_01" ]},
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「あぁ……、委員長の、もうこんなに固くなって……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204108" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんは、腰をくねらせながら、勃起した逸物に股間を\nこすりつけてくる。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「うぅ……本庄さんのも、すごい濡れてる……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「はい……もう、恥ずかしいぐらい、\n　すごくなっちゃってます……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204109" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんの秘密の入口は、もうぐっしょり濡れていた。\nそこから溢れ出したものが、俺の股間まで濡らしている。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「太鼓叩きながら、こんなにしてたのか？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「だって……あの音、すごいんです……ビンビン響いて……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204110" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「たしかにすごかったけど」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「んっ、ああ……まだあの振動が、\n　体の中に残ってるみたいです……んんっ」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204111" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんの体が、太鼓の響きを思い出したように震えた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "同時に、わずかに開いた割れ目から愛液が溢れ出し、\n逸物に伝って落ちてきた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「委員長、私……、もうガマンできないです……\n　委員長のこれ、入れちゃいますよ？」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204112" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "そう言いながら、濡れた入口を亀頭にこすりつけて来る。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「くっ、うう……、俺も、もうガマンできないって……。\n　早く本庄さんの中に……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "俺も、本庄さんの中心に向かって腰を突き上げる。\nくちゅっと音がして、先端が、濡れた割れ目にめり込んだ。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETIMAGE", "0", "still_00029702_02_02" ]},
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「あふっ、ああ……、入って、来ます……んんっ！！」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204113" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "狭い入口を亀頭にこすりつけながら、\n本庄さんが腰を落して来た。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「うっ……ああっ……！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "パンパンに張りつめた亀頭を、\n熱く熟れた膣壁が強く刺激してくる。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「んっ、あっ、あああ……、すごい……委員長の固い肉棒が、\n　いっぱい入って……くっ、あっ、んんんっ！」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204114" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんの全身が大きく震えた。その振動が中の逸物にまで\n伝わってきて、俺の全身も総毛立つような快感に包まれた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「はぅ、んっ……すご、い……奧まで届いてます、はぅ……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204115" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんが腰を回すように動かす。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「ううっ！　それ、先っぽがこすれて……ヤバイ……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「んううっ、私も、たまらないです……、んあっ、あああっ、\n　これ、気持ちよすぎ、て……あああっ♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204116" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "奥が気持ちいいらしく、本庄さんは思いきり腰を押しつけて\n来る。本庄さんの体重が、ほとんど股間に乗っかっていた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "そのせいで、亀頭がひしゃげるんじゃないかと思うほどの\n力がかかっている。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「本庄さん……くうっ……！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「ひんっ、ああっ、奥にグリグリ当たってます……、\n　んっあ、んんんんっ♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204117" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "いやらしい声を上げながら、\n本庄さんはますます強く腰を押しつけて来た。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「ひゃんっ、んふっ、んんっ、ああああっ♪委員長の陰茎が、\n　お腹の奧にズンズン響いて……んあぁ、こんなに奥まで来てます……\n　はううっ！」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204118" ]},
+        {"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+        {"command":[ "PLAYANIM", "0", "ev297_02b_0000", "ev297_02b_0023", "true", "ALL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんの声が大きくなるのとともに、\nその動きもさらに大きくなっていく。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「あう、本庄さん、うう……っ！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "奥の壁の凹凸が尿道口をえぐるようにこすり、\nゾクゾクするような快感が股間から全身へと広がって行く。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "その快感に押されるように、\n俺も本庄さんを思いきり突き上げた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「んっ、ああっ、委員長……、ひうっ、ふぁあ、ああっ、\n　すごい、お腹の奧がビンビン響いてます……あああっ♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204119" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「俺も、アソコがしびれてる……、ううっ！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "ふいに襲ってくる鋭い刺激に、腰が激しく弾む。\nその拍子に、先端が本庄さんの奥を強く突いた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「ひうううっ！？　や、ああっ、気持ちいい、ああっ……♪\n　委員長の陰茎、すごく気持ちいいですっ……、ひゃうう♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204120" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんが俺の腰の上で大きく尻を弾ませる。\nそのたびに奧の壁がズンズンと先端に当たっていた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「すごい、委員長の陰茎が、子宮にズンズン響いてます……\n　あんっ、ああっ、あっ♪　お腹の奥で、太鼓が鳴ってるみたいに……\n　ビンビン響いて……んんっ、ひゃうう……♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204121" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "逸物を縦に叩きつけられるような刺激は、\nズンズンと腰にまで響いてきた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「う、あうっ……、そんな、本庄さん……激しく……、\n　あああっ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「すみませ、ん……でも腰、止められないです……、\n　ひぐっ、んっ、ふぁぁんっ♪　委員長の肉棒、すごく固くて\n　太くて……あっ、あああっ、はううううっ♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204122" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんの全身が、上下に激しく揺れている。その胸元で、\nボリュームのある膨らみが、やはり激しく上下に揺れていた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「ひゃんっ！？　ああっ、あっ……\n　おっぱいも、気持ちいい……ひううっ！！」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204123" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "大きく揺れる胸が、そのたび俺の胸にこすれる。\n先端で、乳首がツンと勃起していた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「本庄さんの乳首、すごい勃ってる……、うぅ！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "固くなった乳首が俺の胸にこすれ、\nその刺激がくすぐったいような快感を与えてくる。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「私、気持ちっ、いいですっ……、ひあっ、あああっ、乳首、\n　すごい敏感になってて……だから、すごく感じちゃいます\n　……んひっ、ああああっ♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204124" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "乳首が俺にこすれるたび、\n本庄さんはビクッ、ビクッと全身を痙攣させる。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETANIMSPEED", "0", "FAST" ]},
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「ひゃうっ、やっ、あああ……感じすぎ、ちゃう……ひぐっ、\n　んんんんっ♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204125" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「そんなに気持ちいいんだ？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「気持ちいいです……だって、乳首も、オマ○コも、\n　同時に刺激されてて……んんっ……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204126" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「だって、本庄さんが自分からこすりつけて来てるから」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「それは……体が勝手に動いて……ふぁう、ひううっ♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204127" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんの奥が、一層強くうねった。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「く、ううっ……、本庄さんの中、またすごくキツく……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "搾り上げるような膣の動きに、固く漲った怒張が、\nさらに固くなっていくのがわかった。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「はうっ、ああっ……苦しいです、んんっ……私のオマ○コ、\n　委員長の陰茎でもういっぱいなのに……あっ、ああ……、\n　まだ大きくなって……、そんなに入らない……はうう！」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204128" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「くう, ああぁ……ホントに、本庄さんの中、\n　いっぱいいっぱいになってる……ううっ！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "結合部が、少しの隙間もないほどに密着していた。\n一体感がさらに強くなり、本当に本庄さんと１つに\nなってしまったかのような感覚に陥る。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「あふっ、んっ……あああああっ♪　もう、ダメです、私……\n　もう、イッちゃいます……ひぐうううっ♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204129" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんの中で、快感が大きく膨れあがっていくのが、\n俺の逸物にも伝わってきた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「う、う……本庄さん、俺も、もう……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "俺も、急激に射精の予感が高まってくるのを感じた。\nもう長くは持たなそうだ。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「んっ、イッて、ください……、私の中に、委員長の白濁液、\n　いっぱい出して、欲しいです……んんうっ！」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204130" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんが、射精をねだるように、\n一層強く体を押しつけて来た。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「う、く、本庄さん……ううっ！！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "俺も、一層強く本庄さんを抱きしめる。\n結合部だけでなく、全身が強く密着していた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "汗だらけの全身はヌルヌルになっていて、\nまるで全身が性器になってしまったかのように、体中が敏感になっている。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "その全身と、さらに敏感な性器をこすり合わせながら、\n俺たちはどんどん高まって行った。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「あふっ、あっ、ふぁっ、あっ、んんあああっ♪\n　子宮に固い肉棒が、いっぱい当たってます……ひぐっ、\n　ああっ、イッちゃう……もう、イッちゃいます……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204131" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「俺も、もう……、本庄さん、一緒に……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「はいっ、一緒にイキます……委員長と一緒に気持ち良く、\n　なります……ひんっ、あっ、あああっ、んんんんっ！！」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204132" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんの中が、強烈に締まった。\n限界まで敏感になった怒張が強くこすれる。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「くっ、本庄さん……、うううっ！！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「あっ、ああ、委員長……んっ、あっ、あああっ……！」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204133" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETIMAGE", "0", "still_00029702_02_04" ]},
+        {"command":[ "STOPANIM", "0" ]},
+        {"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+        {"command":[ "SETTEXT", "「ああああああああああああああああああああっ♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204134" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんがイクのと同時に、俺も本庄さんの奥で射精した。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「くっ、本庄さん……、ああっ！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「ひゃんっ、ああぁ、出てますっ……熱い精液が、\n　私の中に出てますぅ……あああ……♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204135" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「まだ、出る……ううっ！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "体を搾り上げるようにして、さらに思いきり射精する。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「んっ、ああっ！　まだ出てますっ……、\n　委員長の白濁液、子宮にいっぱい、当たってます……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204136" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「あふっ、あああっ……委員長の陰茎、中でビクビクって\n　してるの、わかります……んっ、あっ、あああああっ♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204137" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "体の奧に勢いよく射精され、\n本庄さんは全身を痙攣しながら絶頂している。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "熱いぬかるみのようになった蜜壺に搾り上げられながら、\n俺は最後の一滴まで本庄さんの中にすべて吐き出した。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETIMAGE", "0", "still_00029702_02_05" ]},
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「あふ、んっ……あっあぁ、んあぁぁ……♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204138" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "俺の射精が終わっても、\n本庄さんはまだ断続的に浅い絶頂を繰り返している。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「あうっ、本庄さんの中、まだ締まってる……、ううっ！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「は、い……ああ、委員長の、も……まだ中で\n　ヒクヒクしてます……、ひんっ、んっ、あああ……♪」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204139" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんの体の奧が強く震えた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "その膣圧に押し出されるようにして、今放ったばかりの\n精液がいやらしい音を立てながら溢れ出して来た。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「やん、あぁ……、委員長の精子が、溢れて……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204140" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「うう……、本庄さんがまだ締め付けて来るから」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「委員長がいっぱい、出しすぎるからです……はぁ」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204141" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "本庄さんが、ようやく少し落ち着いたように息を吐いた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「ん、あぁ……、アソコ、まだジンジンしてます……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204142" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「俺だって……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "あまり激しくしすぎたのか、逸物がジンジン痺れている。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「本庄さんがあんまり激しくするから」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「委員長だって、獣みたいでしたよ……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204143" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "どうやらお互い様らしい。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「でも、いいですよね……。今日はお祭、ですし」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204144" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「お祭だといいんだ？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「お祭は、ハレとケで言う、ハレですから……\n　１年のケガレを払う日……です……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204145" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「逆に、よけい穢れたような気がしなくもないけど」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "ケガレをたっぷり吐き出したことで、\n払ったことになるのかな？", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "ふと静かになると、\n遠くから祭の喧噪が小さく聞こえて来た。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「あ、太鼓が……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204146" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "微かに聞こえる太鼓の音に、本庄さんが反応する。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「うっ……、本庄さんの中, またヒクヒクしてきた？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「太鼓の音に、条件反射で反応しちゃってるみたいです」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204147" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「まさか、また興奮して来たとか？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「はい……委員長は、違うんですか？」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204148" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "萎えかけた逸物をキュッと締め付けながら訊いて来る。\nまだ本庄さんの中のモノは、たちまち力を取り戻し始める。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "あなた" ]},
+        {"command":[ "SETTEXT", "「いや、違わないかも」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "そう答えると、本庄さんがいやらしい笑みを浮かべた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "翡翠" ]},
+        {"command":[ "SETTEXT", "「じゃあ、もう１回……」", "NORMAL" ]},
+        {"command":[ "PLAYVOICE", "v2_297_0204149" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "" ]},
+        {"command":[ "SETTEXT", "そう囁きながら体を押しつけてくる本庄さんを、\n俺もまた強く抱きしめた。お祭は、まだ当分終わらないみたいだ……。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+        {"command":[ "EXIT" ]}
+    ]
+}

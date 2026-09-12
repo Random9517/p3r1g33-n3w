@@ -1,0 +1,333 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0028" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00034001_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev340_01b_0000", "ev340_01b_0023" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「――ああ、まだドキドキするわ」", "NORMAL" ]},
+		{"command":[ "SETCHARA", "0", "char_00034001_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「そうなの？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「当たり前よ。だって大勢の人の前でずっと裸で立っていたのよ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「みんなが私の裸を見てるんだと思うと、胸が高鳴る一方だったわ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "落ち着いていたように見えてもやっぱり内心はそんな気持ちだったのか……。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「すっかり疲れてしまったわ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「なんなら、うちで休んでいく？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「そうね、今日は遅くなっても平気だし、少しお邪魔しようかしら」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "その日は運がいいのか悪いのか、唯も美佐子さんも家を空けていた。", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0205" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "そうなってくると、舞ちゃんの心持ちも変わってくるのか", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "しばらくは和やかにお茶を飲みながら話をしていたのだが……。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「――ねえ、あなたは私の裸を見ながら、何を考えていたの？」", "NORMAL" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPIMAGE","0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「何をって……、舞ちゃんの身体って綺麗だなって」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「本当にそれだけ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「それだけだよ……。そりゃあ、少しは、ほんの少しはドキドキしたけどさ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「私ね、私はね、すごくドキドキしてたの。\n　終わって着替える時、少し濡れていたのに気づいたわ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "そう言って俺に身体を寄せる舞ちゃん。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "正直、どうかしちゃってるとも思ったけれど、舞ちゃんはもう止まらなかった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「――あっ、んっ、んあっ」", "NORMAL" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev340_01b_0000", "ev340_01b_0023", "true", "ALL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「舞ちゃん、本当にずっと濡れてたの？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「ええ……、自分でもびっくりするくらいずっと下半身が熱くて……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "部屋の中が肌を重ねる空気になると舞ちゃんはヌードモデルの時と同じように\n躊躇なくスルスルと着ている服を脱いだ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "あの時と違うのは、大切な部分を何も隠さず、部屋の中に立っていたこと。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "そして、はにかみながら俺の服を脱がしていき、\n全裸になったところで抱きつき、キスをしてきた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「もし、この家にご家族がいたら、私はあなたに見送りを頼んで\n　その途中であなたを誘っていたわ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "舞ちゃんの口からそんな大胆な言葉が出るほど彼女の身体は火照っていて\n抱きつかれた時、その身体の熱さに驚いた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "そして、舞ちゃんとキスをしながら彼女の身体を愛撫し股間に\n手を伸ばした時、そこは既に愛液が滴り落ちてきそうな程に濡れていた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "舞ちゃんは、すっかり硬くなっていた俺のモノを掴み、\n先端を細い指で撫でるとするりと俺から離れ、", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "ベッドに倒れ込むと、誘うような瞳で手を伸ばしてきた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "俺はそのまま彼女の脚を抱え、股を開かせると、その間に割って入り、", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "確認も取らないまま、ずぶりと肉棒を彼女の濡れそぼった秘部に突き立てた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「……ん、あ、あふぅ……、んく、あなたのって……、熱くて大きいわ……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "舞ちゃんの中は、時間をかけて愛撫したかのように濡れており\n俺のモノをあっという間に飲み込んで、絡みついてきた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「んっ……、あふ……、んあ……、んっ、あっ、気持ちいい……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "舞ちゃんは自分で腰を動かしながら俺のモノが膣内を掻き回す感触を\n楽しんでいた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「んっ、あっ、んっ、いい……、気持ちいいわ……、んっ、あっ、んくっ……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「ずっと……、ずっとあなたのを感じたかったのよ……？ \n　んっ……、ん、ん……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「デッサン中、私があなたのことずっと見てたの、気づいた？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「……く、ん、見られてるなと思ってたけど、やっぱりそうだったのか……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「私、あなたがてっきり私の裸をエッチな目で見るものだとばかり思ってたけど」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「あなたは案外真面目な顔で一生懸命私の身体を見て、絵を描いていたわ……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「それが、逆に私の胸を高鳴らせたの……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「んっ……、あふ……、んく、\n　あなたのひたむきに絵に打ち込む表情を見て……んあっ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「素敵だなって思って……、んっ、あっ……、\n　なんだか、嬉しくなっちゃって……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「ん、あっ、んく……、\n　どんどん私の裸を見て……って気分になっていったの……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "舞ちゃんは俺の身体を撫でながら、俺の顔を見つめる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「はぁ, ふぅ, はぁ……、ずっとそんなことを考えていた私って変かしら……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「ううん、変よね……。ヌードになったのは芸術のため、絵の鍛錬のためなのに」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「私はずっとあなたと愛し合うことばかり考えていたの……。んっ、あふ……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「私は、モデル失格ね……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「そんなことはないさ……。芸術は……くっ、自己を表現するための手段だ……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「恋愛感情も、劣情も……全部ひっくるめて芸術だよ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「ふふ、あなたって、すぐそうやってうまいことを言うんだから……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「んっ、あっ、んく……そこ、気持ちいい……、\n　んあっ、そこ、感じちゃう……っ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "舞ちゃんが長い髪を振り乱しながら身体を捩る。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「いい……、んく、気持ちいいわ。あふ……、もっと、んあっ、もっと強く……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「舞ちゃん……、んっ、俺、も、もう……。\n　舞ちゃんがあまりにも激しいから……っ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「嬉しいわ……、私で気持ちよくなってくれて……、んっ、\n　いいわ、そのまま、来て……っ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「んっ、くぅ……、舞ちゃん、出すよ……。\n　舞ちゃんの中に全部……、んっ、んあ、出るっ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「んっ、ううっ……、んああっ！ ああ、あ……くぅ」", "NORMAL" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEIN", "NORMAL" ,"WHITE" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "DISPIMAGE","0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ……、熱いのがいっぱい出てる……っ、\n　んあっ、ああ……、気持ちいい……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "舞ちゃんが俺の射精と同時に身体をびくんびくんと痙攣させる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "その後、しばらく余韻を感じながらも、\n身体を痙攣させていたので何度も絶頂を迎えていたのだろう。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "そんなに感じてもらえたなんて嬉しいことこの上ない……。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「――ところで、あなたの絵をまだ見てないわ」", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0206" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「え、見ない方がいいんじゃないかな……？ はは……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「なあに？ そんなにひどいの？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「そういう訳じゃないけど……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "俺は仕方なく舞ちゃんにスケッチブックを渡す。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「……あなたからは私がこんな風に見えたのね？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "「あんまり見ないでくれよ。恥ずかしい……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「いいじゃない、素敵よ。上手いとは言いづらいけど……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "舞" ]},
+		{"command":[ "SETTEXT", "「私、この絵を見て嬉しい気持ちになったわ。あなたの……愛を感じるわ。\n　今度は、１対１で描いてもらおうかしら……？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "主人公" ]},
+		{"command":[ "SETTEXT", "舞ちゃんはそう言って俺に抱きつくと、感触の一つ一つを\nゆっくりと味わうように丁寧で優しいキスをしてくるのだった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

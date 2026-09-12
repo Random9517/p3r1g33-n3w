@@ -1,0 +1,474 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0004" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00001412_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev014_12b_0000", "ev014_12b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETCHARA", "0", "char_00001401_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「お邪魔します。あ……押しかけるような形になってすみません。でも……\n　どうしても、二人きりで見てもらいたいものがあって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETCHARA", "0", "char_00001401_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「よろしいですか？　ちょっと恥ずかしいんですけど……失礼しますね。\n　んっ……しょっと……んっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETCHARA", "0", "char_00001412_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「……いかがですか？　はい……ビキニです。それも金色の……どうでしょうか\n　……に、似合ってますか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETCHARA", "0", "char_00001412_01", "8", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「あ……よかったです……ふふっ、少し大胆かも知れませんけど、貴方に見て\n　欲しくて、頑張っちゃいました」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETCHARA", "0", "char_00001412_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「どうされました？　ドキドキしちゃってますか？　このビキニから目が離せ\n　なくなっていますよね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETCHARA", "0", "char_00001412_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「そうですよ……この魅力的な身体の前に、逆らうことなんか出来ないんです\n　から……貴方の欲望……曝け出しちゃいましょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_01" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETTEXT", "「あんっ……！　あぁ……もう、オチンポ……そんなにガチガチにさせて……\n　待ち切れないみたいですね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「いいですよ……ふふっ、私に魅了されてしまったんですから……さあ、いっ\n　ぱい気持ちよくなっちゃいましょう……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_06" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETTEXT", "「はぁぁぁぁんっ……！　あぁぁっ……オチンポ……中に……オマンコに入って\n　……来ますっ……んんぅぅんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_04" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETTEXT", "「んふっ……もう、ヌルヌルになってるの……分かりますか？　私も……期待\n　しちゃってたんです……んぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_05" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETTEXT", "「はい……お好きなように動いて下さい。貴方の欲望……全部受け止めちゃい\n　ますから……はぁっ、うんっ……んぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev014_12b_0000", "ev014_12b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「んくぁ……あぁ……大きいです……こんな太いのが……私のオマンコ……\n　出たり入ったりしちゃってます……はひぃ……すごいのぉ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「こんなぶっといオチンポで……オマンコの中……グリグリされたらぁ……\n　はふぅっ、頭の中……真っ白になっちゃいますぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「うんっ、んんっ、んはっ、あぁっ……ピストンがすごいっ……くふぅっ、\n　あぁっ、お汁が……どんどん溢れちゃいます……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「んっ、ヌルヌルの感じ……分かりますか？　んふっ、そこぉっ、オチンポの\n　先端で……もっとしっかり味わって下さい……はぁんっ、それぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「あぁぉっ！　そこっ、きゃふっ！　子宮の入り口に……ぐりってされたらぁ\n　っ、あひっ、こ、声が出ちゃいますっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「んぁぁっ、あぁっ、もっと掻き回してっ、はひぃっ、あっ、いいっ、いいで\n　すぅっ！　んぁっ、あぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はぁっ、あぁっ、カリが当たってますっ……オマンコ……引きずられてっ、\n　くひぃんっ、抉られるのっ……堪らないっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はぁ……んっ、おっぱいも……んっ、はい……お好きになさって下さい……\n　このおっぱいも、もちろん貴方のモノですからぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「あぁっ、乳首……ぎゅって引っ張られてぇ……あんっ、先っぽ、コリコリ\n　転がされたらぁっ……か、感じ過ぎちゃいますからぁっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「ふっ、はっ、んくっ……あぁ……聞こえますか？　グチョグチョ……はした\n　ない音がオマンコからぁ……なんていやらしい……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はい……私から鳴ってるドスケベな……オマンコの音ぉ……貴方のオチンポ\n　でアヒアヒさせられてますぅっ……んぁぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「くぅぅぅんっ……！　一番気持ちいいところに届いてる……あぁぁ……私の\n　弱い場所……的確に突き回されてっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はぁっ、あぁっ……んぁぁっ！　熱くなってます……からだぁ……あぁっ、\n　オマンコ熱いの……はひいっ、あひっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「そこぉっ、あぁっ、もっと……オチンポ突いて下さいっ！　あひぉっ！\n　オチンポそこぉっ！　あぉっ、おぉっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「ふふっ……んっ、私も……一方的にされるばかりじゃありませんよ……？\n　ちゃんと反撃もしちゃいますから……んんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「ほら……ほらっ……んっ、お肉がキュンって絡みつく感じ……分かりますよ\n　ね？　他では味わえない……オマンコの締め付け……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「もっともっと、たーっぷり堪能して下さい……んっ、ふぅぅんっ……あはっ、\n　色っぽい吐息……漏れちゃってますね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「んっ、首筋に……鼻息が掛かって……ゾクゾクしちゃいます……んっ、\n　んふぅっ……オチンポもだんだん余裕がなくなって来てませんか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「もし出したくなったら……いつでも我慢しないでいっぱいピュッピュして\n　いいですからね……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あんっ！　あふっ……あぁっ、またオチンポのピストン……速くなって……\n　本気でサカって来てますぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はぁっ、あっ、あぁっ……いいっ、オマンコいいですっ！　このままされ\n　たら、私も……もうすぐイッちゃいますからっ、んぁぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はひっ、出してっ……出して下さいっ……中っ……子宮に直接流し込んで\n　欲しいですっ……貴方の濃いザーメンっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「どっぷり……濃いのっ、種付けしてっ……あぁっ、ビキニの私を孕ませてっ\n　……あぁっ、気持ちいいっ……も、もうっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はひっ、イキますっ！　オマンコもイキますからぁっ……！　出して\n　下さいっ、熱いのっ、ドピュって出してぇぇっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_09" ]},
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「んくぅぅぅぅぅぅんっ……！　あぁぁ……出てますっ……熱いの……んふぅっ\n　……いっぱい……出て……ますぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はぁぁ……あぁ……すごい量……溢れてるのに……まだ、ドプって……欲望\n　まみれのザーメン……すごすぎぃ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はふぅ……オマンコ……いっぱいで嬉しいです……んふぅ……種付けありが\n　とうございます……はへぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_07" ]},
+		{"command":[ "SETTEXT", "「んっ、あぁ……射精終わりましたか？　はい……お疲れ様でした……ふふっ、\n　気持ちよさそうな顔……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「私のオマンコ……堪能して頂けましたか？　はい……何よりです。貴方に\n　尽くすことが出来て……私もとっても嬉しいです……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「それにしても……予想以上の効果だったわ。魔性のビキニと言われるだけの\n　効果がある……こんなに夢中になってくれるなんて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_08" ]},
+		{"command":[ "SETTEXT", "「えっ？　まだ、全然足りない……？　はい、それはもう……続きを……\n　きゃっ！？　んぁっ、あぁっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "PLAYANIM", "0", "ev014_12b_0000", "ev014_12b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「あっ……のっ、はぁっ、んぁっ！　くっ、んぅっ！　あっ、さ、さっきより\n　……オチンポの勢いが……強くなって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「んふっ、くぅっ、んんぅっ！　あっ、あぁっ……！　すごい……イ、イッた\n　ばかりのオマンコの……弱いとこぉ……ぐりって……あっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はっ、んぁっ、あっ、あぁんっ！　ちょ、ちょっと……待って下さい……\n　い、一旦、ペースを緩めて頂けると、嬉しいのですが……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「そうでないと……んっ、す、すぐにまた……イッてしまいそうで……あっ、\n　ふっ……オチンポ……逞しすぎて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「オマンコ……我慢できなくなっちゃいますから……んひぁっ！？　な、何回\n　でもイケばいいっ……？　そっ、それはっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「ひぅんっ！　あっ、あぁっ……でもっ、こんなに強いのはっ、はぁっ、\n　ズボズボされたらぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「ひっ、イグっ……あひぁっ、オマンコ続けてイキますっ、あぁっ、オチンポ\n　激しすぎてっ、イグっ！　あひぉっ、イグぅぅぅぅんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はぁっ、はぁっ……んっ、あぁぁ……イ、イッた……イキましたぁ……！　\n　あっ、な、なのにっ、ま、まだ……オチンポとまりゃにゃっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「ひっ、はひぃんっ！　らめっ、今……ジンジンするのっ、らめれすっ！\n　オマンコ……イキッぱなしなのに……おっぱいもなんてっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「先っぽ……摘んで、コリコリされたらぁっ……はひぁっ！　またイグっ、\n　おぉぉっ！　イクっ……んひぃんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「はぁぁ……も、もしかして……このビキニが暴走させてしまってる……\n　ぬ、脱がなきゃ……あぁっ、でも……止まらな……ひぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「あおっ、おぉぉんっ！　一番深いところっ……！　あぁっ、は、はいっ、\n　私のオマンコっ弱いですっ！　オチンポに完全に負けちゃいますぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「いっぱい、いっぱい感じてますっ！　貴方のオチンポに分からされてっ、\n　腰がガクガクしてっ、身体……ビクビク跳ねてますからぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「あっ、あぁぁ……だからっ、許して下さい……んっ、もっと、喜んでもらえ\n　るように、一生懸命締め付けますから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「んっ、あぁっ……ちゃんと射精して頂けるように……お尽くししますから\n　……あっ、はぁっ、んぁぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「はぁっ、あぁっ……またイキますっ！　貴方にメロメロにされたチョロ過ぎ\n　オマンコっ！　オチンポに完全屈服しちゃいますぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はぁっ、あぁっ、また出ちゃうんですねっ？　射精っ……あぁっ、お願いし\n　ますっ……どこでも……好きに出して下さいっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「あぁっ、私も……ずっとイッてますからっ！　ひぃんっ！　またっ……\n　イグっ……イグぅぅぅぅぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204220" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+		
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_12" ]},
+		{"command":[ "SETTEXT", "「んへぁぁぁっ……またっ……なかぁ……どぷって……はひゅっ、出て……\n　ひっ、はひぃぃぃぃん……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「らめ……オマンコ……いっぱいなのに……また、濃いのが流れてきて……\n　気持ちよすぎぃ……はひぃぃぃ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「あぁ……奥深くまで種付けされてる……こんなに出されたら、絶対妊娠しち\n　ゃうのに……んはぁぁぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「んくぅ……オチンポ……ずっと脈打ってます……はぁぁ……密着した身体が\n　熱くて……ビキニが汗でじっとりしちゃう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「はっ……ふっ……精液……溢れて来ちゃう……もう入り切らない分が……\n　隙間からドロっと……出て……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_11" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……と、止まった……お、終わりましたか？　あ、あの……\n　えっ……ちょっ、ね、寝ちゃってる……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_10" ]},
+		{"command":[ "SETTEXT", "「もしかして、ビキニの力が強すぎて……色々暴走しちゃったのかも……\n　あぁぅ……わ、私も……な、なんて恥ずかしいことを……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「多分、ビキニがずれて……そのお陰で、元に戻れたのかな……、ちょっと\n　やり過ぎだったかも……んっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「それはそれとして……まだ、オチンポが埋まったままなの……どうしよう\n　……あの、起きてくれませんか……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_11" ]},
+		{"command":[ "SETTEXT", "「あぁ……まだ、オマンコがムズムズしちゃう……うぅ……やっぱりやり過ぎ\n　だったわ……これぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_15" ]},
+		{"command":[ "SETTEXT", "「ひぁぁぁぁんっ！　あぁっ、オチンポ……抜けてっ……あっ、浴びてるっ\n　……精液っ……出されてぇっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「あぁ……熱い……すごい量が……身体にも掛かってぇ……はぁぁっ、イク\n　……んっ、オチンポ抜けてるのに……オマンコまだイクぅ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「んはぁ……あふぅ……すごい匂い……んっ、吸い込んだら……発情させられ\n　ちゃうような……ビキニにも染み込んでいくの……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_14" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……支配されちゃう……んっ、これが、ゴールデンビキニの\n　本当の力……？　あぁ……私……何もかも言いなりに……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_13" ]},
+		{"command":[ "SETTEXT", "「んぁっ……あふっ……はぁ……あぁ……射精……止まり……ました。\n　終わり……ですよね？　あ、あの……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「えと……ぐったりされてますけど……だ、大丈夫ですか？　あ……ね、寝て\n　……しまってる……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_14" ]},
+		{"command":[ "SETTEXT", "「これ……ビキニの力が強すぎて……色々やり過ぎてしまったのかも……\n　あぁっ……い、今になって……急に恥ずかしく……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「で、でも……すごかった……。こんな風にされたことなかったから……\n　もう少しコントロール出来たら……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001412_02_13" ]},
+		{"command":[ "SETTEXT", "「んっ……それにしても、身体が密着したままなんだけど……ど、どうしたら\n　いいのかしら……」」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "十五夜まりあ" ]},
+		{"command":[ "SETTEXT", "「あぅ……気持ちよさそうな寝息まで立てて……私……もしかして、もうしば\n　らくこのまま……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_014_1204410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

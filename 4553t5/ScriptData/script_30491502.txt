@@ -1,0 +1,488 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0149" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00004915_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev049_15b_0000", "ev049_15b_0023" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETCHARA", "0", "char_00004901_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「……今、少しいいか？　その、この前は助かった。君がいなければ、私は\n　あのままずっとあそこで強制労働させられるところだった」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETCHARA", "0", "char_00004901_01", "4", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「君のおかげで、こうしてまたいつもの日常を過ごすことができている。感謝\n　しているよ。私にできることなら、なんでもしよう」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETCHARA", "0", "char_00004901_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「え？　それは、その……うう……君がお願いするなら……ええい、誠意は\n　言葉ではなく行動だと、そう言うんだな！！　分かった、少し待っててくれ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETCHARA", "0", "char_00004915_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「き、着替えてきたぞ……これでいいんだな。改めてこの格好をすると、なん\n　というか、気恥ずかしいな……君の前だと特に」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETCHARA", "0", "char_00004915_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「そ、それで、どうするんだ？　わ、私が上に？　分かった……えっと、こう\n　か？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_01" ]},
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「う……あ……オチンポがこんなに……私の、格好でこうなってるんだな……\n　なんというか……凄いな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_03" ]},
+		{"command":[ "SETTEXT", "「ああ、こうしてるだけで君の興奮が伝わってくるようだ。オチンポがバキバ\n　キに硬くなってて、熱くて、震えてて……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_03" ]},
+		{"command":[ "SETTEXT", "「上から入れればいいんだな……んんっ、ふっ、あっ……入って、来た……\n　んうっ、ふうっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_06" ]},
+		{"command":[ "SETTEXT", "「んうっ、ふっ、私の中に、君のオチンポが……んんっ、あんっ、あっ、んう\n　っ、待って、今、動くから……んっ、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev049_15b_0000", "ev049_15b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「んうっ、んっ、あんっ、ああっ、こう、動けばいいのか？　んっ、ふっ、\n　あんっ、下から、動かされたら、んんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「腰、うまく動かせない、んっ、はあっ、こう、こうだな、んっ、オマンコの\n　中で、オチンポが震えてるのがわかる、きゃっ、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「急に下から、んっ、ふうっ、動かされたら、また腰が、んんっ、この状態で\n　もちゃんと動けって……んんっ、あっ、あうっ、くっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「分かった、ちゃんと、ちゃんとやるから、あんっ！！　んっ、んうっ、こう、\n　こうすればいいんだろう？　ふううっ、あんっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「あっ、これ、君のオチンポが下からぐりぐりって私の奥を、んっ、ああっ、\n　これ、私も気持ちいい、んっ、あんっ、ああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「ふうっ、ふっ、分かってる、君も気持ちよくする、頑張って、んっ、ああっ、\n　あんっ、あっ、ふうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「少し、慣れてきた……んっんっんっ、こう、こうすればいいんだろう、ふう\n　うっ、あっ、あんっ、んんっ、うっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「ふふっ、君も気持ちよさそうな顔になってきているな……んっ、ふっ、あん\n　っ、んっ、もっと、もっと気持ちよくなってくれ……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「私のオマンコで、気持ちよくなってくれ……んっ、あっ、ふううううっ！！\n　これは、お礼でもあるからな……あっ、くっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「もっとお礼が欲しいって、どうやったら……んっ、あんっ、あっ、うさぎ\n　みたいに跳ねてくれって、こうか、んっ、あっ、んんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「腰がぴょんぴょんって、んっ、あっ、オチンポが奥まで……あっ、ああっ、\n　あんっ、あっ、んっんっんっ、これ、奥が何回も……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「んふうっ、んっ、あっ、あああっ、これ、これでいいんだなっ、んくうっ、\n　はっ、あっ、私のオマンコも、きゅっきゅってなってる……ふうううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「ふっ、うっ、んっ、んんんっ！！　腰、跳ねて……あんっ、あっ、奥まで\n　勢いよく小突かれてる、あんっ、ああああっ、あくうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「んんっ、うっ、君のオチンポも、んうっ、気持ちよさそうだ……ふううっ、\n　んっ、あんっ、ああっ、また、下から……ふああああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「あんっ、あっ、もっと、うさぎっぽくって……どうやったら、んんっ、あっ、\n　んっ！！　喋り方……？　んうっ、はっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「それって、もしかして……あんっ、ああっ、あっあっあっ、わかった、わか\n　ったから、下からゴンゴン突かないで……んうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「言う……言うから、んっ……私の腰使いで、んんっ、君を気持ちよくして\n　あげる……ぴょん！！　うう、恥ずかしい……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「あんっ、んっ、恥ずかしさでオマンコが締まってるって、そんな、そんなの、\n　んっ、あっ、そんなの知らない、ぴょん、んんんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「ううううう、こんな恥ずかしい真似をさせて、酷い男だぴょん！！　君は、\n　私を辱めて……んんっ、あっ、あくうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「た、助けてもらったことは感謝してる……ぴょん！！　でも、こんな風に\n　……んんっ、あっ、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「その割には気持ちよさそうって……それは、君のオチンポが……んっ、あう\n　っ、あっ、んくっ、はあああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「言う！！　言うから、オチンポ動かさないで、あんっ！！　君のオチンポが\n　気持ち良すぎるから、太くて、硬くて、ごりごりって、私の中、あうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「私の中、こすってくるから、こんな顔になっちゃう！！　なっちゃうぴょん\n　！！　うんんんっ、んっ、ああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「腰だって、こんな、うさぎみたいに跳ねて、ふううっ、君のオチンポ、もっ\n　ともっとっておねだりしちゃう、んんっ、あああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あっあっあっ、オマンコも、切なくて何回もオチンポにキスして、んんっ、\n　おねだりしちゃってる、ぴょん！！　ふあああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「んんっ、うっ、あっ、ダメ、ダメだ、もうダメ、イく、イく、イっく、君の\n　オチンポでイっく！！　ふううううっ、あんっ、ああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_09" ]},
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「イっくううううううううううううううううううううううっ！！　んんんんっ、\n　中に、オチンポから注がれてる、んんんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「ふううううっ、精液、どくどくって、オマンコの中、いっぱいに……んんっ、\n　はっ、あっ……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_08" ]},
+		{"command":[ "SETTEXT", "「熱い……気持ちいい……んっ、ふっ、こんなに、出されてる感覚が分かる\n　なんて……奥に、亀頭がごりごりって、どくどくって……あふうっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「んんっ、ふっ……はっ……満たされてる……んっ、くっ……君も、気持ち\n　良かったんだな……こんなに出してくれて……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_09" ]},
+		{"command":[ "SETTEXT", "「私の身体でお礼……できたようでよかったよ。んんっ、ふっ、君のオチンポ\n　も満足できたみたいだしね……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「んっ、あっ、ふっ、ああっ！！　なんで、出したのに、またオチンポが硬く\n　……んくうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_08" ]},
+		{"command":[ "SETTEXT", "「一回で終わるわけがないって、そんな、あんっ、あっ、あっあっあっ、ダメ、\n　さっきイったばかりなのに、んんっ、ふううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev049_15b_0000", "ev049_15b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「んくうっ、あっ、んっ、わかった、動く、動くから、オチンポでごつごつ\n　するの、止めて、あっあっあっ、んくうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「ほら、こうして腰、動かしてる、ぴょん！！　あくうっ、はっ、あっ、さっ\n　き出したもので、ぬるぬるって、ふううううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「オチンポ、熱くなって、ふうううっ、滑ってくる、ぴょん！！　あうっ、く\n　うううっ、んくうっ、私の奥が、下から突き上げられて……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「んうっ、あっ、あんっ、はっ、んんっ、オマンコ、ぬるぬるになったオマン\n　コ、ぎゅっぎゅって締めつけてしまう……あうっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「腰、腰が勝手に動いてしまうぴょん！！　ふあああっ、はあっ、あっ、あん\n　っ、ああああああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「気持ちいい、君のオチンポ、気持ちいいっ！！　んんっ、あっ、はあっ、\n　ふうっ、んんんんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「さっきイったばかりだから、オマンコがじんじんして、オチンポでぐちゅぐ\n　ちゅにかき混ぜられて、あふうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「お腹の奥が、ずっと気持ちいい……ひうっ、あんっ、んんっ、分かってる、\n　から、あっ、気持ちいい、ぴょん！！　んくっ、うっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「なんで、こんな喋り方で、オチンポ硬くしてるんだ、君は！！　あんっ、\n　分かったから、オチンポで怒らないで、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「なんで、硬くしてるぴょん！！　ひうううっ！！　言っても言わなくても\n　オチンポで突いてくる、じゃないか、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んっんっんっ、私の腰も動いてるって、そんなの、当たり前……ぴょん！！\n　こんなにオチンポで気持ちよくされたら、動いちゃう、んうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「あああっ、んっ、ううっ、腰と、オチンポの動きが、合わさって……んっ、\n　あっ、あんっ、あっあっあっ、オマンコ、溶けちゃう！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「私のオマンコ、オチンポで溶かされちゃう、あああっ、ひうっ、ぐりぐり\n　ダメっ、ぐりぐりするのダメ……ダメぴょん！！　ひああああああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「お腹の奥、下からこねたらダメっ、あああっ、あんっ、うっ、ふああああっ\n　！！　オマンコが、きゅっきゅって締めつけて……んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「オチンポの形、わかって、ごりごりってこすってるのも、んくうっ！！\n　伝わって……はっ、あっ、んっ、腰、激しくなっちゃう、あうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「んうっ、ふっ、あっ、オチンポが、また熱くなってる……出すんだな、\n　私の中に、出すんだなっ！！　んんっ、いいぞ、いっぱい、出してくれ\n　……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「私も、またイくから……イく、ぴょん！！　ひあああっ、腰、動かしてるの\n　に、下から動いたら、あっ、ダメ、ダメ、ダメダメダメっ！！　ひああっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「ああ、イく、イく、また君のオチンポでイっちゃう、イっく、んんんんんん\n　んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_11" ]},
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「ふうううううううううっ！！　また、一杯でてる……お腹の中、一杯だ……\n　ぴょん。んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_12" ]},
+		{"command":[ "SETTEXT", "「ふうっ、ふっ……こんなに出されたら、お腹がぱんぱんになってしまう……\n　んっ、オマンコが嬉しそうに呑み込んでる……ふうっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「んんっ……君のオチンポも満足したみたいだな……悦んで震えているのがわ\n　かるよ……んんっ、あんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_11" ]},
+		{"command":[ "SETTEXT", "「こら、言った側からまた出すんじゃない……出すんじゃないぴょん。ちょっ\n　と冷静になってきたら恥ずかしい語尾だ……まったく」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_10" ]},
+		{"command":[ "SETTEXT", "「君以外にはこんな風にしないんだからな。それは理解しておくんだな。わか\n　らないか？　特別ってことだ……もう、言わせるな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「君だから言われるままに奉仕して、語尾だって……こんな風にしたんだぴょ\n　ん。当たり前だろう」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_12" ]},
+		{"command":[ "SETTEXT", "「んっ、ふっ……またオチンポが震えてるな。今の言葉で興奮したのか？　悪\n　い男だな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「でも、今回は特別の特別だからな。君には借りがあるし、どうしてもって言\n　われたからこんな風にしてあげたんだ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_11" ]},
+		{"command":[ "SETTEXT", "「だから……これで助けてくれた借りは返したからな。まったく、私にこんな\n　ことをさせるなんて、とんでもない男だぞ、君は」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_10" ]},
+		{"command":[ "SETTEXT", "「借りは返した……けど、君が望むなら、またこういう風にしてもいいかな…\n　…ぴょん」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_14" ]},
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「ああ、オチンポが抜けて、なんで、あっ、そんな、ふああああああああああ\n　ああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「私の身体、精液がかかって、んんっ、はあっ、あっ、あんっ！！　かけられ\n　てるだけなのに、イってる、んくうううううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_15" ]},
+		{"command":[ "SETTEXT", "「顔も、肌も、胸も、君の精液でべとべとにされてる……ぴょん。んんっ、あ\n　っ、まだ出てる……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「熱い……んっ、身体中に君のを注がれているみたいだ……中に出してもらう\n　のもいいけど、これも……気持ちいいな、んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_14" ]},
+		{"command":[ "SETTEXT", "「ふふ……私の中も外も君に染め上げられたな……染め上げられたぴょん。も\n　う、変な所にこだわるな、君は……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_13" ]},
+		{"command":[ "SETTEXT", "「んっ……まあ、だからこそ頼りたくなるのだが……いやなんでもない。ふう、\n　やっと全部出したんだな……凄い量だ……ふうっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_14" ]},
+		{"command":[ "SETTEXT", "「匂いだけでもくらくらしてくる……こんなにされたら、しばらくは君の匂い\n　が取れないな……もしかして、そういう意図もあったのか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_13" ]},
+		{"command":[ "SETTEXT", "「まあ、どっちでもいいさ。こういうのも嫌いじゃないし……嫌いじゃないぴ\n　ょん。もう、真面目に話させないか……まったく」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETTEXT", "「借りは返した、返したけれど、それを忘れないように、この匂いが取れそう\n　な頃にまたもう一度……な？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "冴島長官" ]},
+		{"command":[ "SETIMAGE", "0", "still_00004915_02_15" ]},
+		{"command":[ "SETTEXT", "「ふふ……こういう関係もいいじゃないか。借りとか貸しがなくても、男と女\n　なんだから。そうだろう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_049_1504410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

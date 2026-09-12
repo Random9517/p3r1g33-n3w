@@ -1,0 +1,477 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0051" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00000539_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev005_39b_0000", "ev005_39b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000539_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「う、うぅ……ここは……？　砂浜……？　目が覚めたかって……だ、誰のせ\n　いでこんなことになってると思ってるんですか！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000539_01", "7", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「泳ぐ練習をしていたウチの浮き輪をとって、溺れさせるなんて……。げほっ、\n　げほっ。うぐ……まだ口の中がしょっぱいような気が……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000539_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「人工呼吸で助けてやったって？　ふんっ、あなたが溺れさせたんですから、\n　あなたが救助するのが道理でしょうに」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000539_01", "0", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「はぁ……。それにしても、身体がのあちこちがだるいですね……。溺れたと\n　きに闇雲に動かしてしまったからでしょうか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「な、なんですか？　泳ぐときに力が入っているから、もっとリラックスした\n　ほうがいいって？　余計なお世話ですよ、まったく……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_01" ]},
+		{"command":[ "SETTEXT", "「……って、なにしてるんですかっ！　お、お詫びにリラックスさせてやるっ\n　て……そ、そんなオチンチンをだして……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_05" ]},
+		{"command":[ "SETTEXT", "「んひぃいいぃぃっ！？　な、なに、オチンチンを挿れちゃってるんですか！\n　んっ、急に……あ、うぅ……オマンコがいっぱい……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「気持ちよくなれば力が抜けるだろうって、そりゃそういうこともあるでしょ\n　うけど、んっ、ああっ、だからって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev005_39b_0000", "ev005_39b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「そ、そんな、オチンチンを……んひっ、ピストン激しく、オマンコを突いて\n　……あっ、ああぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「こんな状況で、感じてしまうなんて……！　ひゃぁあんっ！　オマンコどん\n　どん、濡らしてしまうだなんて……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、オマンコが、あなたのオチンチンでいっぱいに……っ！　は\n　ぁっ、はぁっ、限界までひろげられて……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「硬いのが、いっぱいこすれているのが……わ、わかる……っ！　んはぁっ、\n　ああっ、奥、奥まで届いてます……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「も、もっと力を抜けって、なにを無茶言ってるんですかっ、んくぅっ！　こ\n　んな、イかされそうになったら力が入るに決まってるでしょう！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「……って、ち、違います！　イキそうになんか、なってない……ひぃいんっ！\n　ちょ、ちょっと、腰がっ、ああぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「激しくオマンコ、ずぼずぼしすぎ……っ！　んぁくっ、んっ、んはぁっ、あ\n　っ、ああぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「キツく締めつけてきて、気持ちいいって、勝手にオチンチンを挿れておいて、\n　勝手に気持ちよくなってるんじゃないですよ！　ひゃぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「う、ウチだって……んっ、んぐっ、あなたのオチンチンのせいで、もう……\n　ああっ、オマンコが、すごく悦んでしまって、いて……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「こっちだって勝手に……腰が、んんっ、反応してしまって……。ああっ、こ\n　んな流れで、イかされるわけにはいかないのに……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、カリがぁ……オマンコのヒダをごりごりと削ってきて……っ！\n　んんっ、くぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「中で、いっぱいに溢れた愛液を、んっ、はぁっ！　か、かきだされてしまっ\n　てます……っ！　はぁ、はぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「き、気持ちいい……気持ちよくなって、しまって……。んっ、んくっ、手足\n　に力が、は、入らなく……はぅっ、ん、ふぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ガチガチの亀頭で、んぐっ、子宮のまで……っ！　はぁっ、はぁっ、ゴツゴ\n　ツ、突かれたら……ああっ、頭が真っ白にぃ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「オマンコの中を、んぐっ、出入りしているオチンチンのことしか、んはぁっ、\n　か、考えられなくなってしまいます……ぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「はぁああんっ！　ああっ、ああっ、んはっ、はっ、ああっ、ああぁあんっ！\n　オチンチン、くるっ、いっぱい……んっ、きて……ます……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ウチのオマンコが、ああっ、ガチガチの勃起オチンチンに好き放題されて…\n　…んくぅうっ、どんどん感じさせられて……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んぁっ、はぅっ、腰が動いているだなんて。んくっ、そんな恥ずかしいこと、\n　い、言わなくても……結構ですから……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ウチの意思では、どうすることもできないん、です……！　はぁ、はぁ、ウ\n　チの腰……勝手に、動いてしまって……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「うっ、くぅ……っ！　オチンチンに、オマンコいいように犯されているとい\n　うのに……はぁ、はぁ、もう……気持ちよくて……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「と、とまらないん、ですから……っ！　ああっ、オマンコ、気持ちいいんで\n　す……っ！　んっ、く……はぁっ、ああ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「もう、無理です……っ！　オマンコ、気持ちよくされすぎて、イク……オマ\n　ンコもう、イッてしまいますからぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「オマンコ気持ちよくなりすぎて、抵抗なんてできません。身体に力が入らな\n　くなってしまって……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「な、なのに、オマンコは締まって……あなたのオチンチンをぎゅうっと締め\n　つけて……んっ、はぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「し、しごいてます……。中が、うねって、あなたのオチンチンのこといっぱ\n　い気持ちよくしようとしちゃってるんです……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ、イきますか……あなたも……。う、ウチのオマンコで、そのガ\n　チガチのオチンチンから……射精までして……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「う、ウチのオマンコに、はぁ、はぁ、ザーメンをコキ捨てるつもりなんです\n　ね……んくっ、の、望むところ、です……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ウチも、あなたのオチンチンでイかされたいので……。中出し、されて……\n　いっぱいイキたいので……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「だ、だして……だしてしまってくださいよ……！　はぁ、はぁ、ウチに、あ\n　なたのドロドロザーメン……いっぱい……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んひぃいいいぃぃぃ～～～～っ！！　き、きたっ、ああっ、中出し……ぃ…\n　…っ！　んっ、んん……はぁ……はぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_08" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「あっ、ああ……イク……ッ！　オマンコが、ああっ、あなたの精液を浴びな\n　がら、い、イク……イッてしまって……ますよ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_09" ]},
+		{"command":[ "SETTEXT", "「はぁ……はぁ……。中出しされる、快感……た、たまりません……。んふぅ\n　……イッた身体が……弛緩、してしまってます……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_07" ]},
+		{"command":[ "SETTEXT", "「……んんっ！？　ちょ、ちょっと、なにしているんですか？　もう十分にリ\n　ラックスしましたから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev005_39b_0000", "ev005_39b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ひゃうぅん！　ま、またすぐ腰を動かして……んぁっ、待ってください、オ\n　マンコはイッたばかりで、か、感度が……ああぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「お、オチンチンがまだ硬いままだから、このままもう一回やるって、なに勝\n　手なことぬかしているんですか！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ほ、本当に好きに、ウチのオマンコを……んぁっ、ああっ、まだまだ硬いオ\n　チンチンが、出入りして……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、なんであんなに射精したくせに、ガッチガチにしているんで\n　すか……ひゃぁあんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「中出しされた精液と、愛液とでいっぱいのオマンコを、んぐっ、いやらしい\n　腰遣いで、ぐちゃぐちゃかき混ぜるようにぃ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んぁっ、はぁっ、往復するたびにオチンチンが、んひっ、ウチのオマンコの\n　いろんなところをこすってきて……ぇ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「い、いい加減に……そんな……っ！　あっ、ひゃんっ！　そんないやらしい\n　動きで、おお、オマンコ責められ続けたらぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「オマンコがまた嬉しそうに、んひっ、オチンチンのことぎゅうぎゅう締めつ\n　けてしまうじゃないですか……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「はぁっ、ああっ、いい……いいです……それぇ……っ！　オマンコの全部を、\n　オチンチンで責められると……はぁあ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「また、ぜ、全身から力が抜けていってしまいます……。んはぁ、ああ……オ\n　チンチンに抵抗できなくなる……うぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、オチンチンがまた……っ！　先っぽまで、パンパンに膨れあ\n　がってきています……んっ、くぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「抵抗できないウチのオマンコを、じゅぼじゅぼと、いやらしい音を立てなが\n　ら責めてきて……あっ、う……んふぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「そんなにされたら、また……イク……ッ！　はぁっ、はぁっ、またイキそう\n　に……オマンコ、またぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「ああ、あなたも、また……っ！　んっ、んくっ、ウチのオマンコの締めつけ\n　で、イキそうになっているんですね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「また射精するつもりですか。う、ウチに向かって、んくっ、抵抗されないこ\n　とを、いいことにぃ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ま、まあ、仕方ないですね。う、ウチだって……はぁ、はぁ、こんなふうに\n　されたら、最後までされたいですから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「し、しかたなく、あなたの精液をうけとめて、あ、あげますよ……んくっ、\n　ふぅ……はぁ、ああ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「ど、どんどん激しくなるっ、オチンチンが……ああぁん！　お、オマンコこ\n　するっ、んひぃっ、い、イク、イク、イク……ッ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ウチ、もう……うあぁっ、ああっ、ああイク……イクイク……オマンコ、あ\n　あっ、あなたのオチンチンで、イ、イク……イかされ……ああ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_11" ]},
+		{"command":[ "SETTEXT", "「あはぁあああぁぁぁああぁぁあぁ～～～～っ！！　あっ、ああぁっ、で、で\n　る……でてます……んっ、くぅうううぅぅぅううぅぅ～～～～っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「精液っ、またっ、ウチの子宮めがけてびゅ～っと放たれてぇええっ！　んっ、\n　うっ、イク……ッ！　お、オマンコ……イッく……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_12" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、オチンチンがビクビク暴れながら、まだ……射精ぇ……っ！\n　んはぁっ、はっ、あ……んく……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「２度目だっていうのに、どれだけ……っ！　ひゃぁあんっ！　し、子宮に…\n　…アツアツザーメンの塊ぶつかってくる……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_11" ]},
+		{"command":[ "SETTEXT", "「はぁ……はぁ……あうぅ……。も、もう……本当にどうにかなりそうなくら\n　い……ウチのこと、イかせてくれましたね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_12" ]},
+		{"command":[ "SETTEXT", "「こんなに……オマンコから、溢れてきてしまうじゃないですか……。はぁ…\n　…ん、ふぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_10" ]},
+		{"command":[ "SETTEXT", "「も、もう……イかされまくったせいで、余計に疲れてしまいましたよ……。\n　これでは、泳ぎの練習どころではありませんね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「……ちょ、ちょっと。なにまだウチのオマンコの中でオチンチンを硬くして\n　いるんですか！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「お、泳ぎの練習をしないのなら、もっとヤらせろって……！？　バカも休み\n　休みいってくださいよ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_12" ]},
+		{"command":[ "SETTEXT", "「でも、泳がないなら海ですることもほかにありませんし……。特別につきあ\n　ってあげますよ。ふんっ、感謝してくださいよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_14" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ひゃぁああっ！？　な、きゅ、急に、オチンチンを抜いて……！？　ああっ、\n　精液が……でて……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_15" ]},
+		{"command":[ "SETTEXT", "「か、身体に……っ！　んぁっ、精液……すっごい匂いのが、はぁっ、はぁっ、\n　ウチの全身に……か、かけられ……てぇ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_14" ]},
+		{"command":[ "SETTEXT", "「はぁ……ああぁ……っ！　い、イク……ッ！　精液、かけられて……イッく\n　ぅうううぅぅぅ～～～～っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んくっ、イク、イク……こんなぁ……っ！　ドロドロの、シャワーで全身汚\n　されながら……また、イク……ぅ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_15" ]},
+		{"command":[ "SETTEXT", "「どんだけ、だ、出しているんですか……。ああ……オチンチンが、上下に暴\n　れながら、まだ……真っ白い精液をまき散らして……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「はぁ……はぁ……。こんなに……んっ、精液がかかるたびに、んくっ、身体\n　が反応して、い、イク……んっ、くぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_14" ]},
+		{"command":[ "SETTEXT", "「も、もう……。なんてこと、してくれたんですか……。こんなにイかされた\n　ら、余計に疲れるだけではありませんか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_13" ]},
+		{"command":[ "SETTEXT", "「なんですか、お詫びに……？　それ以上言わないでください。あなたの『お\n　詫び』なんてロクなものじゃないにきまってます」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「そうですね……。ウチがお詫びの内容を決めます。ウチにこんな辱めを与え\n　たのですから、あなたには……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000539_02_15" ]},
+		{"command":[ "SETTEXT", "「この任務の間、休まずウチに奉仕してもらいましょうか。今回の件を秘密に\n　しておいて欲しかったら、ウチに従うことです。大人しく」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_3904410" ]},
+		{"command":[ "WAITINPUT" ]},
+				
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

@@ -1,0 +1,488 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0004" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00001607_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev016_07b_0000", "ev016_07b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETCHARA", "0", "char_00001607_01", "3", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「あの……お呼びとのことで、来ましたよ。それにしても、この格好でって\n　……え、これで戦う姿がよかった？　そ、そうですか。ふふふ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETCHARA", "0", "char_00001607_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「鍛えられた筋肉も凄いって、褒めすぎです。でも、悪い気はしませんね。\n　そのためにトレーニングしているのですから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETCHARA", "0", "char_00001607_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「上腕とか、太ももとか、意識して鍛えたんですよ。ほら、凄いでしょう？\n　はは、あなたもこのバルクがわかるんですか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETCHARA", "0", "char_00001607_01", "8", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「なら、今度一緒にトレーニングしましょう。そうすればあなたもこんな身体\n　になれますし、一生懸命トレーニングすれば私よりも強くなれますよ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETCHARA", "0", "char_00001607_01", "0", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ふふ、それでは一つ、トレーニングの成果を……単純な技ですが、ほら、\n　これがスタンドからのスリーパーホールドです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETCHARA", "0", "char_00001607_01", "3", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「後はこうして力をこめれば……本気じゃないけど、締めつけられるでしょう？\n　ふふ、あっ、んっ、ちょっと、暴れたら、きゃっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_02" ]},
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「もう、暴れたらダメじゃないですか……って、んっ、あっ、なんでオチンチ\n　ンを出して……ふああっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_01" ]},
+		{"command":[ "SETTEXT", "「私の身体と、技でこうなったって、んんっ、そんなよこしまな……ああ、\n　でも、こんなガチガチに……んっ、ふっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_02" ]},
+		{"command":[ "SETTEXT", "「その、これは私のせいなんですよね……んっ、頷いただけでオチンチンが\n　こすりつけられて……んくうっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_01" ]},
+		{"command":[ "SETTEXT", "「このままだと収まらないでしょうし……その、私でそうなってくれたのなら\n　……責任、取りますから、あんっ、ああっ、いきなり、入れないでっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_06" ]},
+		{"command":[ "SETTEXT", "「んんっ、あっ、凄い、硬い……んうっ、はっ、あんっ、あああっ、あくうっ\n　！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_05" ]},
+		{"command":[ "SETTEXT", "「んんっ、身体、鍛えてるのに、オチンチンで突かれるだけで、蕩けちゃい\n　ます……ふううっ、あんっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev016_07b_0000", "ev016_07b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「気持ちいい……んっ、こんな、私の身体より硬いオチンチンで……ああっ、\n　んっ、ごりごりってされたら、んうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「お腹の中、オチンチンで溶かされそう……んっ、あっ、後ろから……いっぱ\n　い突かれて……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「ふうううっ、オマンコで締めつけたら、オチンチンの硬さも、熱さも、形も\n　……全部わかって……あああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「あなたも、気持ちいいんですね。体温が伝わって……オチンチンも震えて、\n　んっ、はっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「あっあっあっ、あくうっ！！　私のオマンコも、あなたの動きできゅっきゅ\n　って、んっ、はっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「ばっ、これのために鍛えたんじゃありません……もう、くだらないことを\n　……でも、んっ、はっ、んんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「それで、あなたが悦ぶなら……んっ、こうして締めつけられるから、よかっ\n　た……あんっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「ふっ、あっ、くうっ！！　ほら、こうしてオマンコできゅって抱きしめたら、\n　んんっ、くっ、はっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「中でごりごり削ってるの、わかるでしょう？　ふううううっ、あっ、はっ、\n　あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「んくうっ、んっ、はっ、ああああっ、オチンポが出し入れされるたび、お腹\n　の中、とろとろって……ふうううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「鍛えた身体が、オチンポでとろとろにされてる。あんっ、あっ、あくうっ、\n　んんっ、はあっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「んっんっんっ、ううっ、あっ、奥、先端で、ぐりぐりって、はああっ、あん\n　っ、あああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「そんな、何回も、オチンチンでオマンコマッサージするの、ダメ、ダメです\n　……そんな風にされたら、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「身体、熱くなっちゃいます……ひあああああっ！！　あくうっ、あんっ、\n　あっ、んううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「はっ、あっ、うっ、んんっ、ふふっ、この身体で、こんなに興奮してくれて\n　いるのが……んっ、ううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「嬉しいです……んふうっ、あなたのオチンチンが、悦んでるの、気持ち良く\n　なってるの、全身でわかるから、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「あっ、今の言葉でもっと気持ち良くなったって、ふううううっ、んっ、あん\n　っ、ああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「オチンチンがもっと硬くなってる……ああっ、んっ、カリ首が、私のオマン\n　コごりごりって削って、ああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、気持ちいい、もっと、もっとしてください！！　あなたの\n　オチンチンでもっと気持ち良くして、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「ああああっ、凄い、頭の中までずぽずぽされてるみたい、ふうううっ、あっ、\n　ああっ、オマンコ、火傷しそうなぐらいになってる！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「あっあっあっ、んっ、ひうっ、はっ、ああああっ！！　鍛えたのに、身体\n　鍛えてるのに、ぐじゅぐじゅになっちゃう！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「んんっ、ふっ、オチンチン、膨らんできてる、んっ、はっ、イきそう、なん\n　ですね、んんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「私のオマンコで、オチンチンがイきそうなんですね！！　ふうううっ、はっ、\n　あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「いいですよ、イって、私のオマンコの中で、イって！！　私も、オチンチン\n　で、イく、イく、イっく！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_09" ]},
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「イくうううううううううっ！！　ふあああああっ！！　出てる、んっ、ああ\n　あっ、オマンコに精液出てるうううううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「ふうううううっ、あっ、はあっ、はっ、んっ、んんっ、お腹の奥に、どろど\n　ろって精液注がれてる……はっ、あっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_08" ]},
+		{"command":[ "SETTEXT", "「中から、火傷しそうなぐらい……凄い、んっ、脈打ってるの、わかります\n　……あんっ、あっ、まだ出て……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_07" ]},
+		{"command":[ "SETTEXT", "「はっ、ふうっ……満たされてる……私の中、あなたので満たされてます……\n　んっ、幸せ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_08" ]},
+		{"command":[ "SETTEXT", "「えっ……トレーニングは反復が重要って、なにを……あんっ、あっ、なん、\n　なんで、まだ硬く……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「嘘、嘘嘘、出したばかりなのに、二回目って、あっ、んっ、くうっ、はっ、\n　あっ、ダメ、そんな、ああああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev016_07b_0000", "ev016_07b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「私も、イったばかりなのに、きゅんきゅん締めつけちゃう、ひあっ、ああっ、\n　あっ、ぬるぬるって、さっき出したので、ひうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「滑りが良くなって、オマンコの中、オチンチンがにゅるにゅるしてる……\n　あうううっ、んっ、くうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「はっ、あっ、んんっ、さっきより速く、腰が……んんっ、先端が奥を……\n　あっ、あんっ、んっ、ふうううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「ああああっ、これ、ダメ、ダメ、身体がダメになっちゃう、んっ、ひあああ\n　っ、あんっ、あっ、あっあっあっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「オチンチンで身体がダメになっちゃう！！　あくうっ、んっ、ふううううう\n　っ、気持ち、いいっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「カリ首で中ごしごしするの、気持ちいいですっ！！　オマンコがきゅんって、\n　締めつけてるっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「んふううっ、んっ、あああ、また、トレーニングした身体を蕩かされてる\n　……オチンチンで、どろどろにされてるっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「んっんっんっ、奥ごりごりってしながら、カリ首でこすられて……ふううう\n　っ、あっ、もう、もうダメ……んくうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「私の身体、全部ぐにゃぐにゃになっちゃう！！　オチンチンで溶かされて、\n　身体が溶けちゃう……ひああああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「んううううっ、はっ、あっ、溶かされて、混ぜられて、オチンチンでぐちゃ\n　ぐちゃにされて……ふううっ、うっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「オマンコがどろどろになってる……んんっ、はあっ、あんっ、んっ、ああっ、\n　あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「んくうっ、気持ちいい！！　あなたのオチンチン、気持ち良すぎる……あく\n　うっ、んんっ。はああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「じゅぷじゅぷって、オマンコの音が……ひっ、んっ、あっ、それでまたオチ\n　ンチン硬くなってる、ひあああああっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「イくんですね！！　また私のオマンコで、イくんですね！！　んんっ、は\n　っ、あんっ、ああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「いいですよ、イって！！　私も、あなたのオチンチンでまたイきますから！！\n　気持ちいい、このオチンチンでまた……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「オマンコイきますから……んんっ、ふうっ、あっ、んっ、また、オチンチン\n　膨らんできた、あっ、うっ、んんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「はあっ、あっ、もっと、もっとオチンチンで溶かして！！　私の身体、どろ\n　どろにして、んんっ、ああっ、はっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、イく、イく、またイく、あなたのオチンチンで、またイっく\n　ううううううううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_12" ]},
+		{"command":[ "SETTEXT", "「んくううううっ！！　ふううっ、あっ、んっ、また、オマンコに精液、出て\n　る……あんっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「はあっ、はっ、さっき出されたのと、混ざって……んふうっ、あっ、熱い\n　……んっ、くうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_11" ]},
+		{"command":[ "SETTEXT", "「こんなに出されたら、お腹の中全部あなたの精液になっちゃいます……\n　はっ、ふっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_12" ]},
+		{"command":[ "SETTEXT", "「まだ、出てる……んっ、それだけ、私のオマンコが気持ち良かったんですね\n　……ふふ、嬉しい……あんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「こうして締めつけたら、最後の一滴まで出て……んっ、うっ、んんっ、ふふ、\n　中でオチンチンがびくびくってしてますね……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_11" ]},
+		{"command":[ "SETTEXT", "「ふうっ……全部、出してくれましたね……嬉しい……あなたの気持ちよさ\n　が、伝わってきて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_10" ]},
+		{"command":[ "SETTEXT", "「私の中で、こんなに気持ち良くなってくれたのがわかります……それが、\n　なんだか凄く嬉しくて……ふふ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_11" ]},
+		{"command":[ "SETTEXT", "「さっきまでの熱とは違う、温かさが身体に満ちてます……でも、今回だけ\n　じゃ終わらないですよね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「トレーニングは反復が重要だって、あなたも言ってたじゃないですか。一回\n　で終わるとか、ダメでしょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_10" ]},
+		{"command":[ "SETTEXT", "「だから、また二人でいっぱいトレーニングしましょう……私の身体、オチン\n　チンでどろどろに溶かしてくださいね……あなた」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+
+		
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_15" ]},
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「んんっ、オチンチンが抜けて……ああっ、はっ、精液、身体にいっぱい、\n　ふあああああああああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「あんっ、あっ、二回目なのに、こんなシャワーみたいに、んっ、はっ、ふう\n　ううっ、凄い、熱い、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_14" ]},
+		{"command":[ "SETTEXT", "「ふうっ、うっ、全身にかけられて……んんっ、こんな、こんなの……外から\n　も、溶かされてるみたいです……んんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_15" ]},
+		{"command":[ "SETTEXT", "「はあっ、あっ、これはこれで、気持ちいい……あなたの精液、かけられてる\n　ところが熱くなって……んっ、はっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「愛されてるって、わかって……あんっ、んっ、あなたに包まれてる感じが\n　して……ふうううっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_14" ]},
+		{"command":[ "SETTEXT", "「ふふ、あなたの精液だけで気持ち良くなれるなんて……んっ、思いもしな\n　かったけれど、これはこれで……嬉しい」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_13" ]},
+		{"command":[ "SETTEXT", "「男の人に染められるってよく言うけれど、本当の意味がわかった気がします\n　……それに、悪くないというのも」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_14" ]},
+		{"command":[ "SETTEXT", "「あなたの愛を全身で受け止めて、それだけで幸せになれる……いい気分です。\n　満たされてる、って思います」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001607_02_13" ]},
+		{"command":[ "SETTEXT", "「ふうっ、ふっ……でも、これもしばらくしたら消えてしまいますね……寂し\n　いです。でも……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "明日楽" ]},
+		{"command":[ "SETTEXT", "「消えるのなら、またしてもらえればいいんですよね。ねえ。ですから、また\n　いっぱいっぱい、私の身体にかけてください……約束ですよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_016_0704410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

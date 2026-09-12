@@ -1,0 +1,464 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0004" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00000163_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev001_63b_0000", "ev001_63b_0023" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「クリスタルの力で私の願いは叶ったのか、だと？　まあ……願ったとおりに\n　叶ったとは言い難いな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804101" ]},
+		{"command":[ "SETCHARA", "0", "char_00000128_01", "3", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]}, 
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「だが……こうしてクリスタルのせいとかこつけてお前とイチャイチャできる\n　ようになったから……って、なんでもない！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804102" ]},
+		{"command":[ "SETCHARA", "0", "char_00000128_01", "2", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「そんなことより、ま、まだ叶っていない願いがある！　お前の力も借りて、\n　叶えさせてもらうぞ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「お前の本心が知りたいんだ。その……わ、私のことを……どう、思っている\n　……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804104" ]},
+		{"command":[ "SETCHARA", "0", "char_00000128_01", "5", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「いや、違う。もっと単純だ。私は、お前に、私のことが好きかと聞きたいん\n　だ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804105" ]},
+		{"command":[ "SETCHARA", "0", "char_00000128_01", "2", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「どうなんだ……？　好き……？　お前、そう言ったか？　私のことが好きだ\n　と、聞き間違えではないよな！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804106" ]},
+		{"command":[ "SETCHARA", "0", "char_00000128_01", "5", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「わ、私もだ……！　私も、お前のことが好きだ！　この気持ちを……身体の\n　中でくすぶらせていたんだ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「お互いのこの気持ち……今度はこっちで確かめ合わないか……？　ふふ、お\n　前のオチンポは、こんなに勃起しているではないか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804108" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000128_02_01" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ん……ああ……硬いオチンポがワレメにこすれて……。んふぅ……私のオマ\n　ンコも、いやらしい汁を溢れさせて、しまう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「それじゃあ……い、入れる……から……。ん……んぁ……あああ……っ！\n　入って……きてる……んくぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804110" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000128_02_04" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「すごい……アツアツのオチンポが……。私のオマンコをいっぱいにしている\n　……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「この……満たされる感じがたまらない……。んはぁ……もっと、もっと感じ\n　たいんだ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev001_63b_0000", "ev001_63b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「んっ、んんっ！　腰を動かして……んぁっ、オマンコにこすれる、オチンポ\n　の感触ぅ……んっ、あはぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ガチガチオチンポ感じるぅ……んくっ、お腹いっぱいに、お前のオチンポを\n　感じて……ああ……気持ちよくなるぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「お前も……感じてくれている、か……？　んっ、いやらしく動く、私のオマ\n　ンコ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んはぁ……こうやって、腰を上下に……んっ、見えるか……？　いやらしい\n　汁が、オチンポをベトベトにしてしまっている……んふぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「これもみんな、お前のことが好きな証……。ああ……だめだ……腰が止まら\n　ない……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……っ！　ああっ、んっくぅ……っ！　好き……好きだ……お前\n　が好きで……たまらないぃ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んぁっ、ああっ！　好きだという気持ちが……どんどん、膨らんでいく……\n　んぅ……はぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「好き……好き、好きぃ……っ！　んくっ、んっ、ああっ、好きだ……あはぁ\n　……んぁっ、ああ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「こんなに、何度も口にするものでは、ないと思うが……だが……あはぁん\n　っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「止まらない……！　腰も……好きと口にすることも……止められないんだ…\n　…んっ、あぁっ、好きっ、好き……んひぃ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「お前も……言って……！　私に、す、好きって……ンッ、お前の気持ちを、\n　聞かせて……はぁ、はぁ……ンッ、ああ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「そう……好き、好きって……んんぅっ！　お前に、好きと言われると、全身\n　が……ああぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「その言葉を聞くだけで、身体が熱くなって……たまらない……！　はぁ、は\n　ぁ、私も好き……好き……好きぃ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んはぁっ、オチンポが暴れるぅっ！　んくっ、ああっ、お前からもそんなに\n　……好きって言いながら、突いて……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ああっ、ああっ、それ、よすぎて……！　はぁあっ！　頭の中が、真っ白に\n　なってしまうから……んぁっ、くっ、はふぅうっんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「いいっ、感じるっ、オチンポ感じるぅっ！　ああぁっ、オマンコこすれるっ、\n　ぶっといオチンポがぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「どんどんぶっとくなるオチンポで、んはぁっ、ああっ、オマンコがいっぱい\n　になって、気持ちよく……なりすぎるぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「私の腰も、止まらない……っ！　お前が好きすぎて、止まらない……あはぁ\n　……ああぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804130" ]},	
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「じゅぶじゅぶって、いやらしい音がして……んくぅっ、濡れまくりのオマン\n　コ、ああっ、お前のことが、好きすぎるから……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んぁっ、ああっ、もう……イク……！　オマンコがイキそうになって……ん\n　ぁっ、ああ……っ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「お前も限界のようだな……ンッ、オチンポが膨らんで……はぁ、はぁ……腰\n　を振るその顔も……余裕がなさそうで……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ああ……イこう……。一緒に……私と一緒に……んぅ、イッて……オマンコ\n　に……射精しながら……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「私のことが、好きなら……思いっきり、びゅくびゅくと射精しながらイッて\n　……イッてぇ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「私も……イク……イク……！　ああっ、ああっ、激しいっ、ラストスパート\n　の激しいピストンで……イ……イク……ッ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「あはぁあああぁぁぁ～～～～っ！！　ああっ、ああっ、でてる……でてっ、\n　んぁっ、びゅるびゅるきて……きてる～～～～っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804137" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000128_02_07" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「はぁっ、んぁっ、いい……っ！　イクッ、イク……ッ！　イキまくるっ、お\n　っ、オマンコ……あはぁあああ～～～～っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「はぁ……はぁ……。まだまだ……中で、オチンポがビクついて……んふぅ…\n　…精液……放っている……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ふふ……一緒にイクことができて、すごく……嬉しかった……。なあ……も\n　っとしてくれないか……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804140" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000128_02_05" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「こんなに、まだまだオチンポが硬いままなんだ……。時間の許す限り、お前\n　の好きという言葉を聞いていたい……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んっ、ああっ！　さっそくまた、オチンポが……！　あはぁっ、んっ、いい\n　っ、オマンコ……こすれて……あはぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804202" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000128_02_06" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「イッたばかりの敏感オマンコが……あぁっ、オチンポ……嬉しそうにきゅう\n　きゅう締めてしまっている……んぅうっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「私も……動くから……。オチンポのこと……気持ちよくしてやるからな……。\n　ん……ああぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev001_63b_0000", "ev001_63b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「オチンポこすれるぅ……！　あんなにたくさん射精したのに、こんなにぶっ\n　といままのオチンポが……ああぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「オマンコの、イイところにぃ……んはぁっ、何度も、何度も……しつこくあ\n　たってきて……たまらないぃ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ああっ、腰動くぅ……いやらしく、くねらせて……オチンポに媚びるように\n　……オチンポが気持ちよくなるように……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「お前のことが、好きだから……お前には、いっぱい気持ちよくなってほしい\n　から……んぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「そう思うと……腰が勝手に動いてしまう……！　ああ、お前のことが好きと\n　いう……証……だからぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ああ……好き……好きだ……。好きだからオマンコが……オチンポを求めて\n　やまないんだ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「好きぃ……お前と、イチャイチャする……ラブラブエロエロハメまくるの…\n　…好きぃ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「あはぁ……好き、好き、好きぃ……！　頭の中が、好きでいっぱい……オチ\n　ンポ……オチンポぉ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あはぁっ、もっと、もっとだ……。もっと、お前の好きを、オチンポに乗せ\n　て、私にぶつけてくれぇ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「あはぁんっ！　あっ、ああっ、それ好きぃっ！　激しく、おっ、おおっ、オ\n　マンコ……んひぃいいいっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、ぶっといので、オマンコ好き放題されて、んぁあっ、好き、\n　好きだ……私も……こうして……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「お前の好きな、いやらしい腰遣い……。オチンポ媚び媚びダンスで、もてな\n　してやる……から……んぁっ、あはぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「また……思いっきり……。私に、お前の濃厚なオチンポミルクを……んぁっ、\n　たっくさん、射精して……くれ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ああっ、あはぁっ、私も……私もまたイクから……。もう一度、一緒にイこ\n　う……一緒にふたりで、大好きなオチンポとオマンコで……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「いっぱい、いっぱい気持ちよくなるんだ！　ああっ、好き同士、いっぱいイ\n　ク、何度だって、イキまくってもいいんだからぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ああっ、あはぁっ、だしてっ、だしてぇっ！　イクッ、イッちゃうから、私\n　も……ああっ、ああっ、ああ……！　イッくぅうううぅぅぅっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+	
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「あああぁぁぁああぁぁ～～～～っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804301" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000128_02_09" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んぁっ、ああっ、イクッ、イクッ、精液ぃ、子宮に浴びながらイッくぅうう\n　うぅぅぅ～～～～っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んぁっ、ああっ、二度目なのに……たっくさん、んぁっ、溢れそうなくらい\n　の精液ぃ……たまらないぃ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んふぅ……お前の好きという気持ちが……子宮から……全身に染みわたる感\n　じだぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「はぁ……はぁ……たまらない……。私も、お前にこんなに射精してもらって、\n　嬉しくて……あはぁ……言葉が出てこない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804305" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000128_02_08" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「おかしいな。さっきまで、臆面もなく好き、好きと言っていたはずなのに…\n　…」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「いまは、なんだか恥ずかしく感じてしまう……。ふふ……だが、その言葉に\n　込めた気持ちは、嘘なんかじゃないんだからな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「……クリスタルのおかげで、願いはゆがんだ形で叶ってしまったが、案外悪\n　くなかったかもしれないな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「この力がなければ、私は、お前から本心を聞きだす勇気など出なかっただろ\n　うから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ふふ……それじゃあ続きをしようじゃないか。いままでイチャイチャできな\n　かった分を取り戻してやるからな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ああぁっ、待て、なんで抜いて……あぁあっ、あはぁあああぁぁぁ～～～～\n　っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804401" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000128_02_11" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んっ、ああっ、またすごい勢いで……精液が、あはっ、私の……全身に……\n　はぁ、はぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ああ……なんて濃い精液……。こんなにドロドロで、いやらしい匂いのもの\n　が、私の子宮に注ぎ込まれていたと思うと……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「全身がまた、燃えるように熱くなってしまう……。んふぅ……ああ……だめ\n　だ……我慢ができないぃ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んぁっ、ああぁ……っ！　二度も射精して……なお硬いオチンポに……んく\n　ぅ……オマンコを……こすりつけて、しまうぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「はぁっ、ああ……んぅ……っ！　オチンポがビクビクはねて、まだ精液を噴\n　きだしているじゃないか……ンッ、あはぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804406" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000128_02_10" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「まだまだ、射精し足りないのだな……。ふふ、私だって、もっとお前とエッ\n　チしたくて……たまらない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「いままで我慢してきたんだ……こうやって、お前とエッチすること……たく\n　さん射精してもらうこと……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「お互いの気持ちを知った今、それを我慢する必要なんてどこにもないよな？\n　そうだよな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ｃ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「お互いの身体がひとつに溶けてしまうくらい、このまま……愛しあおうじゃ\n　ないか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_2804410" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

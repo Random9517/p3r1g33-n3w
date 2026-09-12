@@ -1,0 +1,1001 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_14" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM6" ]},
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SELECT", "全て再生","LABEL1","Ｈシーンへジャンプ","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0002" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM6" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ふぅ……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "誰もいない風紀委員室で、俺は小さく吐息を漏らした。", "NORMAL" ]},
+		{"command":[ "FADEOUTCHARA", "0", "NORMAL" ] },
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_01", "0", "CENTER", "0" ]},
+		{"command":[ "PLAYSE", "WAR_SE1" ]},
+		{"command":[ "FADEINCHARA", "0", "NORMAL" ] },
+		{"command":[ "WAITMOVE" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「えっと……お待たせ」", "NORMAL" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_01", "0", "CENTER", "0" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104206" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ちょうど教室のドアが開いて、小春が入ってくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ごめんね、遅くなって」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104207" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いや、大丈夫だよ。今日はもう仕事も終わってるし」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「じゃあ、今日はもう帰る？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104208" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_01", "0", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そうだな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "いつもの光景。いつものやりとり。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "毎日それなりに忙しくはしてるけど、小春がいるから頑張ることができる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「真っ直ぐ帰るか？　どこかに寄ってもいいけど」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「いいの？　買い物して帰りたかったんだけど、付き合ってもらってもいいの\nかな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104209" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_01", "8", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「もちろんだ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0012" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETTEXT", "そんな会話をしながら廊下に出る。異変に気づいたのはその時だ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あれ？　アクマがいるな」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「えっ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104210" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_01", "4", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "廊下の向こう側に、チラッとアクマが見えた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「見回りした時はいなかったのに……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104211" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「野良が迷い込んだのかもしれないな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ほっとくわけにはいかないよね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104212" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_01", "0", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「だな。もうひと踏ん張りするか」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「うん」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104213" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_01", "8", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "こうして、俺と小春はアクマ退治に向かったのだが――", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM2" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_14" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「えいっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104214" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE2" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SETTEXT", "小春が手に持っていたボールペンを、遠くのアクマに向かって投げた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE3" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SETNAME", "アクマ" ]},
+		{"command":[ "SETTEXT", "「ゲブッッ！！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "見事に命中。アクマは短く声を漏らして廊下に落ちた後で、霧のように消えた\n。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あっちのほうにもいるな」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "校舎内でアクマは思ったよりも数を増やしていた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "大量で手が付けられないってほどじゃないけど、発見が遅かったらとんでもな\nいことになってたな。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あっ！　小春、後ろだ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「うん！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104215" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE2" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SETTEXT", "俺の声に素早く反応して、小春が振り向きざまにボールペンを投げる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE3" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SETNAME", "アクマ" ]},
+		{"command":[ "SETTEXT", "「ギャーース！！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "接近しているアクマの姿を見たのは一瞬のはずなのに、今度も見事に真ん中に\n命中させた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「そっちのも……当たって！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104216" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE2" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+		
+		{"command":[ "SETNAME", "アクマ" ]},
+		{"command":[ "SETTEXT", "「ゴッホゥ！！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "アクマが次々に倒されていく。よくボールペン１本で、ここまでの威力が出せ\nるもんだ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そんなに思い切り投げてるようにも見えないんだけど、的確にアクマの弱点に\n当ててるらしい。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いいぞ、その調子だ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_15" ]},
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「指示のおかげだよ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104217" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「右から来るぞ！　２匹！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「うんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104218" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE2" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "PLAYSE", "WAR_SE2" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+		
+		{"command":[ "SETTEXT", "笑顔で返事をした小春が、今度は２本同時にボールペンを投げる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE3" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "PLAYSE", "WAR_SE3" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SETTEXT", "２匹のアクマに、それぞれ１本ずつ突き刺して撃退した。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「今日は絶好調だな」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "小春の戦いぶりを見ながら、床に転がったボールペンを拾う。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ボールペンだって無限に持ってるわけじゃないから、こういうのも大切なサポ\nートだ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「小春っ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ありがと！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104219" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺が投げたボールペンを、小春が受け取って――", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE2" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_14" ]},
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SETTEXT", "そのままダイレクトにアクマに投げる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE3" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SETTEXT", "これもやっぱり貫通して、一発で消滅させた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いいぞ、もう少しだ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「あっちのアクマで最後、かな……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104220" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「手前に雑魚、その奥にいる大きいのがボスだろうな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「それなら――」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104301" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE4" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "VERYFAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "FAST" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SETTEXT", "小春が深く腰を落として、今まで以上の強さでボールペンを投げる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE5" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "FAST" ] },
+		{"command":[ "FADEOUTIMAGE", "1", "NORMAL" ] },
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SETTEXT", "その一撃は手前にいたアクマを貫通し、さらにその向こう側にいたボスを直撃\nした。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "アクマ" ]},
+		{"command":[ "SETTEXT", "「ゴッッフウゥゥゥゥーーーーーーーーーーーーーッッ！！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ボスアクマが消滅していく。あまりの威力の高さに、俺も思わず目を丸くした\n。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0012" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM2" ]},
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ふう……たぶんこれで全部だよね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104302" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_02", "0", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ああ、お疲れ様。すごかったぞ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「えへへ、そう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104303" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_02", "8", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「数が多すぎたら召集かけようかと思ってたけど、そんな必要もなかったな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「今日はたまたま……調子も良かったから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104304" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「だよな。びっくりした」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "小春はもちろん、他のみんなも最近はどんどん強くなってる気がする。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "……俺も頑張らないとな。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「理事長室に行く？　報告しないといけないよね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104305" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_02", "0", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そうだな。理事長に報告してから帰るか」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あっ、買い物は付き合うからな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「いいの？　ありがと♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104306" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_02", "8", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "嬉しそうに笑いながら、小春が俺の腕に抱きついてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "周りに誰もいないから、ちょっと大胆になってるな。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "でも、やっぱり俺も嬉しいから、小春を自分のほうに引き寄せて理事長室へと\n向かうのだった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0001" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM2" ]},
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「それにしても、今日はすごく調子良かったな」", "NORMAL" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETTEXT", "理事長のところに行く途中で、何気なくそんなことを言った。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "別に深い意味はなかったんだけど、俺の隣を歩いていた小春が急に肩を縮こま\nらせる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「だって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104101" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_02", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「うん？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「可愛がってもらったから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104102" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_02", "2", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「え、それ関係あんの？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「あるよ。重要だよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104103" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_02", "7", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "力強い口調で言われてしまう。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「あれで元気をもらったんだから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104104" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_02", "0", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そうか。だったら良かった」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "お互いに笑顔を交わす。", "NORMAL" ]},
+		{"command":[ "SETCHARA", "0", "char_00029601_02", "8", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "なんの話をしているのかといえば、今日の見回り中の出来事だ。", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "たまたま小春と２人だったから、なんとなくいい雰囲気になってしまって、空\nき教室に連れ込んでしまったのだ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そして、何をしたのかといえば――", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM7" ]},
+		{"command":[ "SETTEXT", "小春を教室の窓に押し付けて、俺は後ろから尻を掴んだ。", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_01" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "見回りの最中だっていうのはわかってるけど、こういう雰囲気になってしまっ\nたのだ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「もう……誰もいないからって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104105" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「小春がふざけて腕を組んでくるからだぞ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「それは……ううっ、ごめんなさい」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104106" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「それに今日はいい匂いがした」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「あ、シャンプー変えたからかな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104107" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「とにかく、そういうわけだから責任取ってもらわないとな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「んああぁぁっ…………！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104108" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_05" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "腰を前に進ませて、小春の中にイチモツを押し込む。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "柔らかな感触が伝わってきて、俺の全身が大きく震えた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ふ、あっ……はいっ、て、くるぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104109" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「小春も……すごく、締め付けて、くるぞ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「は、ふ……んふぁ、はっ……ひ、はあぁんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104110" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「一番、深いところ……まで……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104111" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あと、もう少し……！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "さらに腰を強く突き出す。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "イチモツは根元まで入って、子宮をグリグリと押し上げた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「んんっ、あっ……今日は、すごく大きく……感じる」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104112" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「小春のも……今日は締め付けが強い気がする」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「だって、こんなところでしたら……　もしも、誰かが来たら……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104113" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「声を出さなきゃ大丈夫じゃないか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「そんなの無理だよ。だって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104114" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「んひゃっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104115" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_07" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "まだ小春が話してる途中なのに、腰を前後に動かし始める。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「あ、あぁっ、これぇっ……　すごく、気持ちいい、ん、だからぁ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104116" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_05" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ん、くっ……ふうっ……！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「そん、な……動いちゃ……あ、ああぁっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104117" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_06" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「最初から、すごく……締め付けてくるな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「それは……んんぅっ、体が……勝手に……ひゃんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104118" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「あ、ああっ、熱くて、硬いのが、ぁ、あぁんっ……　いっぱい、動いて……\nんっふ、ううぅぅんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104119" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_07" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "小春の中は、すぐに濡れてきた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "しっとりとした感触がイチモツ全体に広がって、優しく包み込んでくる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "腰を動かすたびに湿った音が鳴って、抽送を滑らかなものにしてくれた", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ふぁっ、ああぁんっ、ひ、んあっ、う、く、あ、はっ……！　ひ、あぁ、ん\nふぁ、ん、はあっ、はああぁんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104120" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_06" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「小春の中、どんどん濡れてくるから、動きやすいな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「や、あ、恥ずかしいこと、言わないで……ひあぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104121" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_05" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「でも、本当のことだし……んんっ、ぬるぬるしてる」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「だって、気持ち、よくて、んあっ、か、体が、あ、あっ、　勝手にそうなっ\nちゃうんだもん……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104122" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「おち○ちんが、んんぅっ、擦れて、　く、ふっ、おま○こ、濡れ、ちゃう…\n…ひああぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104123" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_06" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "腰の動きを加速させていくと、小春の声が大きくなっていく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "膣内はうねるような動きを伝えていて、まるでイチモツ全体が揉まれてるみた\nいな感触だった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「今日も……めちゃくちゃ気持ち良い！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「私も……あ、あっ、おち○ちん、んんぅっ、いいよ、ぉ、　ふあっ、おま○\nこの、き、気持ちいい、ところに、んんっ、　おち○ちん、擦れてるよぉっ！\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104124" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_05" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「そのまま、して、あ、んんっ、おま○こ、突いて、ひあっ、　いっぱい突い\nて、気持ち良くしてぇっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104125" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「小春もだいぶ積極的になったよな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「だって、これ好き、ぃ、ひんっ、おち○ちんで、されるの、　ん、あっ、可\n愛がって、もらうの、大好きだからぁ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104126" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_06" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ああ、俺のチ○ポで、小春のオマ○コなでなでしてやるぞ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ふああぁっ、してっ、おち○ぽ、で、んあぁっ、　おち○ぽで、私のおま○\nこ、なでなでしてぇっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104127" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_07" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "イチモツで責め続けていると、小春のテンションも上がってきた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "以前はこんなに恥ずかしいことは言わなかったけど、最近はあえて口にしたほ\nうが興奮できるらしい。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "オマ○コの締め付けもどんどん強くなっていて、だんだん射精の瞬間が近づい\nてきていた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「なんか、こういう場所でしたほうが、　締め付けが強くなってないか？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「そんなこと、ないよ、ぉ、んあっ、今日は、ま、窓際で、　あ、あああっ、\nすごく、き、緊張してるから……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104128" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_08" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「こんなところ、んく、あっ、誰かに、み、見られたら、　ひ、あぁんっ、は\n、恥ずかしくて、死んじゃう……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104129" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「確かにその気持ちは、わからなくはないな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "この教室からは学園の裏側の通路が見えるから、誰かがそこを通っても不思議\nじゃない。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "外からは小春の顔くらいしか見えないはずだけど、緊張するのは当然だ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「でも、だからこんなに気持ち良いんだよな」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「んんぅっ、か、勝手に、締め付けが、強くなって、　あ、くあっ、おち○ち\nんの、動き方も、んんっ、　激しくなって……あああぁっ、感じすぎちゃうよ\nぉ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104130" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_06" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「んっ……んっ……んっ……んっ……んっ……！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「んふぁっ！　ひあっ、ん、く、ふああぁ、んっ、ひんっ！　ん、んうっ、く\n、ふっ、んあっ、ふあ、ぅ、はぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104131" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_07" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "イチモツの動きをさらに加速させて、ラストスパートに入る。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "結合部からは透明な愛液が染み出していて、腰を振るたびにグチュグチュと卑\n猥な音が鳴った。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "でも、それが俺の体をさらに興奮させてくれて、イチモツを石のように硬く勃\n起させる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "先端はゴツゴツと子宮を突き続けていて、下腹部の奥から熱いものが込み上げ\nてくるのが感じられた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ん、くぅっ……搾り取られそうだ……！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ん、ああぁっ！　き、きてぇっ、ふあっ、　出してっ！　あ、あ、あっ、い\nっぱい、し、搾り取る、　からぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104132" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_06" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「だから、き、今日もっ、ん、んああぁっ！　おま○この、　中にっ、ふあっ\n、あ、はあぁんっ、全部出してぇっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104133" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「イクぞ、んんっ、小春っ……出すぞ！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「あ、ああぁっ！　おち○ちんが、ん、ひあっ、すごくっ、　お、大きくなっ\nて……！　ふ、あっ、んはあっ、あっ！　ああっ、これ、もう、ん、ううっ、\n感じ、すぎる……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104134" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_07" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「おま○こ、と、蕩けそうな、くらいっ、ひ、んんんっ！！　気持ちよくてぇ\nっ、あ、くああっ、私も、もうぅ、んんっ、　もう、イクッ、んあぁっ……！\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104135" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「んああぁっ！！　イクッ、もうイクッ……！　う、あっ、　イクッ、イっち\nゃうぅぅっ……う、あっ、ああああぁっ！　イクッ、イクッ、イクッ――――\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104136" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「んはああああぁぁぁぁぁーーーーーーーーーーーーーーーーーーーーーーー\nーーーッッ！！！！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104137" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_12" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ん、くぅっ……！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "最後に一突きした瞬間、強烈な快感の波が押し寄せてきた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "イチモツからは精液が噴き出し、小春の中に流れ込んでいく。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "小春もその刺激を受けて大きな悲鳴を上げながら、オマ○コをぎゅっと締め付\nけてきた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ああぁっ、く、はっ……入って、くるぅ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104138" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「くうっ、本当に……搾り取られてる……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ふ、はっ……く、はああぁ、ん、ひああぁっ……　いっぱい、中に……うあ\nっ、溢れ、ちゃうぅぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104139" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あと……少し……！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「んはっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104140" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "最後に強く腰を前に突き出すと、小春の背中がビクビクッと震えた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "膣の締め付けは最後まで強くて、俺の下腹部に溜まっていた精液を一滴残らず\n搾り取ってくる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そこから広がってくる快感に浸りながら、俺はゆっくりと体の力を抜いていっ\nた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「はあっ……はあっ……はあっ……」", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029601_02_13" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「はあぁっ…………はああぁっ…………」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104201" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「すっげー、気持ちよかった」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「わた、しも……あぁ…………」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104202" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "小春が脱力して、窓のほうに体重をかける。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "顔は真っ赤に染まり、額には汗が浮かんでいた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「もう……見回りの、途中だったのに……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104203" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「悪い。我慢できなかった」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「ふふっ、いいよ……私も、我慢できなかったから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104204" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "小春" ]},
+		{"command":[ "SETTEXT", "「見回り、再開しないといけないけど……　もうちょっとだけ、このままで、\nいさせてね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_296_0104205" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

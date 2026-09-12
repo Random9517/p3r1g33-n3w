@@ -1,0 +1,484 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0052" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00020116_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev201_16b_0000", "ev201_16b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETCHARA", "0", "char_00020116_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「様々な次元をさすらい歩くうちに、まさかまたあなたと巡り会うことができ\n　るとは思わなかった」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETCHARA", "0", "char_00020116_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「あなたと海で戯れることができて、とても楽しい時間だったぞ。ありがとう。\n　しかし……これで終わりたくはないな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETCHARA", "0", "char_00020116_01", "1", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「すまない。わがままだとは思っているのだが、あなたとこのまま別れるのが\n　惜しいと思ってな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETCHARA", "0", "char_00020116_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「この海でのできごとを忘れないように、ここで私のことを、抱いてくれない\n　だろうか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETCHARA", "0", "char_00020116_01", "4", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「私には、過去の記憶がない。だからこそ、いまのことをしっかりと記憶して\n　おきたいのだ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETCHARA", "0", "char_00020116_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「なぜか惹かれてしまうあなたのことを、決して忘れてしまわないように」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_01" ]},
+		{"command":[ "SETTEXT", "「……んっ！　そ、そうか……抱いてくれるか……。ああ、さっそくあなたの\n　硬いモノが、押しあてられている……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_02" ]},
+		{"command":[ "SETTEXT", "「あ、ああ……熱いチンポの存在を、感じる……。んっ、そうやって、こすり\n　つけられると……私も、すぐに……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「やはり、あなたのチンポを感じていると……はぁ、はぁ、オマンコがあっと\n　いう間に、蕩けてしまう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_03" ]},
+		{"command":[ "SETTEXT", "「腹の奥が疼いて……んっ、切なくなる……。ここに……オマンコに……その\n　チンポを挿れてほしくて、たまらなくなってしまう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「ああ、きてくれ……。あなたの勃起チンポで、私のオマンコを、貫いて……\n　っ！　あっ、ああ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_06" ]},
+		{"command":[ "SETTEXT", "「ああぁああんっ！　き、きた……。硬い……熱い……太い……ち、チンポ…\n　…ぉ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_05" ]},
+		{"command":[ "SETTEXT", "「あなたも、感じてくれ……。私の、オマンコを……。んっ、ああ……チンポ\n　に反応して、ぎゅうっと、締まっているのを……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_06" ]},
+		{"command":[ "SETTEXT", "「ああっ、あなたのチンポで、オマンコが満たされて……っ！　んんっ、腰を、\n　遣われたら……私も……ああぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev201_16b_0000", "ev201_16b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「腰を、一緒に……んっ、あぁっ！　あなたのチンポを、もっと、もっと感じ\n　られるように、動かして……んっくぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「な、なぜだ……。あなたのことを、こんなにも求めてしまう……。はぁ、は\n　ぁ、身体が……あなたを欲して……やまない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「あなたに対して、どうしてこんなに……んんっ、臆面もなく、淫らな姿を晒\n　してしまっているのか……はぁ、はぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「ああぁぁっ！　ち、チンポが、ずぶりと奥にぃ……っ！　あはぁっ、つ、突\n　き刺さって、子宮にまで、届いている……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「そ、そうだな……。んっ、いまは、あなたを感じることに専念するとしよう\n　……。このチンポを、しっかり記憶するためにも……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「私からも、もっと、もっと……腰を……っ！　ああっ、あなたのことを、身\n　体で覚えるために……んっ、あぁ、はぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「オマンコの中で、んっ、チンポがどんどん大きくなっている……。んっ、あ\n　あ、私のオマンコで、気持ちよくなっているのだな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「ああ、ともに、快楽に溺れる時間を過ごそう……。んんっ、オマンコだけで\n　なく、私の身体を、すべて味わってかまわないから……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「ああぁんっ！　あなたの腰遣いも、激しく……んくっ、チンポで、オマンコ\n　が、めちゃくちゃにされるようだ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ、オマンコの中を、いっぱいこすられて……っ！　ああっ、ひと\n　突きされるたびに、頭が真っ白になってしまう……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「あなたも、私の身体に、夢中になっているようだな……。あっ、ああっ、吐\n　息が乱れて、んっ、余裕がなくなっているとみえる……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「あ、ああ、私もだ……。私も……絶頂が、近づいてきているのを感じている\n　……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「あなたのチンポが、何度も、何度も、マンコの奥を叩き……あぁんっ！　子\n　宮口を、ぐりっと持ちあげて……きて……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「ああぁっ！　このチンポに、その動き……繰りかえされると……っ！　はぁ\n　っ、はぁっ、たまらない……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「もっと、求めてしまう……チンポを……ああっ、亀頭を、子宮へ招き入れる\n　ように……んく……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「子宮口が、おりて……。はぁ、はぁ、あなたの……熱く、濃厚な精液を……\n　欲しがって、いる……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「このまま、私のいやらしいオマンコを感じてくれ……。そして、遠慮などい\n　らないから、劣情の限りを注いでくれ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「こうしてまた巡り会えた、あなたとの夏の思い出……。私の子宮に、決して\n　忘れないよう刻み込んでほしい……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、さらに激しく、ピストンが……ああんっ！　子宮……突きあ\n　げて……あっ、ああっ、揺さぶられて……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「パンパンの亀頭を感じるっ！　チンポ感じるぅうっ！　ああっ、ああっ、あ\n　なたもイキそうなのだな、んぁっ、はぁあんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「きてくれ、きて、中出し、射精ぇ……っ！　熱い滾りを私のオマンコへ、た\n　くさん、注いで、溢れるほどに……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_09" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「はぁあっ！　あああぁぁぁああぁぁあぁ～～～～っ！！　き、きたっ、精液\n　っ、あっ、んくぅうううぅぅぅっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「い、いい、イク、イクイクイク……ッ！　おっ、オマンコ、オマンコにびゅ\n　くびゅく、くる……精液、ああっ、熱いぃ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_08" ]},
+		{"command":[ "SETTEXT", "「はぁっ、はぁっ、まだ、でている……っ！　チンポが中で跳ねながら、精液\n　を吐きだしているのが、わかる……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「んふぅ……っ！　い、イク……ッ！　子宮が、悦んでいる……！　あなたの\n　精液を浴びながら、んくっ、イクのが、おさまらない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「はぁ……はぁ……。なぜ、こんなに……。あなたとの、セックスは……ふふ\n　……満たされた心地が、するのだろうな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_07" ]},
+		{"command":[ "SETTEXT", "「あ……ん……っ！　ど、どうした……？　もっと、私のことを抱いてくれる\n　のか……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "PLAYANIM", "0", "ev201_16b_0000", "ev201_16b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「ああぁんっ！　い、イッている最中なのに、オマンコをまたかきまぜて……\n　っ！　んぁあっ、はぁああぁぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「そ、それは、んんっ、刺激が強すぎる……っ！　んぃっ、いいっ、イク……\n　イッてしまう……ぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「わ、私が絶対に、んぁっ、あなたのことを、忘れないように……んんぅっ！\n　い、イキまくらせると、いうのだな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「い、いいぞ……。何度でも、イかせてくれ……。ああ、このチンポを、オマ\n　ンコに刻み込むように犯してくれ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、あなたのチンポだけでない……っ！　んっ、くぅっ、あなた\n　の手の、愛撫も……ああぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「その手つき、んんっ、やはり懐かしい……ああんっ！　やはり、あなたとは\n　……ど、どこかで……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「ああっ、だ、だめだ……。気持ちよくて、頭が回らない……んんっ、チンポ、\n　チンポで……また、イク……イかされる……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「ああぁんっ！　イク、身体に何度も、細かなアクメがやってきて……んっ、\n　あっ、ああっ、ああぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「そのたびに、また、あなたのチンポをぎゅっと、締めつけてしまっている…\n　…んくっ、まだまだ元気な……チンポ……ぉ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「あなたもまた、この時間で私のことを、味わいつくそうというのだな……。\n　んっ、そうだな、私も……ここに長居はできないから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「また次、どこかで会えるという保証もないのだから……。んっ、そう思うと\n　あなたが……なおさら愛おしい……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ、オマンコが締まって……っ！　んっ、あなたのチンポをキツく\n　抱きしめてしまう……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「この、私のオマンコの抱擁を、あなたも気持ちいいと感じてくれているのだ\n　な……ああっ、チンポが、跳ねている……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「んっ、んぁっ、ビクビクと暴れて……ああんっ！　また、射精が迫ってきて\n　いるのを感じる……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「かまわない……。だしてくれ、ああ、あなたの思うように、私の身体に精液\n　をぶちまけてくれていい……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「ああああっ！　腰がっ、ピストンが……っ！　はぁっ、はぁっ、強いっ、ん\n　んっ、快感で全身が痺れて……んくぅううぅぅっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「し、しっかりと、抱きしめて。ああっ、私にあなたのぬくもりを、精液を…\n　…っ！　あっ、ああっ、私も……また……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「い、イク……イッてしまう……っ！　あっ、ああっ、全身であなたを感じな\n　がら……イク……ッ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「あなたも……ああ、射精を……っ！　精液を、あっ、ああっ、また……私に\n　ぃ……っ！　はぁっ、はぁっ、はぁ……っ！　はぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_12" ]},
+		{"command":[ "SETTEXT", "「あああぁぁぁああぁぁあぁ～～～～っ！！　いいっ、またっ、精液……ぃ…\n　…っ！　んぁっ、くっ、くる……くる……ぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_11" ]},
+		{"command":[ "SETTEXT", "「オマンコがっ、あっ、いっ、いっぱいにっ、なる……っ！　精液で子宮まで\n　満たされながら……ぁ……イク……ッ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_12" ]},
+		{"command":[ "SETTEXT", "「い、イク、イク……ッ！　んふっ、うっ、うう……っ！　んっく……っ！　\n　ああぁっ、イク、イクイク……ッ！　こんなに……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_11" ]},
+		{"command":[ "SETTEXT", "「あなたの精液が、またたくさん……っ！　はぁ、はぁ、遠慮しなくていい…\n　…だしきってしまっていい……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_12" ]},
+		{"command":[ "SETTEXT", "「私のオマンコで、いっぱい気持ちよくなってくれ……。ああ、なにも気にす\n　ることはないから……だして、いいから……ぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETTEXT", "「ああぁぁんっ！　でてるっ、射精してるチンポ、ぐりぐり子宮におしつけら\n　れるぅううぅぅっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_11" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、熱いのを子宮に……っ！　はぁ、はぁ、最後の一滴まで……\n　んん……わ、私に……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_11" ]},
+		{"command":[ "SETTEXT", "「ふふ……いいんだ……。ありがとう……。私のわがままに付きあってくれて、\n　とてもうれしかった……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「楽しい時間も、そろそろ終わりか……。このことは、私の身体と、子宮で、\n　しっかりと覚えていることだろう」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_10" ]},
+		{"command":[ "SETTEXT", "「それでは、さら……いや『さらば』ではない。また会おう、また、必ず巡り\n　会おう。私との、約束だ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_15" ]},
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「ああぁんっ！　そんなっ、チンポを抜いてしまって……ああっ、精液が、か\n　かる……んっ、くぅうううぅぅぅっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_14" ]},
+		{"command":[ "SETTEXT", "「あ、あなたの精液……っ！　まだまだ、こんなに濃厚な……はぁ、はぁ、火\n　照った身体に浴びているだけで……い、イク……ッ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_15" ]},
+		{"command":[ "SETTEXT", "「イッてしまう。んんぅっ！　全身に、ビリビリと快感がはしる……ぅ……っ！\n　あっ、ああ……ああぁぁあぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_14" ]},
+		{"command":[ "SETTEXT", "「はぁ……はぁ……。すごいな……。ふふ……２度目だというのに、たくさん\n　射精できるくらい、私で興奮してくれたのか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_13" ]},
+		{"command":[ "SETTEXT", "「この匂い……。ああ、しっかりと身体と、心に刻み込もう……。ドロドロと\n　した感触も、決して忘れない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_14" ]},
+		{"command":[ "SETTEXT", "「んくっ！　そ、そんなふうに……あんっ、精液を、私の肌に塗りこむように\n　愛撫まで……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「そんなことをされたら……やはり……。あなたの精液をオマンコにまた注い\n　でほしくなってしまうではないか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_13" ]},
+		{"command":[ "SETTEXT", "「私がここを発つまで、まだ時間はあるか……。それなら、まだ……あなたと\n　こうして肌を重ねていてもいいかもしれないな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETTEXT", "「この夜のできごとを、私は絶対にわすれないだろう。だからあなたも、私の\n　ことを覚えていてほしい」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "時空（とき）のさすらい人" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020116_02_14" ]},
+		{"command":[ "SETTEXT", "「私がまた記憶を失ったときに、あなたが私に、私のことを思いださせてくれ。\n　このチンポと、精液……。情熱的な腰遣いで」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1604410" ]},
+		{"command":[ "WAITINPUT" ]},
+				
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

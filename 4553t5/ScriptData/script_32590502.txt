@@ -1,0 +1,477 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0004" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00025905_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev259_05b_0000", "ev259_05b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETCHARA", "0", "char_00025905_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「はーい……こっそり、お邪魔しちゃいま～す。ふふっ、夜這いなんて随分\n　久しぶりよねぇ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETCHARA", "0", "char_00025905_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「よく寝ちゃってる……可愛い寝顔……でも、これが……トロットロになっち\n　ゃうのよねぇ……んふふっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「さて……上から失礼しちゃいま～すっと。んっ……しょっと……流石に、\n　まだ小さいままかしらぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_01" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETTEXT", "「あらあら……ちょっと上から跨っただけなのに……おちんちんがスゴい勢い\n　で、ビクってしてる……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_02" ]},
+		{"command":[ "SETTEXT", "「一瞬で、ご立派なテントを張っちゃってぇ……もしかして、これもゴールデ\n　ンビキニの効果ってことかしら」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「この調子なら、とっても楽しめそうよねぇ……んふふっ、ビキニはずら\n　してぇ……おちんちん……いただきまぁ～す♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_06" ]},
+		{"command":[ "SETTEXT", "「んんっ、はぁぁぁっ……あふっ！　あぁっ、いい感じぃ……思ってたより、\n　もっと硬くて、熱くて……しっかりおまんこにフィットして……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_05" ]},
+		{"command":[ "SETTEXT", "「ダメダメ、焦らないの……最初は、じっくり形を確かめてからよ。今日は\n　よ～く味わうって決めてるんだからぁ……んんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_06" ]},
+		{"command":[ "SETTEXT", "「はぁ……んふっ、太いわぁ……んっ、もっと大きいサイズのモノだってある\n　だろうけど……おまんこがいっぱいに広げられる感じがすごいのぉ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_05" ]},
+		{"command":[ "SETTEXT", "「それに、このとくんって小さな脈動……何だかハメてるだけで心地いいの…\n　…こんな感じ、しばらく味わってなかったわぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「もうそろそろいいわよね……本格的に、このおちんちんを味わってみたく\n　なっちゃったぁ……んっしょ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev259_05b_0000", "ev259_05b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「うんっ、はぁっ、ふっ、んんっ、んふっ……あぁっ、いい、感じぃ……♪　\n　ちょうどカリ首のところが、おまんこのいい所に当たってるぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「んっ、はぁっ、そうそう……この感じを待ってたのよねぇ……んくぅ……\n　私のおまんこにピッタリ吸い付くおちんちん……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はぁっ、ちょうど擦ったら気持ちいいとこ……何度も擦れて……えっちな\n　おつゆ……どんどん溢れて来ちゃう……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「んふぅ……いいわぁ……私が勝手に動いているだけなのに、こんなに感じ\n　ちゃうなんてぇ……やっぱり、このおちんちん別格なのかも……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「んっ、あら……？　ふふっ、そんなことを言ってたら……お目覚めかしらぁ？\n　やっほー、おちんちん、使わせて貰ってまーす♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「状況が見えない？　まぁ、細かいことはいいじゃない。とりあえず、男女の\n　営みをしているだけだから。おちんちん……気持ちいいでしょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「細かいことは何も考えなくていいの。いっぱい、よくしてあげるから……\n　そのままでいいのよぉ？　んっ、あふっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はぁ……んっ、お目覚めになると、また少し擦れ方も変わってくるかも……\n　んっ、大きく回してみるのとかどうかしら……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「あふっ……！　んんぅーっ、いい、感じぃ……♪　あぁ、やっぱり優秀な\n　おちんちんは、どう動かしても気持ちいいわぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「くぅっ……んふっ……どう？　起きたら、とろとろのおまんこがお出迎え\n　してる気分は？　あったかいの……好きでしょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「んふっ……待ってね、もう少しで……気持ちよくぴゅぴゅって射精さえて\n　あげるからぁ……あっ、んんっ、んっ、ぁっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「あら……ふふっ、ちょっと……一方的にされてばかりじゃ、お気に召さない\n　かしら？　いいわ……おちんちんの反撃……大歓迎よ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あんっ、あくっ、んふぅっ……！　んんっ、寝起きにしては……最初から\n　激しくしてくるじゃない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「でも、自分から気持ちいいトコにするのと……こうして不意打ちみたいに\n　されるのじゃ……全然、感じ方も違うし……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「んぁっ、やっぱり単なるオナホみたいにおちんちんを使うより、こっちの方\n　がいいわぁ……その調子で、もっと私のおまんこ……ずりずりしてぇ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はんっ、あんっ、んぁっ、ふふっ……もちろん、沙世子さんのおっぱいも、\n　見たいだけ見ていいのよ？　お触りだって自由……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「そうよね、全身いっぱいに、この柔らかいお肉……感じたいわよねぇ。ふふ\n　……もっと本気で動いてみたら？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「あんっ！　んっ……あふっ！　いい感じ……んっ、私も、どんどん高まって\n　来て……おまんこ、トロトロになってるぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はぁっ、おっぱい……ゆさゆさっ、ゆらしてぇっ♪　足も、一杯に広げてぇ、\n　ほら……くぱって繋がってるトコも丸見えぇ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「どんどん、気持ちが高まってっ……んっ、あぁっ、すごっ……私のおまんこ\n　も、イキそうになってる……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「さっきまで、余裕あったのに……こんなに、私が追い込まれていくなんてぇ\n　……やっぱり、貴方のおちんちん……素敵よぉっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「さあ、もう出るわよねっ？　ラストスパート……しちゃいましょっ♪　ほら\n　っ、んっ、しょっ、あんっ、あぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「決まってるわっ……もちろん、このまま中出しっ……膣内射精だからねっ？\n　さあっ、ドピュドピュっ、いっぱい出しちゃいなさいっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_09" ]},
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「んくぅぅぅんっ……！　来たわぁっ……あぁぁっ、熱いザーメンっ……\n　おまんこっ、中出しぃっ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「あっ、あぁぁっ……うそっ、何これっ……あっ、すごっ、いいっ！　こんな\n　に気持ちいい中出しぃ……は、初めてかもぉっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_08" ]},
+		{"command":[ "SETTEXT", "「はぁぁぁ……ヤバ……夜這いしてる方がメロメロになっちゃうなんてぇ……\n　サキュバスなのにぃ……でも、堪らない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_09" ]},
+		{"command":[ "SETTEXT", "「あっ、ふぁぁぁ……おまんこ……こんなイキ方してるの……は、初めてぇ…\n　…んふぅぅぅぅ……はぁぁぁぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_08" ]},
+		{"command":[ "SETTEXT", "「はふぅ……これは、思った以上に収穫だったわ……まさか、こんないい\n　セックスができるなんて……ゴールデンビキニのお陰かしら」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_07" ]},
+		{"command":[ "SETTEXT", "「さ……これから、どういう感じにしようかしら。一度味わってそれで終わり\n　じゃ、勿体ないわよねぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「あら……大丈夫？　ごめんなさい、そう言えば貴方自身の希望も聞いておい\n　た方がいいかしら。私ばかり盛り上がっても仕方ないわよねぇ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_08" ]},
+		{"command":[ "SETTEXT", "「いいのよ、好きなように続きをしても……もし貴方が望むなら違うやり方も\n　……んぁっ！？　あっ、ちょっ……んんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev259_05b_0000", "ev259_05b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「いきなり下から激しく……あぁっ、おちんちんっ、ずりゅって……続きが…\n　…いいってコト……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「いいわ……それなら、それで……あひっ！　奥っ……当たるぅ……えっ、\n　も、もっと奥に……おちんちん……膨らんでるっ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「んぁっ！　待って……何、これっ……おまんこ、広げられる感じが……\n　ぜ、全然違って……しかも、まだ大きくなって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETTEXT", "「なのにっ……ピストンがまだ速くっ！　んぁっ、お、おまんこっ……メチャ\n　クチャにされてるぅっ！　はひっ、ひぃぃんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「あっ、あぁぁっ……で、でもっ、サキュバスのおまんこを侮らないでっ……\n　どんなに乱暴なおちんちんでもっ、しっとり柔らかく包みこんで……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はぁっ、んっ、トロトロにして……お迎えするんだからぁ♪　あぁっ、\n　で、でもっ、この本気おちんちんっ、かなりっ……効く、かもぉ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「あんっ、あっ、あひっ、あぁっ……やっ、狙わないで……声が出ちゃうっ、\n　メスの本能の叫び、漏れちゃうっ、おっ、あぉぉぉっ、ほぉぉっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はっ、あぁっ、い、今……乳首ぃっ♪　んひっ、わ、脇腹ぁっ……あぁっ、\n　なんでっ、私の好きなトコっ、ばっかりぃっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「あんっ、あぁっ、してっ、もっとっ……あぁっ、してぇっ！　私の性感帯っ\n　……ビンビンに感度上がって来てるからぁっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あっ、ひっ、はぁぁぉんっ！　もっとメスの叫び……上げさせてっ！\n　ドスケベサキュバス分からせてっ、はひっ、あひぃんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「すごっ、ペースが……全然衰えないっ……あぁっ、おまんこのお肉っ、貪り\n　尽くされてるのっ……気持ちいいっ！　こんなのって……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「あぁっ……目が……据わってる……これって……ビキニの力が強すぎて……\n　んぁっ！　でも……はぁっ、今は……このまま、もっと……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はんっ、あぁっ、しゃぶり尽くされるっ……！　あぁっ、オスの漲りおちん\n　ちんがっ、おまんこの中……ガツガツされてっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はぁんっ、ぐちゅぐちゅっ、ずぼずぼっ、いやらしい音止まらないっ！\n　私の腰もっ、全然止まらないのっ、あんっ、んぁぁぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あぁっ……おちんちんっ、またビクビクしてきたっ……出したいのねっ？　\n　いいわっ、もっと欲望……ありったけっ、出し切ってっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「あんっ、あぁっ、はひぁぁっ！　また、激しくっ……こんなのっ、普通の\n　メスなら壊れちゃうわよぉっ、あひっ、あへぁぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はぁんっ、私もっ……これっ、本気でイキそっ、あぁっ、大股開きの、\n　パックリ騎乗位でっ……ずっぽりっ、ちんちん咥えこんでっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はひっ、イクっ！　イクわっ！　あぁっ、貴方も出してっ……また、オス\n　まみれのドロドロザーメンぶち撒けてぇっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+		
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_12" ]},
+		{"command":[ "SETTEXT", "「んくぅぅぅぅぅんっ！　あぁぉっ……中……またっ、来てるっ……おまんこ、\n　いっぱいになってるぅぅんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「はへぁぁ……いい……出されながら……まだ、動いてるなんてぇ……こんな、\n　あっ、腰砕けになっちゃうぅぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_11" ]},
+		{"command":[ "SETTEXT", "「んふぅ……あぁ……いいわ、全部流し込んで……貴方の、オスの本能……\n　私の一番大事な場所で独り占め……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_12" ]},
+		{"command":[ "SETTEXT", "「嘘……まだ出てくるの……？　このきんたまに、どれだけザーメン溜め込ん\n　でたの……はぁぁん……もう、ダダ漏れじゃない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_10" ]},
+		{"command":[ "SETTEXT", "「んっふ……はぁ、はぁ……あ、あら……大丈夫？　何だか急に力が……\n　ぐったりしちゃって……終わったの……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_11" ]},
+		{"command":[ "SETTEXT", "「電池切れになっちゃったみたい……まぁ、無理もないわね……こんな欲望\n　まみれの暴走したら、普通の男ならもっと早く倒れてたかも……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「でも、これはこれで貴重な経験だったわねぇ……まさか、ゴールデンビキニ\n　に、ここまでオスを暴走させる力があったなんて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_10" ]},
+		{"command":[ "SETTEXT", "「今までしっかり封印されてた理由もよく分かったわ……。これは、私が責任\n　を持って、元の所に戻しておかないとねぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「……でも、あの感じを楽しめるのは、そう悪いことでもないわよねぇ……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_11" ]},
+		{"command":[ "SETTEXT", "「もちろん、最終的には戻すとしても……今のうちに、もうちょっと楽しんで\n　おくのは……悪くないかも……ね♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_15" ]},
+		{"command":[ "SETTEXT", "「あひぃぃぃっぃっ！　ザーメン、ぶっ掛けっ……シャワーっ、始まってるぅ\n　ぅんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「んはぁぁ……いいわっ、いっぱい掛けてっ、全身浴びせてっ……私も、ビキ\n　ニもっ、中出しと同じ位っ……ドロドロにしてぇっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_14" ]},
+		{"command":[ "SETTEXT", "「はぁ、濃いわぁ……このオスの生臭さ……ぴちゅっ、うぅん……新鮮な精子\n　……あぁ……美味しい♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「あん……ベッドに染みちゃうの勿体ない……ぴちゃ……ちゅぷ、全部舐め\n　取りたい位だわ……れろぉ……れる……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_13" ]},
+		{"command":[ "SETTEXT", "「ちゅぱ……はふぅ……あぁ、おちんちん……落ち着いてきたみたい……\n　凄かったわ、貴方のこと見直し……あら……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETTEXT", "「寝てる……ちょっと、もしもーし？　あららぁ……これ……完全に力尽きち\n　ゃった感じかしらぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_14" ]},
+		{"command":[ "SETTEXT", "「これって、やっぱり……このゴールデンビキニが悪さをしてたってことにな\n　るわよねぇ……もう、私がサキュバスじゃなかったらどうなってたか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_13" ]},
+		{"command":[ "SETTEXT", "「伊達に封印されてたわけじゃなかったのはよく分かったけど……これ、どう\n　しようかしら……一応、元に戻しておくべきなんでしょうけど」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_14" ]},
+		{"command":[ "SETTEXT", "「いけないわね……私ったら、今、すごくいけないことを考えてた気がするわぁ\n　……これって、ある意味ビキニに支配されてるってことかも……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "沙世子" ]},
+		{"command":[ "SETIMAGE", "0", "still_00025905_02_13" ]},
+		{"command":[ "SETTEXT", "「とりあえず、もう少しだけおちんちんを楽しんでぇ……後のことは、もう\n　ちょっとしてから考えましょ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_259_0504410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

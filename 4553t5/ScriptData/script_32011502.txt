@@ -1,0 +1,486 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0393" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00020115_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev201_15b_0000", "ev201_15b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETCHARA", "0", "char_00020115_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「……なるほど。あなたは時空転移とやらで、私の元にやってきたのか。それ\n　は災難だったな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETCHARA", "0", "char_00020115_01", "1", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「私も気付いたらここに居た……記憶と力をなくし、ただひたすら追っ手から\n　逃げている……流浪の旅人、とでも言えばいいのだろうか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETCHARA", "0", "char_00020115_01", "3", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「……んっ？　私と初めて会ったばかりなのに、なぜか惹かれてしまうだと？\n　……奇遇だな。実は私も、あなたを見ていると心が弾んでしまう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_01" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「ふふっ……出会ったばかりで、お互いに肌を重ね合わせるとはな。これは運\n　命、というものだろうか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「本当に不思議だ……こうしてあなたのオチンポを感じるだけで、子宮がズキ\n　ズキと疼いてくる……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_02" ]},
+		{"command":[ "SETTEXT", "「あなたが欲しい……あなたのたくましいモノで、奥の奥まで愛して欲しい…\n　…そんなことばかり考えてしまうぞ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「ほら、見てみろ……ろくに愛撫もされていないのに、私のオマンコはもうト\n　ロトロだ……あっ、んっ……はっ、あはぁぁっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_03" ]},
+		{"command":[ "SETTEXT", "「はっ……はっ……んっ、ぐっ……あ、あなたのザーメンが欲しくてたまらな\n　い……早くあなたと一つになりたい……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_02" ]},
+		{"command":[ "SETTEXT", "「出会ったばかりでこんなことをいう女は嫌いかも知れないが……あなたのオ\n　チンポで満たされたいんだ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「だから頼む……私のオマンコにその大きなオチンポを挿れて、思いっきり突\n　きまくって……あんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_06" ]},
+		{"command":[ "SETTEXT", "「あっ！？　ひゃ、んぁっ！　は、入ってくるっ！　太くてカタいオチンポが、\n　オマンコの奥まで……んひぃぃっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_05" ]},
+		{"command":[ "SETTEXT", "「ぐっ……おっ……おぉっ……なんて大きさだ……私のオマンコの肉が思いっ\n　きり拡げられている……んふぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_06" ]},
+		{"command":[ "SETTEXT", "「だ、大丈夫だ……苦しいわけじゃない……むしろ、嬉しくて頭がどうにかな\n　りそうだ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「遠慮しないでいっぱい動いてくれ……私のオマンコがあなたの形になるくら\n　い、犯しまくってくれ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev201_15b_0000", "ev201_15b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「あんっ！　あっあっ！　ひゃ、ふっくぅぅぅっ！　オ、オチンポがオマンコ\n　を出入りしている！　奥のところに当たって……んひぃっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「すごい勢いで私の大事なところが突かれている！　こんな乱暴に求められた\n　ら、嬉しくて感じてしまう！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「ひっぐっ！　んっ、うっ、あっ！？　あっあっあっ、うっ、んふっ！　ぐぐ\n　っ……あっ！　んぁ、あんっ！　はっ、ふはぁぁぁぁぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「初めてのはずなのに、すごく久しぶりな感じがする！　私のオマンコ、もう\n　とっくにあなたの形になって……んんんっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「どうして……あっ、あぁぁっ！　このようなこと、あるはずがないのに……\n　んひゃあぁっ！？　ま、また奥にオチンポ刺さってぇっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「はぁ……はぁ……な、なんだ？　私とセックスしていると、童心に帰ったよ\n　うな気持ちになるのか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「ふふっ、奇遇だな……んっ……あっ！　わ、私も……あなたと繋がっている\n　と、母性のようなものを感じるぞ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「私に子供が居たか定かではないが……子供と愛し合うというのは、おそらく\n　こんな気持ちなのだろうな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「試しに私のことを母を呼んでみて……いや、何でもない……気にしないで、\n　もっと動いてくれ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「ひゅっ、ぐっ！　んんっ！　あっ、あんっ！　あっ、おっ、おぉぉっ……\n　オ、オチンポが子宮口に刺さるぅ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「そんな乱暴に突かれたら、私の大事なところが開いてしまう！　赤ちゃんの\n　部屋の入り口が広がって……はぁぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あ、あなたにも分かるか？　子宮口がオチンポの先端に吸い付いて、ずっと\n　キスをしているのが……あっ、んっ、あっ！　あっうぅぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「子宮があなたとの子供を求めている……初めて会ったばかりの男に恋をして\n　いるんだ……こんなこと、今まで一度もなかった！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「一目惚れなんてものじゃない……あなたは私の大切な人だと、本能が教えて\n　くれているみたいで……んんっ！　くひゅうぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あっ、うぁっ！　んっ、あっ、あっ！？　こんなにも人を愛おしいと思うだ\n　なんて！　あんっ！　あっ、ひゃはぁぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「はっ、ふっうっ！　んぅぅっ！　ぐぅぅぅ～！？　幸せすぎて、オマンコイ\n　ッてしまう！　ア、アクメしてしまうぅぅっ！｝", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「ひゃあぁぁっ！？　オ、オチンポが奥のところでビクビク跳ねているぞ！？\n　あ、あなたもイキそうなのか！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「なら、一緒にイこう！　私はあなたとイキたい……膣内出しされながら、も\n　っとこの幸せを味わいたいのだ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「遠慮などしなくていい！　私の子宮に向かって、思いっきり精液をびゅーび\n　ゅー吐き出してくれ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あなたと一緒にオマンコをイカせて……ひゃあぁぁっ！？　あっ、んぁっ！\n　あっおっ、あっ！？　イッ、イクッ……イクッ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「くるっ！　気持ちいいのがオマンコの奥から溢れて……イッ、イクッ！　イ\n　クイクイクッ！　イクぅぅぅぅぅ～～～～～っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_09" ]},
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あっ！？　あぁぁっ、はぁぁぁぁっ！　オチンポがビクビク暴れて子宮口を\n　擦ってくるっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_08" ]},
+		{"command":[ "SETTEXT", "「熱い粘液がヘソの下のところ……子宮の中に注がれているのが分かる！　き、\n　気持ちよすぎて、頭がどうにかなりそうだ！｝", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_09" ]},
+		{"command":[ "SETTEXT", "「はっ、あっ！　うぅぅぅっ！　ふはっ、くっはぁぁぁっ！　あ、あなたのザ\n　ーメン、とても心地いいぞ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_08" ]},
+		{"command":[ "SETTEXT", "「もっと膣内に……子宮に精液を注いでくれ！　私のことを孕ませ……母にす\n　るくらい、いっぱい出してくれ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_09" ]},
+		{"command":[ "SETTEXT", "「んん～～～っ！　あっ、うぁぁぁっ！　イクッ！　イクぅぅぅぅっ！　気持\n　ちよすぎて、何度でもイッてしまうぅぅぅ～～～～っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_08" ]},
+		{"command":[ "SETTEXT", "「はぁぁぁぁぁっ……すごい量だな……私のオマンコがザーメンでいっぱいに\n　なっているぞ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_07" ]},
+		{"command":[ "SETTEXT", "「子宮からもずっしりとした感触がする……これがすべて、あなたの子種と思\n　うと、幸せな気持ちが止まらなくなるってしまうな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「ふふっ……このままだと、放浪の身なのに身ごもってしまいそうだ……だが、\n　それもいいかと思えてくる」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「んっ？　どうした？　……なるほど。もっと私と繋がり、一つになりたいと\n　……もちろん構わないぞ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_08" ]},
+		{"command":[ "SETTEXT", "「私ももっとあなたを感じたかったところだ……初めてなのに、誰よりも大切\n　だと思えるあなたと……幸せな時間を共有したい……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "PLAYANIM", "0", "ev201_15b_0000", "ev201_15b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あんっ！　やっ、あっ！　あはぁぁぁんっ！　そ、そんな、いきなり激しく\n　……んんっ！　さっきよりも動きが荒々しいぞ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「オチンポもより大きく、カタくなって……す、すごい！　オマンコの奥から\n　浅いところまで、えぐられる感じがするぅ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あぁぁぁっ！　んっ、うぁ！　ひゃはぁぁぁんっ！　あなたとのセックス、\n　本当に気持ちいいぞ！　もっと感じさせてくれ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「子宮に収まりきらなかったザーメンを、奥までいっぱい押し込んで……んぐ\n　ぐっ！？　おっ、おぉっ……おっふぅっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ！　す、好きだ……あなたのことが何よりも愛おしい！　深く繋\n　がるたびに、その気持ちが止めらなくなる！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「身体だけでなく、心でも繋がりたい……あなたとこのまま終わりたいくない\n　……そう思えてきて……ひゃ、んぁぁっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「なんなんだ、このヘンな気持ちは！　今まで旅をしてきた中で、こんなに苦\n　しくなることはなかった！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「気持ちいいだけでなく、温かな気持ちになるだなんて……うっ、んぅぅっ！\n　あんっ！　あっ、おっ、おほぉぉぉっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「し、子宮口えぐられて……あなたのぶっといオチンポで、ズンズン突かれま\n　くっているぅ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「こんなの、またイッてしまう！　もっとこの幸せな時間を味わいたいのに…\n　…お、終わらせたくないのにぃ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あぁぁぁっ！？　ダ、ダメだ……もう我慢がっ……んん～～～～っ！？　イ\n　ッ、イクッ……イッてしまぅぅぅっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「んぁっ、はっ！　ふはぁぁぁっ！　あ、あなたもまたイキそうなのか！？　\n　射精を我慢できないのだな！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「なら、また私の膣内に……いや、あなたの好きなところに出してくれ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あなたのザーメンなら、どこに出されても嬉しい！　膣内に出されても、ぶ\n　っかけられても、どちらでもアクメできる！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「だから私をイカせて……ほぉぉぉっ！？　おっ、んおぉぉぉ～～～～～っ！？\n　イグッ！　イグッ！　オマンコイックぅぅぅぅぅ～～～～～っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_12" ]},
+		{"command":[ "SETTEXT", "「おっ！？　おぉぉっ……ほぉぉぉぉぉ～～～～～っ！　ま、また膣内に！　\n　子宮にびゅるびゅるザーメン出てぇ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_11" ]},
+		{"command":[ "SETTEXT", "「あ、熱いぃ！　こんなのオマンコが火傷してしまう！　だが、ものすごく気\n　持ちいい！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_12" ]},
+		{"command":[ "SETTEXT", "「もっと膣内に……た、種付けをしてくれ！　私のことを忘れなくなるくらい、\n　膣内に精液を注いでくれ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あなたとの深い繋がりをもっと感じさせて……んんんっ！　おっ、ひぎっ！？\n　おっ、あっ！　あっあっ、おひょぉぉぉっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_11" ]},
+		{"command":[ "SETTEXT", "「く、くるっ！　またアクメくるっ！　何回もイッて、アクメしまくってしま\n　ぅぅぅぅぅ～～～～～っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_12" ]},
+		{"command":[ "SETTEXT", "「あっ……あぁっ……こんなに出して……さすがに疲れただろう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_10" ]},
+		{"command":[ "SETTEXT", "「いいぞ……このままゆっくり休むがいい……私の腕の中で、赤子のように眠\n　ってくれ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「……ふふっ。なんなのだろうな、この温かな気持ちは……まるで我が子を抱\n　きしめているようだ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あなたとは初めて会ってのだから、赤の他人のはずなのに……どうしてもそ\n　うは思えない」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「……名残惜しいが、そろそろ行かねばな……またいつか……いや、必ず再開\n　すると約束しよう。私の愛しい人よ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+
+		
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_15" ]},
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あんんっ！　あっ、熱い汁が……あなたの濃厚ザーメンがこんなに……はぁ\n　ぁぁぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「この鼻の奥を貫くような刺激的な香り……くさいはずなのに、とてもいやら\n　しくて、永遠に嗅いでいられそうだ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_14" ]},
+		{"command":[ "SETTEXT", "「はっ、うぅぅっ！　胸や腹にもいっぱいかけられて……あっ！　あぁぁっ！\n　なんという幸せな時間なのだろう！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「あなたの匂いを膣内だけでなく、身体全体に浴びせて貰えるだなんて……今\n　まで旅をしてきた甲斐があるというものだ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_15" ]},
+		{"command":[ "SETTEXT", "「さあ、もっと精液をぶっかけてくれ！　あなたの匂いを身体中に染み込ませ\n　て、取れないようにしてくれぇっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「んっ……ふっ……くひゅうぅぅぅっ……いっぱい出してくれてたな……本当\n　に感謝するぞ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_14" ]},
+		{"command":[ "SETTEXT", "「この幸せな時間だけは絶対に忘れない……例えまた記憶を失ったとしても、\n　あなたのことだけは覚えておく」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETIMAGE", "0", "still_00020115_02_13" ]},
+		{"command":[ "SETTEXT", "「……なんだ、出し疲れて眠ってしまったのか？　ふふっ……なんと可愛い寝\n　顔だ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「……こんなにも誰かと離れたくないと思ったのは初めてだ……出来ることな\n　ら、ずっとあなたとこうしていたい……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "刻の女王" ]},
+		{"command":[ "SETTEXT", "「だが、私がここに留まればあなたにも迷惑がかかる……それは私が望むこと\n　じゃない……だから、またいつか、どこかで会おう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_201_1504410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

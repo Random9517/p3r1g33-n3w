@@ -1,0 +1,335 @@
+{
+    "scriptCommands" :  [
+        {"command":[ "FADEIN", "NORMAL" ]},
+        {"command":[ "SETIMAGE", "0", "bg_0252" ]},
+        {"command":[ "DISPIMAGE","0", "TRUE" ]},
+        {"command":[ "FADEOUT", "NORMAL" ]},
+        {"command":[ "PLAYBGM", "BGM_015" ]},
+        {"command":[ "LOADANIMIMAGE", "0", "anim_00034101_02" ]},
+        {"command":[ "SETANIMRANGE", "0", "ev341_01b_0000", "ev341_01b_0023" ]},
+        {"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+        {"command":[ "WAITMOVE" ]},
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「――お兄ちゃん、あのさ……」", "NORMAL" ]},
+        {"command":[ "SETCHARA", "0", "char_00034101_01", "0", "CENTER", "0" ]},
+        {"command":[ "DISPCHARA", "0", "TRUE" ]},
+        {"command":[ "DISPTEXT", "TRUE" ]},
+        {"command":[ "DISPNAME", "TRUE" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「なんだよ、モジモジして」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「ちょっと……その、休んでいかない？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "唯はそう言って俺の腕に絡みついてくる。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「な、なんだよ、どうしたんだよ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「お兄ちゃんだって……、さっきの撮影で少しは興奮してたんでしょ」", "NORMAL" ]},
+        {"command":[ "FADEIN", "NORMAL" ]},
+        {"command":[ "FADEOUT", "NORMAL" ]},
+        {"command":[ "DISPIMAGE","0", "FALSE" ]},
+        {"command":[ "DISPCHARA", "0", "FALSE" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「そういうことか……。それなら家に帰って――」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「む、無理だよ……。唯はもう、我慢出来ないの。\n　お母さんが寝るまで待てない……！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「そんなにかよ……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "俺は冷静な振りをして唯の相手をしていたが、\n内心は唯同様に興奮を押し殺していたのだった。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「ね、お兄ちゃん……。撮影で使った下着、着けたままなの。\n　それを着けたまま……ね？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「――はっ、あ、うんっ……！お兄ちゃんの……入ってくるっ」", "NORMAL" ]},
+        {"command":[ "FADEOUT", "NORMAL" ]},
+        {"command":[ "DISPIMAGE","0", "TRUE" ]},
+        {"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+        {"command":[ "PLAYANIM", "0", "ev341_01b_0000", "ev341_01b_0023", "true", "ALL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「く……、唯の中、もうトロットロになってるじゃないか……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "唯の秘穴はぬるりと俺のモノを飲み込むと\n中のヒダが締め付けながら絡みついてきた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「んっ、あふ……、お兄ちゃんだってすごく硬いよ……。\n　それに、んくっ、熱い……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「撮影の時から……濡れてたのか？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「だって、こんなエッチな下着を着けさせられて\n　あんな誘うようなポーズを取らされてさ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「誰だって意識しちゃうよ……。んっ、はう……っ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「あっ、あっ……そこ、気持ちいいっお兄ちゃん、そこもっと擦ってっ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「ん……あふぅ、お兄ちゃん、\n　今日の撮影がああいうのだって知ってたの……？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「これは誓って言うが……、本当に知らなかったんだよ。\n　男を誘惑する下着特集だなんて」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「知ってたら、さすがに紹介はしなかった……と思う」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「そうなの……？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「あんな格好のお前をカメラマンに独り占めされるのは\n　なんだかシャクだからな……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「ふふ……、そうなんだ……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「一応言っておくけど……、\n　駅のトイレでパンツを見せるバイトなんてないからな……？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「そうなの……？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「さすがに冗談だ……。お前にあんなことはさせられないって……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「お兄ちゃんって……本当に冗談がヘタだよね」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「うるさいな、いいじゃないか」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「冗談はともかく……んっ、やっぱりお兄ちゃんって優しいよね……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「……俺が優しいって？バカを言うんじゃない」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETANIMSPEED", "0", "FAST" ]},
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「あっ、やっ、お兄ちゃんっ、急に激しく……\n　うっ！んっ、あっ、ああっ、やっ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「あっ、んっ、そこ、ダメっ、ああっ、あふっ、\n　声、いっぱい出ちゃう……っ、んああっ！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「俺が……優しい訳ないだろっ。\n　お前が恥ずかしがって怒る顔が見たいだけだよ……っ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「後はお前が俺のでいやらしくよがるところが……見たいだけだって」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「んっ、んっ……, あふっ,でも, それって……\n　唯を気持ちよくさせてくれるってことでしょ？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「唯は……あんっ、お兄ちゃんをいっぱい感じたいから、んくっ、\n　嬉しいよ……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「お兄ちゃん……\n　激しくしてるけど乱暴な訳じゃないし……、ん、ん」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「唯が痛くならないようにすごく気を遣ってエッチしてくれてるの、\n　わかってるからね……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「……い、言うなよ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「ふふ、そうだね……。んあっ、そこっ……もっとっ。\n　あ……く、気持ちいい……っ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「そこ、いっぱい擦って……っ、あっ、あっ、いいっ……、\n　んくっ、気持ちいいよぉっ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "俺は大きく動かすのではなく先っぽでピンポイントに刺激するように\n　小刻みに小さく奥を突く。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「んっ、んんっ……、あっ、あっ、それ、いいっ、いいよぉっ、\n　お兄ちゃん、気持ちいいっ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「お前の奥、カリ首のところに引っかかって気持ちいい……っ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「んっ、んんっ、お兄ちゃんも気持ちいいんだね、\n　もっと、んく、もっといっぱい気持ちよくなってっ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「あっ、んっ、んんっ、お兄ちゃんの中でびくんびくんしてるっ……。\n　そんなに気持ちいいんだっ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「く……おい、あんまり動くと、んっ、出そうになるって……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「ふふ、お兄ちゃん、遠慮しなくていいからね……。\n　無理に我慢はしなくていいから……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「バカ、気持ちよすぎてイクのがもったいないってだけだよっ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「そうなんだ……。でも、イキたくなったらいつでもいいからね。\n　唯の中に……出して」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "このままずっと唯の膣内を味わっていたかったが、\n　本当にそうもいかなくなってきた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「ほら、お兄ちゃん。\n　唯の中に……お兄ちゃんのをちょうだい……っ、熱いのを……っ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「ダメだ……っ、もう限界っ……、唯、出すぞ……っ、んくうっ！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「くうっ……、唯っ……！」", "NORMAL" ]},
+        {"command":[ "STOPANIM", "0" ]},
+        {"command":[ "FADEIN", "NORMAL" ,"WHITE" ]},
+        {"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+        {"command":[ "DISPIMAGE","0", "FALSE" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「あっ、あふぅっ！　出てる……っ！\n　お兄ちゃんの熱いの、唯の中に……びゅくびゅくって出てる……ぅ！」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "唯が全身をびくんびくんと痙攣させ絶頂に達する。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「あ……、あ……、お兄ちゃんので唯も、\n　んく……イッちゃったよ、はぁ、ふぅ、ふぅ……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "唯が身体をよじって俺の方を向きながら笑う。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "そして、キスを求めるように俺の顎を撫でる。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "俺はそれに応えるように唯にキスをする。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "もちろん繋がったまま、唯の膣奥に射精をしたままで。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「――最初にセクシーな下着を渡された時はどうしようかと思ったけど」", "NORMAL" ]},
+        {"command":[ "SETIMAGE", "0", "bg_0206" ]},
+        {"command":[ "DISPIMAGE","0", "TRUE" ]},
+        {"command":[ "FADEOUT", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「結果的に今日はお兄ちゃんとエッチも出来たし、いい一日だったよ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「俺もいい経験をさせてもらったよ……。\n　お前にバイトを紹介してよかったよ」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「ふふ、お兄ちゃんにも喜んでもらえたなら嬉しいよ。\n　その上バイト代までもらえるなんて」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「……もう少しこうしていたいけど\n　そろそろ帰らないとお母さん心配してるかも」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「なんだ、お前連絡入れてないのか」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「……え、お兄ちゃんが連絡してくれてるんじゃないの？」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "「俺がいちいちする訳ないだろ……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "唯" ]},
+        {"command":[ "SETTEXT", "「も、もしかして……」", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "案の定、俺と唯の携帯には美佐子さんから何度も連絡が入っていた。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "まさか、ホテルでエッチをしてたなんて\nとてもじゃないけど言えないよなぁ……。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+
+        {"command":[ "SETNAME", "主人公" ]},
+        {"command":[ "SETTEXT", "唯と俺は顔を向かい合わせてバツが悪そうに笑うのだった。", "NORMAL" ]},
+        {"command":[ "WAITINPUT" ]},
+        {"command":[ "EXIT" ]}
+    ]
+}

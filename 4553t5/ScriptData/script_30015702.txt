@@ -1,0 +1,489 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0004" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00000157_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev001_57b_0000", "ev001_57b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETCHARA", "0", "char_00000157_01", "6", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「ここにいたか、探したぞ。――なんだ、この姿の私に驚いているのか？\n　ふふっ、幼い頃の私の姿、中々愛らしいモノだろ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETCHARA", "0", "char_00000157_01", "7", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ルナテミスと子供の頃の話をしていたのだが、少し口論になってな。なら、\n　お互い幼い頃の姿に戻り、白黒はっきり付けようという話になったのだ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETCHARA", "0", "char_00000157_01", "4", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「あの魔法薬……確か名前は、幼体化薬マキモドールだったか。それを口に\n　したらこの通り、という訳だ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETCHARA", "0", "char_00000157_01", "8", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「折角なら、貴方にも見てもらおうと思ってな。……どうだ、可愛いか？\n　貴方が望むなら、頭を撫でたりしても、いいのだぞ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETCHARA", "0", "char_00000157_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「――べ、別に何も企んではいないさ。ただほら、幼い頃の私は可愛いだろ？\n　だから、貴方の口からそれを褒めてほしいというか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETCHARA", "0", "char_00000157_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「なに？　この姿のままで貴方に甘えて……奉仕すれば、可愛さが分かるかも\n　しれないだと？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETCHARA", "0", "char_00000157_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「……もしや口論の内容を知っているな？　だからそんな要望を出しているな？\n　……この変態め」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「そうだ、ルナテミスと私、どっちの子供の頃の方が可愛かったか、という話\n　になってな……まぁいい、思惑に乗ってやるさ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETCHARA", "0", "char_00000157_01", "8", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ふふっ、実のところ私もな、昔の私の姿で愛されてみたいと思っていた\n　ところだったの、だ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_01" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETTEXT", "「んっ……押し倒したつもりだったが、この姿では力が足りないか……ふふっ、\n　この体勢、本当に幼い私を膝の上に乗せているみたいだな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「望み通り、しっかり奉仕してやる。貴方を満足させることができれば、約束\n　通り、私の事を可愛いと認めて、いっぱい褒めるんだぞ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んんっ……あっ……オチンポの方は、最初から準備万端のようだな……幼い\n　私の裸を見て、こんなにも興奮したのか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_02" ]},
+		{"command":[ "SETTEXT", "「んっ、あっ、んふっ……割れ目に擦り合わせるだけで、先走りが漏れてくる\n　……んんっ……まぁそれは、私も一緒か……んんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「どうやら、肉体が若返っているからのようだな……その……性欲、的なモノ\n　も、一番制御が効かない年頃になってしまってるようだ……んんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「私の方は大丈夫、だから……んんっ……このまま入れてもいいよな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_01" ]},
+		{"command":[ "SETTEXT", "「その前に、見た目にあった口調で甘えて欲しいだと？　もっと幼げに、妹の\n　ように……？　はぁ……まったく、貴方という人は……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_02" ]},
+		{"command":[ "SETTEXT", "「その……に、兄さんのおちんぽ、私のおまんこでパクパクしたいの……私頑\n　張るから、一緒にきもちよくなろうね？　……っ、ほら、入れるぞ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_06" ]},
+		{"command":[ "SETTEXT", "「んんぁあんっ……！　さ、流石にこの体型だと、いつもの様にはいかないか\n　っ……んんっ、少しずつ、少しずつ……くぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_05" ]},
+		{"command":[ "SETTEXT", "「だ、大丈夫、苦しくはない……言ったろう、気持ちよさはいつもより増して\n　いると……あっ、んぅんっ！　ただ、オマンコの穴が、きつくて……っ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_06" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、んぅうんっ……！　はぁ、はぁ、こ、これで一番奥まで届い\n　た……あっ、あぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_05" ]},
+		{"command":[ "SETTEXT", "「だが、流石に全部は入らない、かっ……んんっ！　でもオマンコの中、ぴっ\n　たり埋まってっ、くぅんっ……！　これはこれで、いいな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ふふっ、どうだ、幼い私のオマンコの感触は――いや、その表情を見るに、\n　聞くまでもないようだな……このまま、動くからな……っ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev001_57b_0000", "ev001_57b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、あぁんっ……！　や、やはり、少し苦しいかっ……んんっ…\n　…だが、どれだけ若返ろうと、貴方を愛した私の身体だ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んあぁんっ！　あっ、んんっ……！　すぐにオチンポを受け入れて……んん\n　っ……オマンコが吸い付いて、貴様のことを離そうとしないな、ふふふっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「兄さん、おまんこでおちんぽよしよしするの、気持ちいい？　私、頑張って\n　ごほうしするから、頭、なでなでしてほしいなぁ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「――恥ずかしいに、決まっているだろうが。だが、それで私の事を可愛いと\n　思ってくれるなら……それが一番だと、思っただけだ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「んあぁんんっ！　あっ、くぅんっ！　い、いきなり激しく、下から突き上げ\n　られてっ、んあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ふふっ、どうやら、私の愛らしさに我慢できなくなったようだな。いいぞ、\n　正直私も限界、だからっ、あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「このまま一緒にイってくれっ……オマンコの中ぐちゃぐちゃになるまで掻き\n　回して……あっ、んぅんっ！　一緒にっ……あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「だが、この身体っ、あっ、くぅぅんっ……！　やっぱり快感が強すぎてっ…\n　…気持ち良すぎるのが怖い、なんて、そんなことっ……あぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「に、兄さん、手を握ってて……私が変な所に飛んでいかない様に、ぎゅーっ\n　て手を握っててほしいの……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んあぁんっ！　あっ、あぁんんっ……！　ズボズボが激しくなる度、お腹の\n　奥がふわって浮いてっ……んんぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「全身の血液が沸騰しそうになる……！　敏感おまんこっ、熱くてっ……\n　ひゃっ、あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「出してくれ、このまま私の膣内に……！　ドロドロの濃厚精液、びゅっびゅ\n　っ、って、注ぎ込んでくれぇ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_09" ]},
+		{"command":[ "SETTEXT", "「イッくぅぅうんんっ……！　ひっ、あっ、あぁんんっ！　出てるっ、すごい\n　勢いで子種が子宮にっ、んあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ドクドクって注ぎ込まれる度にイクっ、膣内出し射精で何度もイクっ、イク\n　イク、イックうぅうんんっ……！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_08" ]},
+		{"command":[ "SETTEXT", "「そ、そうか、膣内も、子宮もいつもより小さいからっ……くぅんんっ……！\n　すぐにいっぱいになって、逆流してっ、んぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ、はぁ……んんっ……これは……身体が小さいから、か……思っ\n　たよりも体力を使うな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ふふっ、大丈夫だ。だが……ふふ、労わってくれるというのであれば、また\n　手を握ってもらってもいいか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んっ……手の大きさもいつもと違うからか……手全体を包み込まれているよ\n　うで、安心する……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_07" ]},
+		{"command":[ "SETTEXT", "「さて、望み通りご奉仕は完了だ。この愛らしい幼少期の私に対して、何か感\n　想があるのではないか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_08" ]},
+		{"command":[ "SETTEXT", "「――こ、こらっ、質問に答える前に、どうして頭を撫でてくる……！\n　ま、待て……んっ……これ、思ったよりも恥ずかしいな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_08" ]},
+		{"command":[ "SETTEXT", "「わ、分かったから、頭を撫でながら何度も可愛いというな……！　確かに\n　私が求めたものだが、そこまで真っすぐに言われると照れくさい！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_07" ]},
+		{"command":[ "SETTEXT", "「と、とにかく……！　これでルナテミスとの勝負は私の勝ち！　子供の頃も\n　私の方が可愛いということに――なに？　それとこれとは話は別？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「比べるとなるともっと乱れてるところを見ない限り結論は出ない？　だから\n　もう一度、今度はそっちから？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev001_57b_0000", "ev001_57b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「んぁんんっ……！　ま、待ってくれ、まだ快感が抜けきっていないのに、\n　下からされるとっ、あっ、んぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、あぁんんっ……！　これっ、体重も軽くなってるから、簡単\n　に身体が跳ねてっ、ひっ、ふぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「大きくズボズボ、だめだっ……あっ、くぅんんっ……！　根元までなんて\n　入らないって、言ってるのにっ、ひっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「そ、そっちがやる気なら、私だってっ……んんっ！　キツキツのオマンコ\n　で、オチンポを食い千切るほど締め付けてやるからな……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「んんっ、あっ、くぅんんっ！　これ、本当に深いっ……先端が無理やり、\n　子宮にまで入ってきてるみたいでっ、んあぁん……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「さ、さっきみたいに手をぎゅって……分かってる、甘くおねだり、だな……？\n　兄さん、気持ちよすぎて怖い、からぁ……んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「私の手を離さないでっ……頭もなでなでして、手で、頭で、おまんこで……\n　兄さんの全部を、感じさせてほしいの……あっ、んぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「なんて恥ずかしい事を言っているんだろうな、私は……だけど、ふふっ、\n　甘えられる人がいる、というのは、いい事だな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「幼い頃の私は、そんなことできなかったけど……今は、貴方がいてくれる\n　から……ふふっ、大好きだよ、兄さん」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んあぁんんっ！　オマンコの中で、オチンポ破裂しそうなほど、大きく\n　なってっ、あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「その角度、あっ、あぁんんっ！　オチンポで突き破って来そうなほど、お腹\n　がポコって膨らんでっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「オマンコの汁もすごいっ……あぁんんっ……！　じゅぼじゅぼって下品で\n　えっちすぎる音、止まらなくてっ、ひっ、ひゃぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「あっ、あっ、あぁんんっ……！　来る、また大きいのが、オマンコの奥から\n　全身に広がってっ、んぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「もっと激しく突き上げて！　イクから、またイクから！　私のオマンコ壊れ\n　ちゃうぐらいの勢い付き上げて、いっぱい気持ちよくしてくれ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「イク、イクイクイク、イックうぅぅぅぅぅんっ～～～～～！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_12" ]},
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「んあぁんんっ……！　一番奥に来てる！　濃い精液がドクドクって、あっ、\n　ああっ、んうぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「またイクっ、何度もイっちゃうっ、んんぅんんっ！　これ、気持ちよすぎ\n　てっ、ひっ、あっ、んくぅうんんっ……！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_11" ]},
+		{"command":[ "SETTEXT", "「手、離さないで、くれっ……最後までぎゅってしてっ、あっ、あぁんんっ\n　……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「す、すごい、まだ出てるっ……んんっ……もう子宮に入りきらなくて逆流し\n　てるのに、まだ、どびゅどびゅって……んんぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_12" ]},
+		{"command":[ "SETTEXT", "「私も最後まで、オマンコ締め付ける、からっ……あぁんんっ！　一滴残らず、\n　全ての子種を私に注ぎ込んでくれ……んぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_11" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ、はぁ……すご、かったぁ……頭の中、何も考えられないぐらい\n　気持ちよくて……んんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_10" ]},
+		{"command":[ "SETTEXT", "「こ、これは、まずいな……気持ちよすぎて腰が抜けたというか……しばらく、\n　自分の足で立てそうにない、な……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「すまない、少し胸を借りるぞ……んっ……幼い身体では、体力の消耗も\n　いつもより多いみたいだ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_11" ]},
+		{"command":[ "SETTEXT", "「貴方の心臓の音が聞こえる……温かくて……心地いい……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「また頭を撫でてくれ……んっ……人に甘える、か……大きくなると中々素直\n　にできなくなるが……こういう時間も、たまには悪くない」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_15" ]},
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「くうぅうんんっ……！　しまった、オチンポが抜けてっ……あっ、んあぁん\n　んっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「私の全身に、濃い精液がびゅーびゅーってっ……んぅんんっ！　ふふっ、\n　膣内出しもいいが、これはこれでっ……んんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_14" ]},
+		{"command":[ "SETTEXT", "「全身精液塗れになってしまう……匂いも……すぅー、はぁー……ああ、頭の\n　芯まで甘く痺れそうになる、この匂い……ふふっ、悪くない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「幼い頃の私に向けて精液をぶっかけるのは、そんなに興奮するのか？　ふふ\n　っ、私の兄さんは、やっぱり変態だったみたいだな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_13" ]},
+		{"command":[ "SETTEXT", "「それにしても……本当によく出したな……本当に全身ドロドロになってしま\n　った……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_14" ]},
+		{"command":[ "SETTEXT", "「ふふっ、謝る必要なんてないさ。これは貴方が私を愛おしいと思ってくれた\n　証……な？　幼い頃の私は、とびっきりに可愛いだろう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_13" ]},
+		{"command":[ "SETTEXT", "「――誰と比べて、なんて無粋な事はもういいさ。貴方が私を可愛いと思って、\n　今もこうして頭を撫でてくれている……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000157_02_14" ]},
+		{"command":[ "SETTEXT", "「私にとってはそれで十分。ふふっ、勢いでこの姿になってみたが、中々どう\n　して、悪くない選択だったな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「ふあぁ……すまない……この身体、体力も年相応になっているようでな……\n　少し眠らせてくれ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａ・ルナテミス" ]},
+		{"command":[ "SETTEXT", "「このまま、貴方も一緒に……おやすみ……起きたらまた……手を握って、頭\n　を撫でてくれたら、嬉しいな……すぅー、すぅー……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_001_5704410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

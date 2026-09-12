@@ -1,0 +1,489 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0032" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00019407_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev194_07b_0000", "ev194_07b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETCHARA", "0", "char_00019407_01", "7", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「まったく、時間帝国の追っ手から逃れるための戦力アップの為、銀月の魔力\n　を用意してまで使い魔の召喚儀式を行ったというのに――」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「よりにもよって、どうして呼び出されるのが貴方なんだ！　貴方が使い魔？\n　なんだその面倒にしかならなさそうな状況は……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETCHARA", "0", "char_00019407_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「いや……まぁ確かに、考えようによっては強力な使い魔かもしれないが……\n　どう考えても、貴方がいることで足が付く可能性の方が高いよなぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETCHARA", "0", "char_00019407_01", "1", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「――なに、こっちの話だ。悪いな、不安にさせた。さっきから私の顔が\n　はっきり見えない、というか、ワタクシが誰か分からないだろう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETCHARA", "0", "char_00019407_01", "0", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ワタクシの行動の足跡は、可能な限り消しておきたいんだ。だから認識阻害\n　の魔術を掛けさせてもらっている」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETCHARA", "0", "char_00019407_01", "1", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「重ねて悪いが貴方の記憶も、少し弄らせて貰うぞ。この出会いを思い出せな\n　い様に、魔術で記憶を曖昧にさせてもらう」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETCHARA", "0", "char_00019407_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ふふ、なに、痛みなどないさ。この体勢でわかるだろう？　むしろ極上の\n　快楽を与えてやる。さぁ、目をこっちに向けろ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETCHARA", "0", "char_00019407_01", "8", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「夢、これは夢、全ては銀月が見せる夢――これから貴方は快楽の海に溺れる\n　――そして全てが終わる時、甘い光景は靄の向こう側となる」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_01" ]},
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「これでよし……後は蕩けるぐらいの快感を与えるだけ、なのだが……相変わ\n　らず、立派なオチンポだな……というか、いつのより更に大きい……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「――ああ、今の魔術には、性的興奮を増長させる効果も入っているんだ。\n　快感で頭をめちゃくちゃにして記憶を曖昧にしようってものだからな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「とにかく、早く貴方を送り返さないと面倒になるかもしれないんだ。全部ワ\n　タクシがやる、貴方はただただ快感に身を任せていろ――ほら、入れるぞ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_05" ]},
+		{"command":[ "SETTEXT", "「んっくうぅんんんっ……！　さ、流石に大きい、なっ……あっ、んんっ、\n　くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「さ、最近、追ってのこともあって、色々溜まっていてよかった……貴方の\n　オチンポを見ただけでオマンコの準備はできているから、このまま――」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_06" ]},
+		{"command":[ "SETTEXT", "「んんっ、あっ、くぅんっ……！　はぁ、はぁ……あっ、んんぅんっ！　よ、\n　よし、根元まで入ったっ……だ、だがっ……あっ、くぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「久しぶりのセックスで、ここまで大きなオチンポを受け入れるのは、中々苦\n　しいものがあるな……最初はゆっくりいくか――んあぁんっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev194_07b_0000", "ev194_07b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「お、おい、いきなりオチンポを跳ね上げるな！？　ひっ、あっ、あぁんんっ！\n　オマンコの中でヒクつかせるなっ、その動きっ、あぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「あひっ、あっ、ふあぁんんっ！　興奮を増長させる効果が効きすぎているの\n　かっ……！　んあぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「――わ、分かった、すぐに動くから待てっ、ひっ、んひゃうんっ！　すぐに\n　激しく動てやるからっ、あっ、んんっ！　待てと言うにっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「ああもう、仕方ない！　このまま行くぞ！　最初から激しく腰を動かして\n　やるから、好きなだけ感じてとっとと頭を蕩けさせてしまえ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「あひっ、あっ、んふっ、くうぅんんっ……！　これ、大きいだけじゃなくて、\n　固さもすごいことにっ……あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「こんな固さで奥っ、子宮を叩くからっ、おっ、おっほぉんっ！　身体の芯\n　まで衝撃が響いてっ、あっ、あぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「それにカリ首も、大きすぎてっ……ひっ、ひゃ、ふあぁんんっ！　オマンコ\n　の中、全部持っていかれるみたいにっ、んぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「す、すごすぎっ、オマンコの中の所の気持ちいい場所、腰をまっすぐズボズ\n　ボするだけで、全部擦れるっ、ひっ、ひゃぁっ、ふあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「――え……？　自分からも腰をもっと動かしたい？　ワタクシのオマンコを\n　下から滅茶苦茶に突き上げたい？　そ、それは……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「くっ、うぅぅ……そ、それで貴方が早く果てることができるなら……す、\n　好きにしろ！　ワタクシが全て受け止めてや――」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「るぅぅんっ！　あっ、ひっ、ああっ、ああぁんんっ！　や、やはりこれっ、\n　深すぎてっ、苦しっ……ひっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「ああ、だがっ……あっ、んんっ、あぁんんっ……！　ふ、ふふふっ、ワタク\n　シもご無沙汰だったから、なっ……んあっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「苦しくもあるがっ、それ以上にっ、あっ、んぁんんっ……！　いい、気持ち\n　いいっ！　あっ、んあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「確か貴方はこの動きが好きだったよな……！　んあっ、あっ、くぅんっ……！\n　腰を回してっ、オチンポを搾り取るようにぃ……あぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、ああっ、あぁんんっ！　ふふっ、ワタクシのオマンコもどん\n　どん解れてきたっ……どうだ、貴方も気持ちよくなれてるか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「――ふふっ、そうか、よかった。んんっ、あっ、あぁんんっ！　す、すごい、\n　まだオチンポ、大きくなるのかっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「分かるぞ、オチンポの中を熱い塊がせり上がってきているのだろう……！\n　んんっ、んふぅんっ！　今すぐにでも爆発しそうなのだろう……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「全部ワタクシのオマンコで受け止めてやるからっ、あっ、あぁんんっ！\n　このまま膣内に出してくれっ、精液全部、ワタクシの膣内にっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あひっ、ひゃ、あっ、ふあぁんっ！　更に激しくっ、ひっ、おっ、んおっ、\n　おおあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「イク、ワタクシもイクっ！　巨大オチンポにオマンコ抉られてイクっ！\n　イクイクイク、イックうぅぅんんっ……！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_08" ]},
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「ふあぁんんっ！　出てるぅ……！　なんて精液の量だっ……あひっ、あっ、\n　ふあぁんんぅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「こんなの、全部受け止めきれるはずが、ないっ……！　オマンコからぁ、\n　精液が溢れ返ってっ、ひっ、あっ、んひぃんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_09" ]},
+		{"command":[ "SETTEXT", "「あ、ああ、あああっ……はぁ、はぁ、はぁ……んんっ……うっ……す、すご\n　過ぎるな……まだ、出てるっ……んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「や、やっと終わった……何て精液の量だ……一回の射精でワタクシの子宮の\n　中、パンパンになってしまったぞ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_08" ]},
+		{"command":[ "SETTEXT", "「んんっ……これは流石に、ちょっと興奮を増長させる魔術が効きすぎて\n　いる、か……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_07" ]},
+		{"command":[ "SETTEXT", "「だが、これで満足しただろ？　頭が蕩ける程の快感を覚えたよな？　記憶さ\n　え曖昧にできたら、後は貴方を元居た場所に送り返すだけ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_08" ]},
+		{"command":[ "SETTEXT", "「――って……なぁ、どうしてまだ、オチンポがこんなに固いままなんだ？\n　というか、さっきよりも更に大きくっ、んひゃぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_07" ]},
+		{"command":[ "SETTEXT", "「ま、まだ足りないというのか……そ、そういえば貴方、とんでもない精豪\n　だったな……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「……分かった、どっちみち、貴方の記憶をどうにかするまでは送り返せない\n　んだ。とことんまで付き合ってやろうじゃないか！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_08" ]},
+		{"command":[ "SETTEXT", "「とにかく貴方が気持ちよくなれるように、ワタクシは好き勝手動かせてもら\n　うから……んぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_09" ]},
+		{"command":[ "SETTEXT", "「貴方も好きに動いてしまえっ……！　ワタクシのオマンコが全てを受け止め\n　てやるから、このままもう一度……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev194_07b_0000", "ev194_07b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「んあぁんっ！　あっ、ああっ、ああぁんんっ……！　すごい、何て下品な音\n　だっ……！　オチンポで精液が掻き出されてっ、あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「これっ、ドロドロの精液のお陰で、さっきよりも動きやすいなっ……あっ、\n　んぅんっ！　これならまだまだ激しく、できるはずっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「んあっ、あっ、くぅんんっ……！　腰を落とす時に合わせて、オチンポを\n　突き上げられるとっ、あひっ、おっ、おっほぉんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「ワタクシの身体の中心を、オチンポで貫かれてるみたいでっ、んあぁんんっ！\n　き、気持ちよすぎてっ、ワタクシの頭の方が蕩けてしまうっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「だが、ワタクシだって負けない、からなぁ……！　あっ、んんっ、んふぅん\n　んっ！　オマンコもっと締め付けてっ……もっと、もっとぉ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「ズポズポだけじゃなくてっ……あっ、くぅんっ……！　さっきみたいに、\n　また腰も大きく動かしてやるっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「前後にぐりぐり、ぐりぐりぃ～！　ひっ、あっ、おおっ、んおぉぉ～～！！\n　これぇ、カリ首がＧスポットにゴリゴリ削れてっ、ひっ、ひゃうんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「駄目だ、ワタクシだけ気持ちよくなっちゃ駄目、なのにぃ……！　あひっ、\n　あっ、あぁんんっ！　おっ、んぉおんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「さ、さっきからイクの、止まらないっ、くぅんんっ……！　オチンポが気持\n　ちい所全部に引っかかってぇ！　ひっ、あっ、んひぃぃんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、あぁんんっ！　まだか、まだなのかぁ……！　いいから早く\n　オチンポ、気持ちよくなってくれぇ……！　おっ、おっほぉんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「あ……ふふ、ふふふっ♪　なんだぁ、貴方ももう限界なんじゃないか……\n　そんな幸せそうな顔で口元を緩めて、涎を垂らして……んあぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「いいぞ、いつでも出していいからな……！　今度こそ、脳が蕩け切るまで、\n　全ての欲望をワタクシに向かってぶつけてしまえ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「んあぁんんっ！　最後、だからぁ……！　ワタクシももっと激しくオマンコ\n　する……！　オチンポずぼずぼしてやるからぁ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「あひっ、あっ、ああぁんんっ！　このまま一緒にっ、出せ、精液だせぇ……！\n　頭の中真っ白にして、イってしまえぇぇ～～！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_11" ]},
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「んああぁあんんっ！　出てるぅ……！　もう子宮の中、パンパンのはずなの\n　に……！　濃厚ザーメン、無理やり注ぎ込まれてるぅ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「ひっ、あっ、ふぅんんっ……！　入りきらない精液が、すごい勢いで逆流し\n　てっ……んぅんんっ！　き、気持ちよすぎてっ、あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「わ、ワタクシの方が、何も考えられないぐらい……んあっ、あっ、あぁんん\n　っ……！　頭の中、蕩け切ってしまう……あっ、ああぁ、ああ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_12" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ、はぁ……んんっ……さ、流石にこれだけ出せば、流石の貴方も\n　打ち止め、でいいよな……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_10" ]},
+		{"command":[ "SETTEXT", "「――ああ、大丈夫だ、そのまま目を閉じて眠ってしまえ。次に目を覚ました\n　時、貴方は何も覚えていない。いつも通りの日常が始まる」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「やっと満足して寝たか……後は元の場所に送り返すだけだが……流石にワタ\n　クシの方がすぐには動けそうにない、か……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_11" ]},
+		{"command":[ "SETTEXT", "「それにしても……本当に大量に出してくれたものだ。んっ……すごい、腹の\n　上からでも手を当てると子宮の中の熱を感じるほどだ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_12" ]},
+		{"command":[ "SETTEXT", "「まったく、いくら精豪とはいえ、ほどほどにしてほしいものだな。だが……\n　思いがけず持て余していた昂りを解消できたのは、悪くなかったな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_10" ]},
+		{"command":[ "SETTEXT", "「ん……目を覚ました時、貴方は今のセックスを忘れているんだよな……\n　私がそうしたとはいえ、少し残念、だな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「次はこんな不意打ちではなく、正面から堂々と会いにいく。その時は……\n　ふふっ、今日以上の激しさで愛してくれることを、期待しているぞ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_14" ]},
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「んんぅぅんんっ……！！　しまった、オチンポが抜けてっ、くぅんんっ！\n　何て激しさのザーメンシャワーだ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「ま、まだこんな量を玉の中に貯め込んでいたのかっ……んぅんんっ！　全然\n　止まりそうにないっ、あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_15" ]},
+		{"command":[ "SETTEXT", "「な、何て濃厚で、頭がくらくらするような匂いっ……あっ、んぅんっ……！\n　まさか匂いだけで、イってしまうとは……はぁ、はぁ……んんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「……流石にもう満足か？　脳か快感に支配され、何も考えられなくなるまで\n　気持ちよくなれたか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_13" ]},
+		{"command":[ "SETTEXT", "「――っと、なんだ、疲れ果ててもう眠ってしまったのか。まったく、満足そ\n　うな表情で眠りこけよってからに……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「まぁいい、これでようやく元の場所に送り返すことができる。あれだけ身悶\n　え射精したのだ、記憶の方も大丈夫だろう」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「それにしても……ふむ、貴方がワタクシの使い魔、ね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_14" ]},
+		{"command":[ "SETTEXT", "「今回は変に足跡を辿られると厄介ゆえなかったことにするが……中々どうし\n　て、悪くはない感覚だな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETIMAGE", "0", "still_00019407_02_13" ]},
+		{"command":[ "SETTEXT", "「ふふっ、良い。いつか試してみよう。それまではしばしの別れだ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "クロートー" ]},
+		{"command":[ "SETTEXT", "「それでは、またな。ワタクシの愛しい愛しい、使い魔くん」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_194_0704410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

@@ -1,0 +1,487 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0149" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00033502_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev335_02b_0000", "ev335_02b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETCHARA", "0", "char_00033502_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「こちらの世界のメイドについて、いろいろと学んでまいりました。主にマス\n　ターへのご奉仕がお仕事なんだとか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETCHARA", "0", "char_00033502_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ですので、私の得た知識で、マスターを癒して差し上げます。まずはこちら\n　のベッドで横になってください」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETCHARA", "0", "char_00033502_01", "8", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ふふっ。大丈夫ですよ。マスター……いえ。ご主人様は何もせずとも結構で\n　す。すべてイヴリンにお任せください」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_02" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETTEXT", "「ふぁっ……あっ、んっ！　ご主人様のおちんぽが当たって……はっ、うぅっ\n　……す、すごく熱くて、カタくなってます」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_01" ]},	
+		{"command":[ "SETTEXT", "「……えっ？　ご奉仕の意味が違う？　そ、そうなのですか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「私が読んだ薄い本では、メイドというのはこういったご奉仕が基本だと書い\n　てあったのですが……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_03" ]},
+		{"command":[ "SETTEXT", "「……いろいろと違うけど、私にこうしたご奉仕をされて幸せ？　う、嬉しい\n　です……マスターにそう言っていただけるだなんて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_02" ]},
+		{"command":[ "SETTEXT", "「それでは、続きをさせていただきますね……薄い本で得た知識ですので、上\n　手くできるか分かりませんが精一杯ご奉仕いたします」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「私のおまんこで感じて……気持ちよくなってください……それでは、失礼い\n　たします……あんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_06" ]},
+		{"command":[ "SETTEXT", "「くっ……うっ、んぁっ！　ご主人様のおっきなおちんぽが、どんどん奥まで\n　入ってきます……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「私のおまんこのお肉を掻き分けながら、深いところにきて……ひゃうっ！\n　あっ、あっ！　ひっ、んくぅぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_05" ]},
+		{"command":[ "SETTEXT", "「はぁ……はぁ……んっ、くひゅうぅ……すごいです……私のアソコ、ご主人\n　様のでいっぱいになってます……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「お腹の中に熱くてカタいおちんぽが入っているのを感じます……マスターの\n　……いえ、ご主人様の愛を感じます……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_06" ]},
+		{"command":[ "SETTEXT", "「あんんっ！　ダ、ダメです、ご主人様……今日は私がご主人様にご奉仕をす\n　る日です……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_04" ]},
+		{"command":[ "SETTEXT", "「先ほども申し上げましたが、すべてこのイヴリンにお任せください……ご主\n　人様にご満足いただけるよう、頑張って動きますから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_05" ]},
+		{"command":[ "SETTEXT", "「で、では、いきますね……痛かったりするようでしたら、ご遠慮なく言って\n　くださいませ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev335_02b_0000", "ev335_02b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「あんっ！　あっ、んはぁっ！　うっ、んっぐっ！　ふっ、うきゅっ！　あっ、\n　あぅっ！　んっ、あっあっ、ふひゃあぁぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「お、奥におちんぽが当たっています！　私の赤ちゃんのお部屋の入り口に、\n　ご主人様のが当たって……はひぃぃんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「ぐぐっ、ふんぐっ！　あっ、うぁっ！　お、おちんぽの出っ張りがおまんこ\n　のお肉を引っ掻いてきます！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「出し入れするたびにヒダヒダが引っ張られたり、奥に押し込まれたりして…\n　…この擦れる感じ、本当に素敵です！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「い、いかがですか、ご主人様……私のおまんこ、ちゃんとご主人様を気持ち\n　よくできていますか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「……ああっ、嬉しいです……最高だと褒めていただけるだなんて……そのよ\n　うなことを言われたら、もっと激しく動きたくなってしまいます！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「あんっ！　あんんっ！　あっ！　あぁっ！　くっ、ふはぁぁぁんっ！　ひっ、\n　あっ！？　あっあっあっ、くひゃあぁぁぁっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「奥だけでなく、浅いところもすごく気持ちいいです！　ご主人様のおちんぽ\n　の形をはっきりと感じます！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「それに、こうやっておまんこ全体でシコシコすると、ご主人様がとても気持\n　ちよさそうなお顔をされて……んんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「そのお顔を拝見できるだけで、イヴリンはとても幸せです！　もっともっと、\n　ご主人様にご奉仕をしたくなってしまいます！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「ああぁぁぁっ！　お、奥っ！　子宮口にご主人様のおちんぽが刺さってぇっ\n　！？　ひっ、うぎゅっ！　くぐぐぅ～～～っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「大事なところをトントンしながら腰をグリグリ回すの、いかがでしょうか！？\n　おちんぽ、気持ちいいですか！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「き、気持ちよすぎてそろそろイキそうなのですね？　でしたら、ご主人様が\n　気持ちよく射精できるように、もっと動かせていただきます！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あんっ！　うっ、あんっ！　ふっ、くひゅっ！　うっ、うっあっ！　あぁぁ\n　っ！　んんっ、んぅ～～～！　あっ、おっ、あっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「はぁ！　はぁ！　おちんぽが奥のところで何度も跳ねてます！　射精したい\n　と言っているみたいで……ひゃぐぅぅぅっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「このまま膣内に出したいのですか！？　も、もちろん出していただいて構い\n　ません！　ご主人様のザーメン、おまんこで受け止めさせていただきます！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「いっぱい出して、気持ちよくなって欲しいです！　私のおまんこでイッて欲\n　しいですっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「ひぁぁぁっ！？　あんっ！　あっ、あっ！？　ご主人様のおちんぽの動きが\n　さらに激しく……イッ、イキそうなのですね！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「どうぞ、イヴリンの赤ちゃんのお部屋にお子種を！　マスターの赤ちゃん、\n　孕ませてくださいぃぃぃっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_09" ]},
+		{"command":[ "SETTEXT", "「あぁぁぁぁーーーっ！？　あ、熱いですっ！　マスターのザーメン、いっぱ\n　いおまんこの奥に出てますっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「こんなにも幸せな時間を味わったら、私もイッてしまいます！　ご奉仕しな\n　いといけないのに、おまんこイッて……んぐぅ～～～～～っ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_08" ]},
+		{"command":[ "SETTEXT", "「あっ！　あっ！？　マスターの精液を受け止めるたびにイッています！　お\n　まんこ、イキ続けてますぅ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_09" ]},
+		{"command":[ "SETTEXT", "「ふぁ、んっ、はぁぁぁっ！　マスター、もっとイッてください！　おちんぽ\n　ミルク、お好きなだけどぴゅどぴゅしてください！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「すべてイヴリンが受け止めます！　マスターの大切なお子種、子宮でお受け\n　止めいたしますぅぅぅーーーーーっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_08" ]},
+		{"command":[ "SETTEXT", "「ふっ……ふっ……んっ、はぁぁっ……こんなにも出していただけるだなんて\n　……本当に嬉しいです……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_07" ]},
+		{"command":[ "SETTEXT", "「お腹の中にご主人様の熱を感じます……とても温かくて、幸せな気持ちが全\n　身に広がっていく感じがします……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_08" ]},
+		{"command":[ "SETTEXT", "「んんっ……あっ……ご主人様のおちんぽ、まだ膣内で大きく膨らんでおりま\n　すね……もっと私とセックスしたい、ということでしょうか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_07" ]},
+		{"command":[ "SETTEXT", "「ふふっ……もちろん構いませんよ。ご主人様へのご奉仕はメイドのお仕事で\n　すし……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_08" ]},
+		{"command":[ "SETTEXT", "「それに、もっとマスターに愛していただきたいです……私のオマンコで気持\n　ちよくなっていただきたいです……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "PLAYANIM", "0", "ev335_02b_0000", "ev335_02b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「はっ……あっ！　あっ、あんっ！　ご主人様の太くてたくましいおちんぽが、\n　また奥に刺さって……あはぁぁぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「突かれるたびに子宮口が開いていく感じがします！　それに、子宮もどんど\n　ん降りてきて……ひっ、んぅっ！　ふっ、んひゃあぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「気持ちよくて腰を動かすのが止まりません！　先ほどよりも激しく打ち付け\n　てしまいます！　パンパンしてしまいますぅ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「あっ、あんっ！　んぁぁぁんっ！　ご主人様、気持ちいいですか！？　私、\n　上手にご奉仕できていますか！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あひぃぃっ！？　おちんぽが思いっきり膣内で跳ねて……あはんっ！　お、\n　おちんぽで返事をなされるだなんてぇ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「ですが、とても嬉しいです！　ご主人様が気持ちよくなってくださっている\n　のを、おまんこでしっかりと感じられます！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「はふっ、んっ！　くぅぅっ！　おまんこのお肉やヒダが、またおちんぽに絡\n　んでおります！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「ご主人様のおちんぽが愛おしくて、勝手にうねって、絡んで……私のおまん\n　こ、ぎゅうぎゅうに締まってしまいますぅ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「この状態で奥まで挿れると、身体中に甘い痺れが襲ってきて……ひっ、あっ\n　！？　エ、エッチなお汁が止まりませんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「また気持ちいい感覚が子宮から溢れてきてます！　ダメっ……ご主人様に気\n　持ちよくなってもらって、射精いただくのがメイドのお仕事ですのに！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「あぁぁぁっ！？　んっ、あんんっ！　ダメっ……ダメダメっ！　もうイクの\n　我慢できません！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「ひっ、うっ！？　ご主人様のおちんぽが膣内で大きく膨らんできてます！\n　も、もしかして、またイキそうなのですか！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「でしたら、我慢します！　絶対先にイッたりしないので、どうかお好きなタ\n　イミングで射精してくださいませ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あっ！　ぐぐっ！　うっぐぅぅぅっ！　んっ、あっ、あっ、ふぁぁぁっ！\n　奥、えぐれて……んん～～～～～っ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「イッ、イッてください、マスター！　イブリンのトロトロおまんこで、お好\n　きなだけイッて……んひゃぁぁぁぁぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_12" ]},
+		{"command":[ "SETTEXT", "「あ、熱いですぅぅぅっ！　ご主人様のお子種がまた膣内に……お、奥の奥に\n　まで染み込んできています！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「私の子宮をザーメンミルクが満たしてきて……こ、これ、絶対に孕んでしま\n　います！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_11" ]},
+		{"command":[ "SETTEXT", "「あ、あの！　私、妊娠してもいいのですか！？　ご主人様……いえ、マスタ\n　ーの赤ちゃんを身ごもってもよろしいのですか！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_12" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ！　こ、このまま妊娠して欲しい？　赤ちゃんを孕んでほしいだ\n　なんて……う、嬉しいです、マスター！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_10" ]},
+		{"command":[ "SETTEXT", "「メイドはご主人様の命令に従うものだと、薄い本にも書いてありました！\n　ですので、絶対にマスターの赤ちゃんを孕みます！", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_12" ]},
+		{"command":[ "SETTEXT", "「ひゃ、んぁっ！　あっ、あっ！？　マスターとの子供を想像したら、おまん\n　こが反応して……ま、またイッてしまいます！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「ぐぐっ……んっうっ！　あっ、あっ！？　イクッ！　イクイクッ！　受精し\n　ながらおまんこイッちゃいますぅぅぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_11" ]},
+		{"command":[ "SETTEXT", "「はーーー……はーーー……マスター……私、今とても幸せです……マスター\n　にご奉仕ができて、それに赤ちゃんまで……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「あんっ……ま、また膣内でおちんぽが大きくなってます……もしかして、も\n　っとシたいのですか？｝", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_10" ]},
+		{"command":[ "SETTEXT", "「ふふっ、もちろんいいですよ。ご主人様が満足するまでお付き合いするのは、\n　メイドの務めというものですので……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_15" ]},
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「あはぁぁぁぁっ！？　ご主人様の精液が身体に……あ、熱いお汁をいっぱい\n　どぴゅどぴゅされてますぅ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「ご主人様の熱々ミルク、すごい匂いがします！　この匂い、すごく好きで…\n　…んんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_14" ]},
+		{"command":[ "SETTEXT", "「嗅いでいるだけで子宮が疼いて……あっ、あっ！？　そんな……またイクッ！\n　匂いだけで達してしまいますぅ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_15" ]},
+		{"command":[ "SETTEXT", "「ひっ……あっ！？　うぁ、あっ！？　あ、頭の中が蕩けてしまいそうなほど\n　気持ちよくて……あぁぁっ！　イクの止まらなくてぇ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「あんんっ！　あっあっ！　気持ちいいのずっと続いてます！　ご主人様のザ\n　ーメン浴びながら、イキ続けてますぅぅぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_14" ]},
+		{"command":[ "SETTEXT", "「ふぁ……あっ……んぁぁ……も、申し訳ありませんご主人様……私、ご主人\n　様よりもいっぱいイッてしまいました……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「このような粗相をしてはいけないと薄い本に書いてあったのに……私はメイ\n　ド失格です……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_15" ]},
+		{"command":[ "SETTEXT", "「……失格ではない？　私が気持ちよくなってくれて嬉しいだなんて……あり\n　がとうございます、ご主人様……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033502_02_13" ]},
+		{"command":[ "SETTEXT", "「ですが、失態は失態です……こういう時は、挽回のチャンスをいただくもの\n　だと薄い本に書いてありました」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "イヴリン" ]},
+		{"command":[ "SETTEXT", "「ですので、今度はもっと激しくご奉仕をさせていただきます……愛をこめて、\n　たくさんおまんこさせていただきますね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_335_0204410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

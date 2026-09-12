@@ -1,0 +1,488 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0051" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00010016_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev100_16b_0000", "ev100_16b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETCHARA", "0", "char_00010016_01", "7", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「……ようやく起きたか。折角の海だというのに、いったい、いつまで寝てい\n　るつもりだったんだ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「フフフ、身動きが取れないだろう？　なに、折角私が遊んでやろうと思った\n　のに、気持ちよさそうに居眠りなどしていたからな」", "NORMAL" ]},
+		{"command":[ "SETCHARA", "0", "char_00010016_01", "6", "CENTER", "0" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETCHARA", "0", "char_00010016_01", "0", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「罰として砂浜に身体を埋めてやったのさ。身動き一つ取れないだろう？　一\n　応顔を埋めるのは勘弁してやったんだ、感謝してくれてもいいぞ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETCHARA", "0", "char_00010016_01", "3", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「出してほしいか？　だったら私に言うことがあるんじゃないか？　折角お前\n　好みの水着を選んできてやったのに、その感想をまだ聞いていないぞ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETCHARA", "0", "char_00010016_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「――そうだ、いいぞ、もっと褒めろ。中々セクシーだろう？　って……ん？\n　お前……ハッ、ハハ、フハハハ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「なんだその状況は。私はかなりしっかりと砂を固めてお前のことを埋めんだ\n　ぞ！　だというのに、ペニスだけ突き抜けているではないか！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETCHARA", "0", "char_00010016_01", "0", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「私の水着姿を見て、そんなにも興奮したのか？　フフ、フハハ♪　やはりお\n　前はいいな！　いつも私を楽しませてくれる」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_02" ]},
+		{"command":[ "SETTEXT", "「そんな愛おしい姿を見せられて、我慢なんてできるはずないだろう。身動き\n　一つ取れないおまえの事を、たっぷりと可愛がってやろうじゃないか♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_01" ]},
+		{"command":[ "SETTEXT", "「一応言っておくが、責めるのは私だ。そうだな、お前が無理やり動いて、身\n　体を覆ってる砂が崩れたりすれば……ふふ、お仕置きだな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_02" ]},
+		{"command":[ "SETTEXT", "「お前が可愛く大人しくしている間は、極上の快感を与え続けてやる。出来る\n　だけ長く私のオマンコを堪能したいなら、必死に耐えて見せろ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「じゃあ……んんっ、入れるぞ。私の方も、もう我慢ができないんだ。このガ\n　チガチペニス、存分に楽しませてもらうからな♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_06" ]},
+		{"command":[ "SETTEXT", "「んんっ、あっ、あぁあぁ……♪　入ってきたっ、んんっ……そうだ、このペ\n　ニスが待ち遠しかった……んんっ、あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「この固さっ、この長さっ……んんっ、はぁっ……膨れ上がったカリ首が、た\n　まらないっ……はあっ、あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_05" ]},
+		{"command":[ "SETTEXT", "「そら、動くぞ！　ペニスの先端が私の一番奥、子宮の入口にぶつかるぐらい\n　深く激しくいくから、覚悟しろっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev100_16b_0000", "ev100_16b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「んあっ、あっ、んあぁんんっ……！　やはりこのペニス、亀頭の固さが、い\n　いっ……んあぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「ゴツゴツと子宮を突き上げる衝撃が、全身に響いてっ、あっ、くぅんんっ\n　……！　いいっ、オマンコ気持ちいいぞっ……あぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「やはり何回味わっても、たまらないな……それにこうして、お前を見下ろし\n　ながら犯すというのも、また格別だ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「あっ、くっ、んあぁんんっ……！　歯を食いしばって快感に耐えているな？\n　自分から動いて、砂を崩してしまう訳にはいかないものな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「んあぁんんっ……！　おっ、あっ、ああぁんっ！　なるほどっ、確かに身体\n　を動かすことはできないが、ペニスを動かすことはできるか……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「オマンコの中で、ペニスが大きくヒクついて、あっ、あぁんんっ……！　そ\n　れっ、敏感な部分にカリ首が擦れるっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「ふふっ、器用なやつめ♪　だが、そうでなくてはな……！　出来る中で必死\n　に私に快感を与えようとするその姿勢、いいっ……悪くないぞ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「あっ、くっ、んうぅんんっ……！　だが、私もまだまだここからが本番だ\n　……！　オマンコ、もっと締め付けてっ……あっ、あぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「縦に跳ねてずぼずぼするだけじゃない……！　腰を前後に揺らしてっ、こう\n　っ、んんんっ！　あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「オマンコの壁を、ペニスを使って擦り、削るっ……んふっ、あっ、ふぅんっ！\n　やはり浅い所を亀頭でずりずりするの、気持ちいいっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「ふふっ、お前の方からも動きたいか？　そのガチガチペニスを使って、思う\n　ままに私のオマンコを滅茶苦茶にしたいか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「駄目だ、まだ許可しない。私が満足するまでは、お前のペニスは私専用の\n　肉バイブだ！　あっあっあぁんっ……！　そら、もっと気合を入れて固く\n　しろ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「そんな物欲しそうな顔をしても駄目だからなっ……！　お前はただ、私に犯\n　されていればいいんだ！　私のオマンコが気持ちよくなる為の道具だ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あっ、あぁんんっ！　んんっ、くぅっ、ふあぁんっ……！　ふふっ、物分か\n　りがいいやつは好きだぞっ、もっとペニスが硬くなって、くぅんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「亀頭もふくらんでいる、からっ……あっ、あぁんんっ！　オマンコの壁、ひ\n　っかかって中が全部、引き吊り出されそうでっ、んんぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「いいっ、気持ちいい……！　あっ、んふっ、ふぅんんっ……！　腹の奥がジ\n　ンジンして、子宮がどんどん下りてくるのが分かるっ、あぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「お前にも伝わっているか？　亀頭にくっついた子宮口が、ヒクヒクしている\n　だろう？　そこから出される子種が欲しいと、吸い付いているだろう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、ああぁんっ……！　もうそろそろ、んんっ……！　イキそう\n　だ……！　んんっ！　あっ、くうぁんぅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「分かっているな、合わせるんだぞ……！　オマンコがイクのに合わせて、膣内\n　出射精するんだぞ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「このパンパンに膨れ上がったペニスを解放して……んあぁんっ！　痙攣して\n　イキまくる絶頂オマンコに、びゅーびゅーザーメン吐き出すんだ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「イケ、ほらイケぇ……！　私もイクから、オマンコ絶頂するから、出せ！\n　濃厚ザーメン、たっぷり注ぎ込んでくれぇ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_09" ]},
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「んんんんんっ！！　出てるぅ……！　子宮に直接、精液がぶつかってっ、ひ\n　っ、あっ、ふああぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_08" ]},
+		{"command":[ "SETTEXT", "「ふっ、ふふふっ♪　何だ、今日のお前は完璧じゃないか♪　私が望んだタイ\n　ミングで、こんな気持ちいい射精をしてくれるなんて……あぁんんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_09" ]},
+		{"command":[ "SETTEXT", "「精液の量も最高だ……あっ、あぁんんっ……！　全然射精が止まりそうにな\n　くてっ、あっ、またイクっ、イックうぅぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「はっ、はっ……んんっ、くぅうんっ……本当に、何て量だ……ペニスを入れ\n　たままなのに、ザーメンが逆流してくる……んんんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_07" ]},
+		{"command":[ "SETTEXT", "「んっ……だが、一度出したぐらいで、満足なんてしていないよな？　まだま\n　だ本番はここから、だよな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_09" ]},
+		{"command":[ "SETTEXT", "「私もまだまだ物足りない、イキ足りない……このガチガチペニスを、まだま\n　だ味わっていたい……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_08" ]},
+		{"command":[ "SETTEXT", "「ふふっ、このまま抜かずに二回戦だ……！　だが、さっきも言ったが、今日\n　のお前は完璧だった。なら、ご褒美はあげないとな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_07" ]},
+		{"command":[ "SETTEXT", "「今度はお前の方からも動いていいぞ……いや、存分に動け。下から私のオマ\n　ンコを、思うままに突き上げろ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev100_16b_0000", "ev100_16b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「んあぁんんっ！　そう、これだっ！　やはりお前の方からの突き上げもない\n　と始まらないっ！　あっ、んあっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「一番奥っ、ズドンって壊れるぐらいの勢いで突き上げられるのっ、くぅんん\n　っ……！　気持ちいいっ、これがいいっ……あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「私の方ももっと激しくいくぞ！　こうやって円を描くように腰を回すの、好\n　きだったよな……！　んあっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「あっあっ、ああっ、ああぁんっ……！　それっ、動きに合わせて、またペニ\n　スをヒクつかせてっ、あっ、んあぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「当たるっ、亀頭が一番気持ちいい所に擦れてっ、くぅんんっ……！　だが、\n　もっと角度が欲しいっ、入口の浅い所もっとっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「んんぁんっ……！　ペニスがまた膨れ上がってきたっ……言っておくが、勝\n　手に出すなよ！　一人で先にイクなんて許さないからな……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「ご褒美に動いていいとは言ったが、今日責めるのは私だ……！　私が許可す\n　るまで、そのだらしなく開いている口を必死に閉じて、耐え続けるんだ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「ほら、耐えろ、耐えるんだぞ……！　おまんこ叩きつけて、ぶちゅんぶちゅ\n　んってっ、激しく腰を振るけどぉ……んあっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「一人で先に果てるなんて、絶対に許さないっ……あっ、んんぅんっ……！\n　必死に耐えて、私のおまんこが馬鹿になるまで、もっと気持ちよくっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「ふうううっ、ああっ、んぅんっ！　来るっ、また大きいの来るっ……気持ち\n　いいの、またオマンコの奥からぁ……んふうっ、ああっ、ああぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「すごい、見ろっ、気持ちよすぎてっ、私の太ももさっきからずっと痙攣して\n　るっ……！　みっともなくガクガク震えっぱなしだ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あひっ、あっ、ああぁんっ！　出したいよな？　お前ももう、全部をぶちま\n　けて楽になりたいよな！　私のオマンコに、全部っ、あっ、くぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「いいぞ、私もイクからっ、私が合図を出したらイケ！　どぴゅどぴゅ射精し\n　ろ！　私に全部をぶちまけろ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「んっ、んんっ、くぅんんっ！　こうやってぇ、オマンコ締め付けてやるから\n　ぁ……！　あっ、んふぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「ペニスの形がはっきりわかるぐらい、締め付けてぇ……！　あぁんんっ！\n　搾り取ってやるっ、からあぁ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あと少し、あっ、ああぁんっ！　ほんとに、あと少しでイクから、もう少し\n　っ、あっ、ああっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「イクっ、イクイク、イックうぅぅ……！　ほら出せっ、許可してやるからザ\n　ーメン吐き出せ！　私と一緒にっ、イク、イックうぅぅんんっ……！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_12" ]},
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「んあぁぁぁんっ……！　イってるオマンコの中に、熱々ザーメンきたあっ！！\n　あああっ、んっ、くうぅんんっ……！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「ひっ、あっ、くうんんっ！　熱い……何て量っ、もうオマンコじゃ全然、受\n　け切れないっ……んんっ、あっ、ふあぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_10" ]},
+		{"command":[ "SETTEXT", "「出されながら、またイくっ……何度でも、イっ、くぅんんっ……！　あっ、\n　んんっ、あぁんんっ……！　はあっ、ああっ、あぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_11" ]},
+		{"command":[ "SETTEXT", "「やっぱりイクなら、膣内出しを受けてにかぎるな……お前はどうだ、気持ち\n　いいか――っと、その顔を見るに、聞くまでもなかったな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「んんっ……ほら、射精が弱まり始めてるぞ。最後の一滴まで、しっかり私の\n　中で出し尽くしてしまえ……あっ、んんっ、んぅんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_12" ]},
+		{"command":[ "SETTEXT", "「ふぅ……あぁ、気持ちよかった……最近少し、ご無沙汰な感じもあったから\n　な……すごく、満足したぞ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_10" ]},
+		{"command":[ "SETTEXT", "「だが……あぁんっ♪　おまんこの中のペニスは、まだまだ固いままだな？\n　これだけ出しておいて、物足りないというつもりか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_11" ]},
+		{"command":[ "SETTEXT", "「――ふふっ、可愛いやつめ♪　そうだな、今日のお前は、中々私の言う通り\n　に動くことができていたな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「なら……もう少しだけ、ご褒美があってもいいか。このまま三回戦と洒落込\n　もうじゃないか♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_12" ]},
+		{"command":[ "SETTEXT", "「ふふっ、覚悟しろよ？　性も根も尽き果てるまで、お前の全部をしゃぶりつ\n　くしてやるからな♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_13" ]},
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「おい、こらっ、オマンコからペニスが抜けてっ……んあぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「くぅんんっ……！　どうして中に出さないっ！　私の身体にぶっかけるなん\n　てっ……んふっ、くっ、あっ、んあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_15" ]},
+		{"command":[ "SETTEXT", "「ぶっかけ射精も気持ちいいっ、あぁんんっ……！　確かにこれでも、イクこ\n　とはできるがっ、あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_13" ]},
+		{"command":[ "SETTEXT", "「私はオマンコの中にお前の精液が欲しかったんだ……！　身動き取れないお\n　前を上から犯して、搾り取ってやりたかったんだ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_15" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……くっ……確かに気持ちよくはあったが……ああ、腹に胸に…\n　…顔にまでこんなに飛ばして……もったいない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_13" ]},
+		{"command":[ "SETTEXT", "「まったく……今日のお前は途中までは完璧だったんだがなぁ……最後の最後\n　で、やらかしてくれたな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETIMAGE", "0", "still_00010016_02_14" ]},
+		{"command":[ "SETTEXT", "「そうだな……上手くいく事でのご褒美もあったんだ、なら……駄目な事をし\n　たお仕置きも、必要だよな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「外道忍法・灼熱砂固め！　ふふっ、改めて身体を砂で固めてやった、身動き\n　一つ取れないだろう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「だが、ペニスはそのままにしておいてやったぞ。なんとも間抜けな格好では\n　ないか♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "Ａニャンコ先生" ]},
+		{"command":[ "SETTEXT", "「じゃあ、満足したし私は先に帰る。ふふっ、誰かに助けてもらえるまで、お\n　前はそのみっともない姿を晒し続けるといいさ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_100_1604410" ]},
+		{"command":[ "WAITINPUT" ]},
+				
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

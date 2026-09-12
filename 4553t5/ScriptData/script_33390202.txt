@@ -1,0 +1,491 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0051" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00033902_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev339_02b_0000", "ev339_02b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETCHARA", "0", "char_00033902_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「あっ、パパ、見ーつけた！　ねっ、あっちの島までどっちが早く泳げるか勝\n　負しよっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETCHARA", "0", "char_00033902_01", "8", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ほら、あそこにちょこんって見えてるやつ。あの島だよ。すぐそこだから、\n　ちゃっちゃと行けるでしょ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETCHARA", "0", "char_00033902_01", "4", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ねー、いいでしょ、パパぁ、勝負しようよー！　それともぉ、パパってば私\n　に負けるのがこわいとかー？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETCHARA", "0", "char_00033902_01", "0", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「やたっ！　えっ、あっちの方から？　うん、いいよ、向こうの浜辺からよー\n　いどん、だね！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETCHARA", "0", "char_00033902_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「準備おっけー？　じゃあ、海まで入って、さん、にー、いちでスタートね！\n　いくよー、さん、にー、ひゃっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_05" ]},
+		{"command":[ "SETTEXT", "「えっ……あっ、パパ……ちょっ、な、何して……ひゃぅんっ！？　あっ、チ\n　ンチン……は、入って……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_04" ]},
+		{"command":[ "SETTEXT", "「や……はぁぁんっ……な、何してるのっ、パパぁっ……泳ぎ勝負するって言\n　ってるのにっ、なんでチンチン……あっ、入れてるのぉっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「しょ、勝負……始まってる？　んっ、ふっ……妨害は……自由……？　だ、\n　だからって……あっ、はぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_06" ]},
+		{"command":[ "SETTEXT", "「んっ、いきなりするなんて……ズルいっ……あっ、水着……ずらしちゃっ、\n　あっ、あぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204109" ]},
+		{"command":[ "WAITINPUT" ]},
+	
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_05" ]},
+		{"command":[ "SETTEXT", "「ダメ……あぁっ、んっ……違う……オ、オマンコ……嬉しくなってない……\n　もんっ、こんな……いきなりなんて、ビックリしてるだけぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「はぁんっ……ど、どうするの……これ……んっ、まさか、このまま続けるの\n　……？　パパ……見つかったらどうするの？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_06" ]},
+		{"command":[ "SETTEXT", "「み、見られたら……大変……そ、そうだよ！　あっ、んっ……こんなトコ…\n　…誰かに見られたら……ひゃ……んぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev339_02b_0000", "ev339_02b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「ぬ、濡れてる……？　ウソ……私、そんなつもりは……きゃふっ！　あんっ、\n　やっ、パパ……なんで、そんな上手いの……あんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「私の……あっ、好きな……とこぉっ……全部、分かってるの……はんっ、ん\n　ぁぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「また、あんっ、あぁっ、ズリズリ……してるっ、はぁんっ、やっ、パパのチ\n　ンチン……オマンコ……いっぱい擦ってるの……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「あんっ、はっ、あぁっ……き、気持ちいいかって……うぅっ、い、言わない\n　もん……意地悪なパパなんて知らないんだから……んぁっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「こんな、ジリジリ……おっぱい触って……首……な、舐めて……やっ、ふっ\n　……！　も、もぉ……パパ……ダメぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「んぅ……あぁ……ジンジンしてる……んふぅ……あっ、あぁっ……ズルいト\n　コばっかり……されてぇ……バカ、バカぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「えっ、あっ……はぁぁん……あっ、そこ……優しくされるの……あぁっ、い、\n　いいっ……あっ、違うの……違うってば……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「パパの……あんっ、上手くて……くぅぅんっ、だんだん感じてるのバレちゃ\n　う……んっ、違う……あっ、感じてなんか……ないからぁっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「ひゃっ！　んんっ、あっ、やんっ、ダメ……パパぁ……あっ、また、そこっ、\n　オマンコぉ……はぁぁんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「やっ……うん、はぁっ、うぅっ、分かった……分かったからぁ……んっ、\n　パパのチンチン……気持ちいいの……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「だって、ちゃんと一番好きな場所……してくれるし……んぁっ、全部、分か\n　ってるからぁ……あっ、はぁぁんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「チンチン……あっ、すごいの……いっぱい、出たり……入ったりしてるぅっ\n　……あっ、ダメっ、そんな音……ぐちゅぐちゅさせちゃっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「あっ、あぁん、聞こえちゃうっ……恥ずかしい音させてるの、聞かれちゃう\n　っ、あっ、今……誰かに見つかっちゃったらぁっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「んんっ！　あっ、ウソ……私……そんな、オマンコ……締め付けて……本当\n　は見られたがってるなんてっ、そんなっ、ことぉっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「ひゃっ、んふっ……あっ、あぁっ……ふ、振り払えないよっ、パパに……そ\n　んな乱暴なことっ、しないしっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「はぁっ、うんっ、あんっ、あっ、あぁっ、あぁんっ、やっ、気持ちいいのっ、\n　大きくなってる……お汁……じゅぷって溢れちゃうっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「んぁっ、はぁぁんっ、パパぁ……あぁっ、気持ちいいのっ、このままっ、あ\n　っ、されたらぁっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「イクっ……イッちゃうのっ、オマンコ……気持ちよくなってっ……はぁんっ、\n　イッちゃうよぉっ、あひっ、あっ……えっ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_06" ]},
+		{"command":[ "SETTEXT", "「あんっ、あっ、な、何で止めたの？　んっ、もう少しだったのに……パパ…\n　…ねぇ……どうしてぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_05" ]},
+		{"command":[ "SETTEXT", "「私が欲しいって言わないとダメなの……？　そんなの、もう分かってるのに\n　ぃ……あんっ、あっ、はぁんっ、あぁっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_06" ]},
+		{"command":[ "SETTEXT", "「分かったからぁ……チンチンっ、止めないでぇっ！　パパのチンチンでっ、\n　私のオマンコっ……ズンズンしてっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "PLAYANIM", "0", "ev339_02b_0000", "ev339_02b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「イキたいのっ、パパのチンチンでオマンコイクのっ！　あひぁっ、それっ、\n　あっ、もっとズリズリしてっ、あっ、んぁぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「来るっ……来ちゃうのっ！　オマンコイッちゃうっ！　パパのチンチン気持\n　ちいいっ！　チンチンよくてっ、オマンコイクぅぅんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_09" ]},
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「んぁぁぁっ……！　なかぁっ、出てっ……パパもっ……イってるっ！　あひ\n　ぁっ……せーえきっ、オマンコ……出されてるぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_08" ]},
+		{"command":[ "SETTEXT", "「はぁぁん……気持ちいい……やっぱりパパのチンチン……よすぎるのぉ……\n　これが好きなのぉ……はぁぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「あふっ……終わった……の……？　止まったから……そう、なんだよね？　\n　いっぱい出した……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_09" ]},
+		{"command":[ "SETTEXT", "「んっ、うん……気持ちよかった……まだ、オマンコ……ほわんって痺れてる\n　感じするぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_08" ]},
+		{"command":[ "SETTEXT", "「恥ずかしかったけど……優しくしてくれたから……パパ……好き……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_07" ]},
+		{"command":[ "SETTEXT", "「んっ……でも、そろそろ離してくれてもよくない？　ほら……向こうの島ま\n　で泳ぐんだから……ひゃっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev339_02b_0000", "ev339_02b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「えっ……ちょっ……また、チンチン……動かしてるっ……パパ、もう終わっ\n　たんじゃ……ひぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「まだ、準備運動の途中……こ、これって……準備運動なのっ？　でも、私は\n　……だっこされてるだけで……動いては……んぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「はぁっ、んっ……ちゃんと、オ、オマンコに力を入れればいい……の？　ん\n　っ、あぁっ、でも……そんなことしたら……ひぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「イッたばかりのオマンコぉ……もっと、ジンジンしちゃうのに……えっ、ち\n　ゃんとしないと……あっちへ行く？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「や、やだっ！　そっち……まだ、人いっぱいいるからっ……あっ、見られち\n　ゃうっ、エッチしてるとこっ、見られたらぁっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「んんんっ……！　あっ……そ、その調子って……私……してる訳じゃっ、ひ\n　ぁっ、あぁぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「あぁ……海から上がっちゃダメ……み、見せちゃう……オマンコ……は、恥\n　ずかしいよぉっ……み、見せちゃ……ダメェ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「や……あぁっ、こんなトコ見られたら……ち、違うの……見せたがってなん\n　か……あぁっ……オマンコ、お汁……またもれちゃうっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「私、マゾじゃないのに……あぁっ、こんな……見られて感じるなんて……オ\n　マンコヌルヌルにしちゃうなんて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「あ……あぁっ……あ、足広げちゃダメぇ……ホントに見られちゃうからぁ…\n　…んあっ！　はぁぁぁんっ、チンチンまたぁっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あっ、あぁっ、あんっ、はんっ、あぁんっ♪　すごっ、いっ……ズリズリっ、\n　擦れるのっ……あんっ、らめぇっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「やっ、パパの……チンチン……止まらないっ……あんっ、ずっと中で……ビ\n　クビクしててっ、オマンコ……またよくなっちゃうっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「あぁ……赤ちゃんがおしっこするカッコ……恥ずかしいのにっ、オマンコム\n　ズムズして……おしっこ……出ちゃいそうっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「出していいって……パパのバカぁ……そんなの、出せるわけないからぁっ、\n　あんっ、あぁっ、はっ、あぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「んぁっ、でも……あっ、また……オマンコジンジンしてるっ……気持ちいい\n　のっ、上がって来てぇっ……はひぃっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「はっ、あぁっ、もっ、もうらめっ、わらひっ、またイッちゃうっ……チンチ\n　ンズリズリ擦れてっ、またイッちゃうからぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「パパもっ……あっ、あぁんっ、イッてっ、一人じゃやだっ、一緒ならっ、恥\n　ずかしくてもいいからっ、チンチンっ……イッて！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あんっ、あぁんっ、うんっ、もうっ、何でもパパの言うこと聞くからぁっ、\n　お願いっ……イクっ、はひぃっ、オマンコらめっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「あんっ、んぁっっ、あぁぁっ……イクっ……オマンコっ……またイクぅぅぅ\n　ぅぅぅんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_12" ]},
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「ふひぁぁぁぁっ♪　あっ、また出たっ……チンチン……出たっ♪　びゅくび\n　ゅくっ、白いのっ……中っ……出たぁっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_11" ]},
+		{"command":[ "SETTEXT", "「あちゅい……んっ、いっぱいされてるぅ……んふぅ……チンチンビクビクし\n　てるの……分かるぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_12" ]},
+		{"command":[ "SETTEXT", "「はぁ……んっ、やぁぁ……私……お、おもらししてる……？　なんか……び\n　ゅびゅって出ちゃってるかも……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_11" ]},
+		{"command":[ "SETTEXT", "「だ、大丈夫……？　あぁ、でも……どっちでもいいの……びゅって出すの…\n　…気持ちいいからぁ……んふぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_12" ]},
+		{"command":[ "SETTEXT", "「はぁ……んっ、全部出してぇ……オマンコ、いっぱいにして……何も考えら\n　れなくしてぇ……はひゅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_11" ]},
+		{"command":[ "SETTEXT", "「んっ、あぁ……はぁ、はぁ……はぁ……終わった……？　うん……よかった\n　……オマンコ……気持ちよかったぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「もし、見られたらって思ったら……すごくドキドキして……見られたくない\n　のに……想像して、気持ちよくなっちゃった……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_12" ]},
+		{"command":[ "SETTEXT", "「え……？　競争……？　パパの勝ち……？　それでもいい……パパ……すご\n　かったから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_10" ]},
+		{"command":[ "SETTEXT", "「でも……競争はもういいけど、パパと一緒に泳ぎたいな……それは、ダメ？\n　えっ？　準備運動頑張りすぎたから……後で……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_11" ]},
+		{"command":[ "SETTEXT", "「もう、パパ……そんなトコばっかり頑張るの……やっぱりエッチ過ぎじゃな\n　い……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_15" ]},
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「んぁぁぁぁっ♪　あっ……びゅくって……出てるっ……はぁぁ……パパのせ\n　ーえき……びゅるって飛んでるぅ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「あ……ふっ！　わらひも……イッて……んんっ、あっ……らめ……お汁……\n　出してる……びゅるって……恥ずかしいおもらししてるぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_14" ]},
+		{"command":[ "SETTEXT", "「やら……気持ちいいの、ずっと続いてる……こんな、外の……おひさまの出\n　てるとこで……オマンコ見せちゃってるのにぃ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_15" ]},
+		{"command":[ "SETTEXT", "「はぁぁ……おっぱいもジンジンする……ずっと気持ちいいのいっぱいで……\n　わらひ……もう、らめぇ……はぁぁ……あふっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_14" ]},
+		{"command":[ "SETTEXT", "「んっ、あぁ……終わり……？　んっ、出し終わった……の？　準備体操……\n　終わり……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「はぁ……もうパパぁ……あんなに見つかるかもって言ったのに……結局最後\n　まで離してくれないんだからぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_15" ]},
+		{"command":[ "SETTEXT", "「すごくドキドキしたんだからね？　怖くて……ドキドキして……それで……\n　き、気持ち……よかったけど……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00033902_02_13" ]},
+		{"command":[ "SETTEXT", "「でも、あーいういきなりするのは、ホントはダメなんだから！　めっ！　分\n　かった？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「んっ、分かったならよし。えっ……競争？　何だかもう、どっちでもよくな\n　っちゃった……あっ、でも、パパと一緒に泳ぎたいな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレニカ" ]},
+		{"command":[ "SETTEXT", "「腰……使いすぎたから、もうちょっと後で……？　もう……パパ、ホントに\n　しょうがないんだから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_339_0204410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

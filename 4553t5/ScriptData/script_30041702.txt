@@ -1,0 +1,478 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0081" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00000417_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev004_17b_0000", "ev004_17b_0023" ]},
+		{"command":[ "SPOTCHARA", "0" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「はぐっ、んぐっ、むぐっ、ごくんっ……ぷはっ、うめー！　やっぱ海で食う\n　飯は最高だな！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403101" ]},
+		{"command":[ "SETCHARA", "0", "char_00000404_01", "8", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「飯は美味いし、好きな時に好きなだけ泳げるし……海って、最高だなー！\n　月にも海があればいいのになー」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「……ん？　なんだよ、私のことジロジロ見て……あ、この焼きトウモロコシ\n　を狙ってるのか！？　これは私のだから、おまえにはやらないぞ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403103" ]},
+		{"command":[ "SETCHARA", "0", "char_00000404_01", "3", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「なんだよ、違うのか？　……ははーん、わかったぞ！　さてはおまえ……\n　私の水着姿に見とれていたな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403104" ]},
+		{"command":[ "SETCHARA", "0", "char_00000404_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「いやー、まいっちゃうなー。私くらいの女になると、あふれ出る魅力って\n　やつが、黙っていても男を引きつけちゃうんだよな～。罪作りな女だな～。」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403105" ]},
+		{"command":[ "SETCHARA", "0", "char_00000404_01", "8", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「へっへー、そんなに褒めるなよ、照れるだろー！　おまえ、弱っちくて全然\n　ダメダメなヤツだけど、そういうとこ、なかなかわかってるじゃないか！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「よーし！　今の私は気分がいいからな。特別におまえの頼みを聞いてやって\n　もいいぞ。なんでも言ってみろ！　あ、トウモロコシはやらないからな！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「……マッサージ？　いつもおまえが、私にシてくれるようなヤツか？　それ\n　を私がおまえにすればいいのか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403108" ]},
+		{"command":[ "SETCHARA", "0", "char_00000404_01", "3", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「うーむ……わかった、いいぞ！　義理と人情は絶対欠かすなって、じっちゃ\n　んも言ってたしな。お返しに私がシてやるよ！　で、どうヤればいいんだ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403109" ]},
+		{"command":[ "SETCHARA", "0", "char_00000404_01", "8", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+				
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「おおー！　こうして見ると、けっこうデッカいんだな?！　おまえって、て\n　んで弱っちいくせに、こういう変なとこばっか男らしいよな?」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403110" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_01" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「いや、でも案外、身体の方もガッシリしてるし、けっこう鍛えられてるじゃ\n　ないか。うーん、どうしてこれで、そんなに弱っちいんだ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403111" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_02" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「あはは！　そんな情けない顔するなよ。そのための特別なマッサージって\n　やつだろ？　今日は私が、おまえをウーンと強くしてやるからさ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403112" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_01" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「で、どうするんだっけ？　……ああ、コレを口に咥えて、アメみたいに舐め\n　ればいいんだっけ。口を使うなんて、変なマッサージだよなー」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「ま、いいけどさ。それじゃあ、いくぞ？　あーん……はむっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403114" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_04" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「むぐっ、んむっ、じゅるっ……これで、いいのか？　むぐぐっ、思ったより\n　デカくて、口の中に入り切らないな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403115" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_05" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「……もっと奥まで？　むぐぶっ、これでもけっこう、苦しいんだぞ？　……\n　む、できないとは言ってないだろ！　見てろ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403116" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_04" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んぐっ、ぐぷぷぷっ……どうだ、奥まで入ったぞ……、んぐぶっ、じゅぐぶ\n　っ……これくらい、このセレイン様にかかれば、楽勝だ……んぐくっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403117" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_05" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「それで、このままアメみたいに、舐めればいいんだろ……れじゅっ、れるれ\n　るっ、れるっ、んれぇええっ……こうか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev004_17b_0000", "ev004_17b_0023", "TRUE", "ALL" ]},
+		{"command":[ "SETTEXT", "「あとは、唇を締めて……んっ、前後に、シゴく……んむっ、んちゅっ、じゅ\n　ぐっ、じゅぬぐっ、じゅぬっ……うあ、涎がこぼれる……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「わかってる、んじゅるっ、軽く吸いこんで、口の中を密着させれば……んぢ\n　ゅううっ、ずぢぢゅっ、これで、どうだ……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「む、ちょっとコツがわかってきたぞ、こうだろ……ぢゅぐぬっ、ぢゅずっ、\n　ぢゅぶっ、ぢゅぶっ……んっ、ぢゅりゅりゅりゅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「くっふっふ、変な声が出てるぞ?？　ずぢゅるるっ、れりゅりゅぅっ、気持\n　ちいいんだろ?、もっとシてやる……ずじゅぼっ、ぐぼっ、ぐぼっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んむっ？　さきっぽから、なんか変な汁が出てきたぞ……んれじゅっ、ずじ\n　ゅるっ、ちょっとしょっぱくて、ほろ苦くて、んくっ、んふぅっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「たしか、気持ちいいと出てくるんだろ……？　ずぢゅぢゅっ、ぢゅぐぼっ、\n　私にかかれば、こんなもんだ。ほら、もっと出せ出せ?、ぐぼっ、ぐぼっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「ずぢゅるっ、れるるぅっ、じゅぼっ、ずじゅぼっ……んっ、ふぅ、ふぅ……\n　なんだか私も、ちょっとだけ身体が熱くなってきたな……んふぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んっ……？　口の中で、おまえのがまた大っきくなってきたぞ……？　ずぢ\n　ゅぢゅっ、じゅぐっ、じゅぬぐっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「先っぽのところが、風船みたいにパンパンになって、じゅぐっ、じゅぬっ、\n　れじゅるっ、れるるぅっ……ビクビクしているぞ……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「じゅぶっ、じゅぶぶっ、私のマッサージが気持ちよすぎて……ぬじゅっ、ず\n　じゅっ、ぬりゅりゅっ、また変な汁がいっぱい、出そうなのか……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「いいぞ、もっと気持ちよくなれ、んじゅううっ、れるれるぅっ、じゅずぼっ、\n　じゅぼっ、じゅぼっ、れりゅりゅっ、さっさと、イっちゃえ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「じゅぼっ、じゅぼっ、じゅぼっ、ほら、イけ、私の口で気持ちよくなって、\n　イっちゃえ、ずぢゅぢゅぢゅっ、情けない顔しながら、イけ、イけっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_09" ]},
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んぷあっ！？　ちょっ、ぷあうっ！　こ、こらぁっ！　ふあぁああっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「私の顔に、んぷあっ、熱くてベタベタしたのを、かけるなあっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「うぷぇっ、口の中にも少し入ってきた……うぅ、何だこれ、クサくてネバネ\n　バして、すごく変な味だぞ……！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んぷっ！？　ちょっ、まだ出るのか……！？　ひぁっ！　先っぽから、白い\n　の、びゅくびゅくっ、あぷぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「こ、このぉっ、いい加減に……んぶぁっ！？　だから、やめっ……あぷぅっ！\n　もうこれ以上、顔にかけるなぁっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……お、おまえなぁ……！　遠慮なく、私の顔に出しやがってぇ\n　……！　顔中、ドロドロのネバネバになっちゃったじゃないかぁ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「だいたい、出すなら出すって、ちゃんと言えよなぁ……！　口の中にもちょ\n　っと入っちゃったぞ……うぇ、なんかネチャネチャするぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「ん……でもこのニオイ、どっかで嗅いだことあるような……くんくん……青\n　臭いっていうか、磯臭いっていうか……わかった！　イカ焼きのニオイだ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_07" ]},
+		{"command":[ "SETTEXT", "「味の方も、んっ、ちゅぱっ……ねっとりして、味が濃くって、悪くないかも\n　……ちゅぱっ、ちゅぱっ……んふぅ、ちょっとクセになりそうな味だ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「ま、とにかく、この勝負は私の勝ちだな！　私の口で気持ちよくなってこん\n　なに出したんだろ？　なら、私が勝ったってことだ！　ふっふーん！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「お？　おまえのココ、まだ固いままだな？　デッカくなってるってことは、\n　まだどろどろのヤツを出したい、ってことなんだろ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「それだけ私のマッサージが良かったってことだな！　へっへー、しょうがな\n　いな～。あとでなんか奢るんなら、もう一回くらいシてやってもいいぞ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「どーせ、さっきはあっけなく出ちゃったもんだから、悔しくてリベンジした\n　かったんだろ？　いいぜいいぜ?、いくらでも相手になってやるよ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「何度ヤったところで、結局勝つのは私だからな！　なんてったってこのセレ\n　イン様は、フェラチオの天才だからな！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「ん？　フェラチオって、このマッサージの名前だろ？　なんか強そうでイイ\n　よな！　地球の古代ギリシャとかで流行った格闘技の名前みたいでさ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「よーし、じゃあいくぞ、覚悟はいいか？　私のフェラチオが気持ちよすぎて、\n　さっきみたいにあっさりイっちゃわないようにしろよなー！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「あーむっ、ずじゅるるっ……もうヤリ方は分かってるからな、さっきよりも\n　もっと気持ちよくしてやるぞ……じゅぬぐぐぐっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev004_17b_0000", "ev004_17b_0023", "TRUE", "ALL" ]},
+		{"command":[ "SETTEXT", "「ぐぶぶっ、じゅぐぬぬっ……どうだ？　おまえのこの大っきなのを、こんな\n　に奥まで咥えこんじゃったぞ？　ずじゅじゅっ、ふふ～ん、すごいだろ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「このままキツく吸い込みながら、口の中全体で擦って……ずぢゅううっ、ぢ\n　ゅぐっ、ぢゅぬっ、ぢゅぬっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「チンポをシゴきながら、舌もいっぱい動かして……ずりゅりゅっ、じゅぬぐ\n　っ、れりゅりゅっ、れるぅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んっ、ここが気持ちいいんだろ……？　この裏っかわの、スジのところ……\n　れじゅるるっ、れるぅっ、れじゅるぅっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「あと、先っぽのカリ首ってとこも、吸い付きながら唇で……じゅぐぼっ、ぐ\n　ぽっ、ぐぽっ……舌も一緒に……れじゅるるっ、じゅぬぼっ、じゅぬるっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「おまえの弱いところなんて、とっくにお見通しだぞ……れじゅるっ、じゅぬ\n　ぼっ、じゅぼっ、じゅぼっ、またあっさり、出ちゃうんじゃないか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「ぢゅぬっ、ぢゅぼっ、ぢゅぼっ、もっと根性出して、こらえてみせろ、ずぢ\n　ゅりゅりゅるっ、早い男は嫌われるって、ばっちゃんが言ってたぞ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「ぢゅぐぬっ、ぢゅぬっ、ぢゅりゅりゅっ、ふぅ、ふぅ、あんまりだらしない\n　と、おまえのチンポを噛み千切ってやるからな……はぐっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「あむっ、あむっ、どうだ、月狼族の牙は鋭いんだぞ、手加減してても、痛い\n　だろー！　ぢゅぬっ、ぢゅぐぬぬっ、はくっ、あむっ、あむっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「ふぅ、ふぅ、ふふん、チンポの先っぽを私の歯型だらけにしてやったぞ……\n　ずぢゅるるっ、ぢゅぐっ、ふぅぅっ、このチンポはもう私のものだな……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「じゅぐぬぬっ、ぢゅぼっ、ぢゅぼっ、ぢゅぼっ、んっ、チンポがまた、ビク\n　ビクと震えてきたぞ……もう、イきそうなのか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「弱っちいやつめ、ずぢゅりゅりゅっ、ずぢゅぼっ、ぢゅぼっ、いいぞ、イけ、\n　私のフェラチオで、チンポ気持ちよくなって、精液を出せ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「先っぽから、どろどろで、濃くて、臭くて、美味しいやつを、いっぱい出せ、\n　ぢゅぐっ、ぢゅぐっ、ずぢゅりゅりゅっ、ほら、イけ、射精しろっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL2","外して射精","LABEL1" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んぷああっ！！　また顔に、いっぱい……ふああっ、あっ、あぁっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403301" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_12" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「熱くてどろどろのが、私の顔に、びゅくびゅくって……！　あくっ、ふあっ、\n　あぁっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んっ、いいぞ、もっと出せ……！　チンポの先っぽから、白くて、臭いのを、\n　もっと私に……ふあぁっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403303" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_11" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んぷあっ、あっ、あくぅっ……！　またいっぱい、精液が、顔にかかって…\n　…あっ、あっ、私も、なんか……んくっ、ふあぁああっ……！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「っぅぅ……、はぁっ、はぁ……終わった、のか……？　ふぅぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んぅ……またこんなに、いっぱい出して……ふぁ、おまえの精液で、私の顔\n　がさっきよりも、べたべたになってしまったぞ……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403306" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_10" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「熱くて、どろどろで……すぅ、はぁ……くぅぅ、すごく臭いのに……ふぅ、\n　ふぅ……このニオイを嗅いでると、身体がざわざわしてくる……んぅっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「と、とにかくこれで、私の二連勝だな……！　おまえってヤツは、チンポま\n　で弱っちくてダメダメなんだなぁ？　ちょっとは悔しくないのか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「……ま、まぁ、まだチンポは固いままだし、おまえがどうしてもって言うな\n　ら……もう一回くらい、シてやらないこともないぞ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「どうせ何度やっても、私の勝ちだろうしな……ふぅ、ふぅ……おまえのチン\n　ポから精液が出てこなくなるまで、私が搾ってやっても、いいぞ……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_15" ]},
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んぶうぅううっ！？　ちょ、まっ、口の中にっ……んぶっ、あぶぅっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「先っぽから、熱くてどろどろのが、奥まで、びゅくびゅく、んぷぅうっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「ふぅぅっ……！　口の中、もう精液で、いっぱい……うぷぅっ、苦しい……\n　息、出来な……ん、ふぅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403403" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_14" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んくっ……んっ、ごくっ……ごきゅっ、ごきゅっ……くぅ、精液、ベタベタ\n　喉に貼り付いて……んぐっ、ごくっ……んっ、ぷぅっ、飲みづらい……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んぶっ！？　ま、まって、まだ出るのかっ……！？　んぷあぅっ、もう、飲\n　めないっ……んぐっ、くっ……や、やめ……精液で、溺れちゃうっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「っ……んぐっ、ごくっ、ごきゅっ……ぷあっ、はぁっ、はぁっ……お、おま\n　えなぁ……！　うぷっ、し、死ぬかと、思ったぞ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403406" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_13" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んくっ、んぐっぷ、げぷ……！　うぅぅ、ゲップまで精液のニオイがする…\n　…お腹の中、おまえの精液でたぽたぽだ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403407" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_14" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「んんっ、口の中も、精液でベタベタして取れないし……んっ、ちゃぷっ、ん\n　ぐっく……ふぅ、ふぅ……喉にも残ってて、イガイガする……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁっ……身体の中まで全部、おまえの精液のニオイになったみたい\n　で……んうぅっ、アソコがムズムズする……くぅぅっ、変になりそうだ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403409" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000404_01_13" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "セレイン" ]},
+		{"command":[ "SETTEXT", "「な、なあ……今度はその……私にマッサージを、シてくれよ……いつもみた\n　いに、私のことを……い、いっぱい……気持ちよく、シて……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_004_0403410" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

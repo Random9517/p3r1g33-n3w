@@ -1,0 +1,475 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0004" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00030903_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev309_03b_0000", "ev309_03b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETCHARA", "0", "char_00030903_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「こんな所に呼び出して、なんの用かしら……なんてね、薄々気づいてはいる\n　のだけど」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETCHARA", "0", "char_00030903_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ふふ……顔が怖いわよ、貴方。女を相手にするときは、もっと余裕を持たな\n　きゃダメ……あんっ、ちょっと」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_01" ]},
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んっ……ふっ……今日はこういう趣向なのね……んっ、反省させるための\n　お仕置き、ね。貴方にできるかしら？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_02" ]},
+		{"command":[ "SETTEXT", "「あんっ、あ……ふふ、オチンポはやる気みたいね……その熱意が続けばいい\n　けれど。んうっ……ふっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んんっ、ふっ、それ、焦らしてるつもりかしら……でも私、こういうのも\n　好きなのよね……オチンポの硬さも形もわかって……あんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_01" ]},
+		{"command":[ "SETTEXT", "「それよりも、貴方の方が我慢できなくなるんじゃない？　オチンポ、びくび\n　くって震えて、私の中に入りたがってるわよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_02" ]},
+		{"command":[ "SETTEXT", "「やんっ、あっ、そんなに、きつく締めたら苦しいわ……んうっ、ふふふっ\n　……ひどい人ね、貴方」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_05" ]},
+		{"command":[ "SETTEXT", "「今の私が貴方のオチンポ入れられたら、もっと苦しくなりそう……んんっ、\n　ふっ、入って、来た……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_04" ]},
+		{"command":[ "SETTEXT", "「んうっ、ふっ、んんっ……まだまだ、全然ですね……これじゃ、私へのお仕\n　置きになんかなりませんよ、はっ、あっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev309_03b_0000", "ev309_03b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んんっ、ふっ、んううううっ、そう、そうです、もっとオチンポでオマンコ\n　責め立てて……んくっ、ふっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「でも、まだまだ。んくうっ、そんな腰使いだと、私が悦ぶだけですよ、ほら、\n　もっと激しくしないと、んうっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「ほら、もっと、もっと責めないと、んんっ、はあっ、うっ、んっ……ふふ、\n　まだ足りないです、あうっ、くっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「あんっ！！　ん、今のはよかったですよ、強くて、速くて、私のオマンコを\n　責めようっていう貴方の意思が伝わって……んんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「あうっ、んっ、あっ、くっ！！　そう、そうです、もっと、もっと強く、速\n　く、私にオチンポを感じさせて……んくうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「ふううっ、うっ、この、拘束の締めつけと、オチンポの突き上げ……んんっ、\n　はっ、あっ、ふふ、ふ、私、今責められてる……んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「貴方に責められてるって実感が、ようやく感じてきました……あっあっあっ、\n　んっ、もっと、もっとしてください……んくうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「そう、もっと、もっとオチンポでオマンコを虐めて、責めて、ふあああっ、\n　あっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「いいっ、いいです！！　お仕置きになってますよ、ふうっ、うっ！！　でも、\n　まだ、まだ物足りません、あっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「私に反省させたいなら、もっと責めないと、ほら、もっと、もっとオチンポ\n　で、んんっ、あっ、くうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んっ、うっ、ふっ……ふうっ、ふっ、私のオマンコがきゅっきゅってなって\n　いるの、わかるでしょう？　ふうっ、んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「こんな風に拘束されて、下から突き上げられて、逃げ場のないオマンコを\n　虐められて、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「お仕置きされて、ふるふる震えてオチンポにしがみついてますよ。んんっ、\n　オチンポに、許してって……ふうっ、ふっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「あっあっあっ、そう、そうです、もっと突いて、あんっ！！　ちょっと反省\n　したぐらいで許しちゃいけませんよね、あうっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「もっともっと、オチンポでお仕置きして、オマンコぐちょぐちょにこねて、\n　溶かして、虐めて……んんんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「反省させなきゃ……ね？　あんっ、あっ、あくうっ、あっ、くっ！！　ふう\n　ううううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「貴方のお仕置き、熱が入ってきました……はあっ、はっ、んっ、オマンコ\n　だけじゃなく、私の身体も……んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「身体もお仕置きに熱くなってきてます……ふうっ、ふっ、あっ、オチンポの\n　突き上げが、頭の中まで、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「もっと、もっとお仕置きして！！　貴方のオチンポで虐めて！！　んんっ、\n　はっ、ああっ、んんんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んくうっ、逃げられないように、拘束した私のオマンコを、がつがつって、\n　奥まで叩いて……ふうっ、うっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「お仕置きして……ふふ、私、悪いことをしたものね、貴方にお仕置きされて、\n　反省しなきゃだものね、んんっ、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んうっ、あっ、んっ、オチンポで、お腹叩かれて、はっ、あっ、あんっ！！\n　んんんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「うふふ、私のオマンコも反省の意識が芽生えてきたみたい……んっ、でも、\n　まだ足りないわ……だから、もっと、もっと……ね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「あんっ、あっ、あっあっあっ！！　そう、そうよ、オチンポで、オマンコ\n　反省させて、んんっ、はあっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んんんっ、もっと、もっと激しく、強く、んんっ、悪いオマンコをお仕置き\n　して、ふうううっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あああっ、んっ、あっ、凄く、反省の気持ち、沸いてきたわ……オチンポか\n　ら、反省させられてるの、んっ、はああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「ああああ、反省させられて、私、私、貴方に反省させられて、ふうっ、あっ、\n　んっ、イく、イく、イっく！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_09" ]},
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「イっくううううううううううっ！！　んんんっ、はああっ、オチンポからお\n　仕置きザーメンも、ふああああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んんんっ、あっ、んっ、熱い……ふううううっ、んっ、オマンコも、ごめん\n　なさいって、きゅうって……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_08" ]},
+		{"command":[ "SETTEXT", "「ふっ、はっ……あっ、んっ。ふふ、お仕置き、されちゃったわね。縛られて、\n　オチンポで突かれて……んくっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「謝ってるオマンコにザーメン注がれて……んっ、はっ……反省してるわ……\n　んうっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_07" ]},
+		{"command":[ "SETTEXT", "「でも、まだ反省が足りないみたい。ふふ、私の身体、まだまだお仕置きして\n　欲しいって言ってるわよ。どうするの、貴方？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "PLAYANIM", "0", "ev309_03b_0000", "ev309_03b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「あんっ、あっ、あくうっ、んっ！！　ふうっ、ふっ、そう、そうよね。お仕\n　置きしなきゃよね、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んっ、ふっ、ううううっ！！　連続お仕置き、んっ、オマンコが震えて、\n　反省してきてる……あんっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「はっ、あっ、んっ、縛られて、逃げられないのに、オチンポでずこずこ突き\n　上げられて、んうっ、ふっ……んんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「ふうう、私も、反省の意を示さないと、ね。んっ、ふっ、ほら、オマンコで、\n　ごめんなさいって、こう……あんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「こう、締めつけたら……んんっ、はっ、あっ、貴方のオチンポに反省が伝わ\n　るかしら、んっ、くっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んふうっ、んっ、ほら、こうして、きゅってして、貴方のオチンポの先端\n　から根元まで……んくっ、うっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「締めつけて、ぬるぬるってしごいたら……んんっ、ふっ、反省してるって、\n　わかるでしょう？　あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「貴方のオチンポも震えて返事してるわ……ふうっ、んっ、あっ、んっ、あん\n　っ、くっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「ほら、こうしてぎゅってしたら、カリ首の形までわかって……んふうっ、\n　そこから動かれたら、あっ、ううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「中がごりごりって削られて、ふうううっ、はあっ、あっ、オマンコ、ごめん\n　なさいって謝ってる……んんっ、あっ、くっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「反省のオマンコハグしてるの、んっ、オチンポでわかるでしょう？　んっ、\n　ふううっ、あんっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「謝ってる、謝ってるのに、オチンポでがんがんするなんて、ひどい人ね、貴\n　方、あんっ、あっ、んっんっんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「ふうううっ、んっ、ぐちゅぐちゅって、オマンコが泣いてるわ。ひどいひど\n　いって、ひどいオチンポだって、あくうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「あはっ、あっ、んっ、うっ！！　ふううううっ、ふふ、でも、これがお仕置\n　きよね、んっ、くっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んふっ、んっ、謝ってるオマンコ、反省してるオマンコをオチンポでずこず\n　こするのが、お仕置きって感じで……あうっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「うふふ、気持ちいい、じゃないわ、私も反省しちゃう……んっ、あっ、また、\n　また反省で……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「身体、反省で熱くなってきた。もっと、もっと奥、そう、ごりごりって私に\n　反省させて……んっ、はっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「お仕置き、もっと奥にお仕置きして！！　オマンコびくびくってするぐらい、\n　ふうううううっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「そう、そうやって、奥、ああああっ、オチンポでごりごりって、んっ、ふっ、\n　イく、またお仕置きオチンポで、またイっく、んんん！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_12" ]},
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「ふうううううううううううううっ！！　んんんっ、またお仕置きザーメンが、\n　中に……んんっ、はっ、あっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「はっ、ふっ、うっ、んっ、気持ち、いい……お仕置き、気持ちいい……あん\n　っ、あっ、くっ……オチンポも満足してるみたい……あんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_11" ]},
+		{"command":[ "SETTEXT", "「ふっ、ふっ、反省を促すザーメンでオマンコ満たされちゃってるわ……ふう\n　っ、ふっ、あんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「んうっ、んっ、はっ……ふうっ、ふっ……沢山、反省させられちゃったわ\n　……んんっ、あっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「頭の先からつま先まで、全部オチンポでお仕置きされたわ……はあっ、んっ、\n　しばらく貴方の事以外考えられそうにない……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_10" ]},
+		{"command":[ "SETTEXT", "「ふふ……貴方もいっぱい出してくれたわね。それだけお仕置きに熱が入った\n　のね、嬉しいわ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「私のことを拘束して、後ろからオチンポでずぽずぽして、満足できたのね。\n　よかったわ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「しばらくは、貴方のために大人しくするわ……なに、その顔は。私だって、\n　少しはしおらしい部分はあるのよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「貴方のおかげで反省できたってことよ……でも喉元過ぎれば熱さを忘れるっ\n　ていうし、このザーメンがなくなったら、私もお仕置きを忘れちゃうかも」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「だから……またお仕置き、してほしいの。忘れないように、そのオチンポと\n　ザーメンで、私のオマンコ、反省させて……ね、貴方。いいわよね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_15" ]},
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「あくうううっ、あっ、オチンポが抜けて……んんっ、はあっ、ああああ\n　っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「反省させるザーメンが、身体中に、ふうっ、あっ、んんっ、熱っ、んっ、く\n　ふうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「濃い……匂いも……んんっ、お仕置きザーメン、凄いわ……身体中がべとべ\n　と……あんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_14" ]},
+		{"command":[ "SETTEXT", "「はあっ、あっ、気持ちいい……んっ、こんなの、反省するしかないわ……\n　あくうっ、んっ、まだ出るのね……ふうっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「中も外も熱くなって、頭がくらくらしてくる……髪の毛までザーメンで染め\n　られて……んふうっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「ふうっ、んっ……ふふ、全身にお仕置きされちゃったわ……凄いわね、貴方、\n　こんな風に私を反省させるなんて……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030903_02_13" ]},
+		{"command":[ "SETTEXT", "「私の今の姿を見たら、いっぱい反省させられたって、そう思われるわよね、\n　こんなにザーメンまみれの身体で……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「身体中から貴方の匂いをさせて……もう、貴方の女だって宣伝してるような\n　ものよ、これ。ふふ、私をものにした気分はどうかしら？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「そんな貴方のために反省したあげたのだから、しばらくは大人しくしておい\n　てあげる。だから、ね。またこんな風にしましょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "愛" ]},
+		{"command":[ "SETTEXT", "「だって、こんなに気持ちのいいこと、一回きりじゃもったいないでしょう？\n　だから、今度はお仕置きじゃなく、ご褒美で……ね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_309_0304410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

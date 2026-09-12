@@ -1,0 +1,943 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_01" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SELECT", "全て再生","LABEL1","Ｈシーンへジャンプ","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0013" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "PLAYSE", "WAR_SE15" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SETTEXT", "現在、午前１１時。外は台風が直撃して、土砂降り。ちょっと先も見通せない\nレベルの雨だった。", "NORMAL" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「……雨、やみませんねえ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104101" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そんな他人事みたいに言ってもダメですからね？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "香織ちゃんが、完全に俺から目をそらしたままだ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "今日は日曜日で、委員会室には俺と香織ちゃんだけ。この部屋に限らず、台風\nで部活も全て中止になって、学園には誰も登校していない。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "なのに、なんで俺だけが登校してきているのかというと。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ごめんなさいいいい、今日中に用意しておかないといけない書類が終わって\n無いんですうううう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104102" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "4", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "という訳だ。しかも、風紀委員長の俺のサインや確認が必要なヤツ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃんほんとさあ……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「来てくれてありがとうございますううう、先生何でもしますからあああ……\n！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104103" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「何でもはして貰うとして」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あれ？　今までは、何でもとかいうと、本当に大変なことさせられるから、\n言葉に気をつけようとかそういう風に言ってくれてたじゃないですか」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104104" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "1", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「何でもはして貰うとして」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「せ、先生何させられるんですか！？先生に出来ることじゃないとダメですよ\n！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104105" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "4", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「大丈夫大丈夫、今までにやってもらったようなことだから」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ま、まあ。それなら？　カニ漁船に乗れとか、理事長の下着を盗んでこいと\nか、そういう無茶なことでないなら、良いんですけど」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104106" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "1", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "……カニ漁船と理事長の下着を盗むの、どっちか選べるんだったら、カニ漁船\nの方が生き残れるかなあ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「それで、先生何をさせられるんですか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104107" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「コレ終わったら、デートで」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「……え、そんなことでいいんですか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104108" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "3", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「おっと、いつものデートじゃないぞ！膝枕したり耳かきしたり、ごろごろべ\nたべた何かそんな感じのヤツでお願いします！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「はあ。まあ、別にいいですけど」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104109" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "2", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "あっさり受け入れられて、若干肩すかしでもある。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「先生てっきり、若い衝動に任せて（自主規制）で（自主規制）されたり（自\n主規制）な流れで（自主規制）とか――」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104110" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「えぇ……引くわぁ……それ、絶対他の誰かに言っちゃダメですよ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「い、言いませんよ！　今のは、先生の友達が実際にあったって話でしかあり\nませんし！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104111" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "7", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「えぇ。実話なのかよ、それ……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ともかく、膝枕とか耳かきとか、そういうことならいつだってやってあげま\nすよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104112" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「じゃあ、今日これ終わったらウチで。授業無いし、時間あるでしょ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ええ、まあ。……だけど、帰れますかね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104113" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "2", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "外は台風直撃で凄いことになっていた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "PLAYSE", "WAR_SE15" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「……ふと思ったんですけど。地下のダンジョンってこれ、大丈夫なんですか\nね？　水はけとか」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「……そこからアクマが発生したら、そのアクマは臭いそうですねえ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104114" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そしてその対処をするのも俺達だろう。二人して、深くため息を吐いてしまっ\nた。", "NORMAL" ]},
+		{"command":[ "SETCHARA", "0", "char_00030103_01", "5", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITMOVE" ]},
+	
+		{"command":[ "SETIMAGE", "1", "cbg_0021" ]},
+		{"command":[ "DISPIMAGE", "1", "true" ] },
+		{"command":[ "FADEINIMAGE", "1", "NORMAL" ] },
+		{"command":[ "STOPBGM" ]},
+		{"command":[ "SETTEXT", "書類が完成し、雨が弱まったタイミングで俺と香織ちゃんは家に帰ることにし\nた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETTEXT", "待っててまた雨が強くなったら、下手すると学校に閉じ込められかねなかった\n――", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_01" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEOUTIMAGE", "1", "NORMAL" ] },
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "SETTEXT", "――なんて不安もどこへやら。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "雨があっさり上がって、晴れ間すら見えていた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ああ良かった、すっかり晴れちゃいましたね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104115" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「本当に良かった……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "あのまま土砂降りが続いてたら、帰るに帰れないコースだったし。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「もうちょっと強く降っててくれたら、香織ちゃんが濡れてエロい感じになっ\nたのに」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「濡れてもびしょびしょになるだけで、先生はエッチな感じになんてなりませ\nんよ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104116" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「たまに汗でブラウス透けてるの、年頃の男子的にヤバいって自覚無いですね\n？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ええええ！？　そういうのは教えて下さいよ！そもそも、いつもそんなこと\nばっかり考えてるんですか！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104117" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「たまに割と。まあ、他の男にそういうの見られたく無いんで、気をつけて下\nさい」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "この間も、香織ちゃんのブラウス汗透け隠し撮りが流通しかけたところを風紀\n委員でしょっ引くなんて事件もあったし。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「……ふふふ、独占欲ですか？　悪くありませんねえ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104118" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃん？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「はいはい、気をつけます。先生のせいで、あまり人目に付く所では恋人らし\nいこともできてませんしね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104119" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "流石に先生が学生と付き合ってる、なんてことをおおっぴらにはしづらい。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "小春や、委員会にも気づいてるのは何人かいるけど、黙ってて貰ってる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「まあ、俺と香織ちゃんは元々仲良いって思われてたみたいで、あんまり気づ\nかれてないっぽいですし？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「それなら良かったです。はぁ、貴方が卒業したら先生もちゃんとしないとダ\nメですよねえ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104120" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「卒業まで、どうなるか分からないですけどね」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「それって先生と別れるかもしれないってことですか！？ふぇぇっ、いやです\nぅ……！　捨てないでくださいい、何でもしますからぁあああ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104121" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_03" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「お酒だって減らしますし、お部屋の片付けもしますしたまにブラとパンツが\nあってないのもちゃんと合わせるようにしますからぁあああ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104122" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「別に酒飲んでも良いし、下着があってなくてもいいし、部屋の片付けはした\n方が良いと思うけど、それよりミスの尻拭いこっちにさせるの止めて？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「うぐっ、そういうところで優しいように見えて、否定出来ない正論ぶつけて\nくるの、先生どうかと思いますよ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104123" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あ、いや。そうじゃなくて、そういうことしてたら、先生に愛想をつかせて\n、別れたくなっちゃうかもってそういうお話ですか……！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104124" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「別れる気は無いけど、そうじゃなくて。誰かにバレたら大変なんで、卒業前\nでもしっかりして貰わないとって話」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あっ、虹が出てますよ――」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104125" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_02" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「待って香織ちゃん、何で今露骨に話そらしたの。何かあったの？　ちょっと\n、こっち向いて」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「…………この間、先生、昔の友達とご飯食べに行って」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104126" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ご飯食べに行って、というよりも。がっつりお酒を飲みに行って、という方が\n正しい。何で知ってるかというと二日酔いの介抱をしたのは俺だ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「そこで友達に、貴方のことをぼろっと話してしまったと、いいますか。のろ\nけ、そうのろけだったんです！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104127" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「何処まで話したの？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「……教え子に、手を出したところまで、ですかねぇ。てへっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104128" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「うわぁ、うわぁ……。自分の社会的な立場、分かってます？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「だだだだだ、大丈夫ですよお。口止めはしましたし、そもそも基本的にこっ\nち側に接点無い友達ですから！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104129" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_03" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「本当にそうかな、そうだといいな。だけど、世の中って意外な所で繋がって\nる……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「わ、分かってます。以後、気をつけます……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104130" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そう言いながら、香織ちゃんが俺と腕を組もうとしてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃん。俺制服だし、外なんだけど」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「外、人いませんし。この位、いいじゃないですか」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104131" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_02" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本当に分かってるのかなあ、と思いつつ。俺は香織ちゃんと腕を組んで帰った\n――", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0005" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM6" ]},
+		{"command":[ "SETTEXT", "香織ちゃんが(何でもしますから)と言ったので。その権利を存分に楽しんで\nいた。", "NORMAL" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "香織ちゃんの太ももに、うつぶせで膝枕したり、耳かきをしてもらったり。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "当然、そんなことをしてたら我慢だって出来なくなった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_04" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM7" ]},
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あぅ……あんまり、じっと……見ないで下さい……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104201" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いや、見るよ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あ……やだ、イヤです……あ、ちょっと……ん、んんん、もう、もうっ……\n！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104202" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "隠そうとしようにも、足は俺が持っていて閉じられない。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そのまま、明かりの下ではっきりと晒されている香織ちゃんのパンツをじっく\nりと見る。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「も、もう……しょうがないんですから……。せ、先生の、あそこ……見たい\nんですか……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104203" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ダメなの？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「う、うううう、ダメ、じゃないですけど、恥ずかしいんですよ！　う、うう\nう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104204" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あ、あっ……あの、焦らないで、下さい……せ、先生、あの、まだ……っ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104205" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃん、俺もう我慢出来ないよ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺は勃起して膨れ上がったモノを、香織ちゃんによく見えるように突き出す。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「そんなに、大きくして……おち○ちん、先生のナカに……入りたくなっちゃ\nってるんですね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104206" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いいよね、香織ちゃん」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「う、ううう……そんなになってるのに、ダメなんて、言える訳ないじゃない\nですか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104207" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "勃起したモノを香織ちゃんの割れ目に密着させる。そしてそのまま、上から掘\nるように押し込んでいった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あっ……ふぅ、ん……あ、あぁ……んぅ、あああっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104208" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_05" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「は、くっ……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "割れ目の肉を左右に押しのけ、熱く火照る香織ちゃんの膣中に、モノを飲み込\nませていく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ふわぁ……あ、ああ……硬い……おち○ちんが……びくびくしながら、入っ\nて……きちゃって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104209" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "普段以上に、繋がってる所がよく見えるせいか、香織ちゃんはそこから目を離\nせなくなっていた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「はぁ……や、やっぱり、恥ずかしいですよ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104210" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「セックスは、何度もしてるじゃないですか……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「そ、そうですけど……！　こんなに、見えるように、エッチなんて、今まで\nしてないじゃないですか……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104211" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "香織ちゃんは顔を真っ赤にしたまま、涙目で俺をじっと見て来る。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「確かに、香織ちゃんの割れ目に俺のが入ってるの、凄く良く見えちゃうな…\n…」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ひくひくと震える膣口が、俺を誘ってるようにも見える。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あ、あの……見られてるばかりだと、恥ずかしいんですけど。う、動かない\nんですか……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104212" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "期待と不安に震えている香織ちゃんに対し、俺は妙な興奮を感じてしまってい\nた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "涙目でぐずる香織ちゃんを見たい、なんて思うのは良くないと分かっているの\nに。俺はぐっと、モノを奥まで突き込んでしまった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あっ！　あ、あぁあっ……！いきなり、深いっ……ん、んんぅっっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104213" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃんっ……！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あんっ……！　はっ、あ、ああうっ……！んんんぅ、うううううっっ……！\n！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104214" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_06" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あ、あぁあ、は、ぁああ……！　そんな、ふぁああっ、いきなり、は、激し\nすぎ、ですよぉっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104215" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "止まらずに、俺はかなりのペースで腰を振ってしまう。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "香織ちゃんは体勢もあってなすがままになってしまい、切なそうにその体をく\nねらせる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あっ……だめ、は、んっ……！　あ、んぅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104216" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「すごいっ……！　ん、んくっ……あ、あっ……！？おち○ちん、そんな、暴\nれさせちゃ、ダメぇ……っ、あ、あぁあっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104217" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "深く突き込む度に、膣口がぎゅうぎゅうに締め付けてきて反発するようにモノ\nが大きく脈打つ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「はぁっ、んっ！　あ、ふぅ、んんぅっ……！！は、激しい、ですってば……\nっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104218" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃん、気持ち……いい？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ん、んんっ……！　気持ち良い、ですけど、あ、あっ！？だめ、だめですっ\n……そんな、や、あっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104219" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "引き抜こうとする動きにあわせて、ビクンと体を震わせる香織ちゃん。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "今までに無い体勢で、カリ首が膣中のお腹側を強くこすり上げるのが来るみた\nいだ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「う、うううう……この体勢、やっぱり、凄く恥ずかしいんですってば……っ\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104220" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "力を込めて、足を閉じる動きで俺を止めてくる。その締め付けからこみ上げて\nくる快感で、背筋まで震えが走る。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「うっ……くう……！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "動きを止めると、うねるように香織ちゃんの膣中が吸い付いてきて、モノを愛\n撫する。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「はぁ……やっと、大人しく……してくれましたね。ほんともう、エッチの時\nは悪い子ですよ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104221" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_05" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ごめん、でも……香織ちゃんとエッチすると、気持ち良くて、可愛くて……\nつい」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「んんっ！　も、もう、そんなこと言って、どうにかしようとするのも、悪い\n子ですよ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104222" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "涙目で顔を真っ赤にして、文句を言う香織ちゃん。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「んんんっ！？　どうして、先生は怒ってるのに、またおちんちん大きくして\nるんですか……！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104223" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_06" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「エッチの時、香織ちゃんが怒ってるの可愛い」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「どうしてそうなるんですかっ……！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104224" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本当に分かって無い様子で、困ったような声を上げる。俺はそんな香織ちゃん\nの足を押さえなおして、ぐっと股間を押しつける。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ん、あぁあっ……また、奥まで……届いて……はぁ、あぁああっっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104225" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃん……っ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「は、ぁっ……ん、んんぅっ……も、もうっ……夢中に、なって……しょうが\nないんです、からっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104226" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_05" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "香織ちゃんは仕方なさそうにしながら、身を任せてくれる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "勃起したモノは、小柄な香織ちゃんには収まりきらず、みっちりとした膣中で\n震えていた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「んっ！　ん、んぅっ……あ、あ、くぅ、ふぁ、あ、ああっ……は、ぁあ……\nんんんぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104227" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "大きく腰を引いて、亀頭だけを残して引き抜く。その刺激に震えてる香織ちゃ\nんの奥に、また一気に突っ込んだ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ああっ！？　あっ、あぁああああっっっ！！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104228" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_06" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "深すぎる挿入に、香織ちゃんが今日一番、大きい声を張り上げる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺は構わず、腰の動きを早めていく。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「なんっ……は、ぁ、んぅ……！　く、ぅ……あああっ……！や、ぁっ……！\n　あ、ああっ……ん、んうっっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104229" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃん、香織ちゃんっ……！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「んっ！　あ、あぁっ……！　すごっ……は、ぁっ……！せんせい、おかしく\n、なっちゃいますよっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104230" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺は香織ちゃんの名前を呼びながら、夢中で腰をぶつけていく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "掻き出された愛液がはじけて、香織ちゃんの体に飛び散っていく。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あぁ、んっ……あ、あぁっっーー……！はげ、しっ……ん、んぅ……は、ぁ\nあ、んんっ……！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104231" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「は、ふぁっ……！　そんな、強くされたらっ……、あ、あっ……！　は、ぁ\nっ、ん、んぅっ……！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104232" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "香織ちゃんの膣中を出入りさせる度に、体がこわばって震えだした。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "色白の肌も、恥ずかしさと興奮で赤くなっていて、愛液と汗の匂いがここまで\n感じられる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「は、うっ……あ、ああっ……！ん、んぅっ、は、ぁ……んんぅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104233" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃん、気持ち良すぎるよ……っ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ん、んっ……それは、良かった……です、先生もっ、気持ち、よくてっ……\nん、んぅっ……は、ぁっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104234" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_05" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あぁっ……あっ！先生、このままっ、いっちゃい、そうですよぉっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104235" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "香織ちゃんの体が小刻みに震え始める。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "それに合わせるように、膣中も一気に震えだし、俺のモノに直接快感になって\n襲いかかってくる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「俺も、で、出そうだよ……香織ちゃん……！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「い、いい、ですよ……出して、下さい……！せ、先生も、もう……んんっ…\n…！　耐えられそうに、無い、ですからっ……ん、んんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104236" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "香織ちゃんが切羽詰まった表情で訴えかけてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "自分だけイク訳にもいかず、俺は射精感を堪えながら香織ちゃんに腰を打ち付\nける。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「んぁ、うっ！　あ、んんっ！　だ、だめですっ……！せ、先生っ……も、も\nう……いくっ、あふぁぁっ！？いっちゃいますっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104237" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_06" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃん……っ！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "限界が来て、目の前が真っ白になった――", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「あぁ、あぁああああっっっ……！！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104238" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_07" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "背筋を駆け上る快感。俺はその刺激に体が跳ねて、射精寸前のモノが香織ちゃ\nんから勢いよく抜けてしまった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「はっ……はぁ、あ……！　ふぅ……は、ぁ……あぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104239" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "絶頂で体を震わせる香織ちゃんめがけて、精液がぶちまけられる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "呆けた様子で、ただ、体に精液がかかるのを香織ちゃんは眺めていた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「は、あ……ああ……これ……精液、ですよね……、抜けちゃって……は、ぁ\n……凄い、飛ぶんですね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104240" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あ、ああ……うん……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ふぁっ、はぁ……すごい、おちんちんの先から、こんな……よだれを、垂ら\nしてるみたいに……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104241" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "バネが入ってるみたいに震えるモノからは精液がこぼれて、香織ちゃんの体に\n吐き出していく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ん、はぁ……あ、これ……顔にも……飛んできちゃってますね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104242" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "射精直後で、抜けていく快感と疲労感が身体中に広がっていて動けない。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「んふぅ……、んむ……ん、ちゅっ……れろ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104243" ]},
+		{"command":[ "SETIMAGE", "0", "still_00030101_02_08" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「か、香織ちゃん……？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "顔に飛んでいた精液を指で拭うと、そのまま舐め取る。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「ふふ、舐めちゃいました……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104244" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "はにかむ香織ちゃんの笑顔に、モノがまたビクンと震える。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そ、そんなの、舐めちゃダメだろ……！？ほら、直ぐに吐き出していいから\n！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「な、なんですかぁ、お菓子の拾い食いしたみたいに。あなたの体から、出た\nものでしょう……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104245" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「それに、今までも先生にしゃぶらせて、口の中で精液だして飲ませたりして\nたくせに、今更何を言ってるんですか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104246" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「それは、そうだけど」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「それに先生、その。別に、あなたの精液なら、そんなに、嫌いじゃないです\nから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104247" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "もじもじとそんなことを言う香織ちゃんに、今度こそモノが完全に復活する。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「香織ちゃん――」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "香織" ]},
+		{"command":[ "SETTEXT", "「わ、わぁ……なんでもうそんな大きくしてるんですか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_301_0104248" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺は誘うように足を広げる香織ちゃんを、そのまま押し倒してしまうのだった\n――", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

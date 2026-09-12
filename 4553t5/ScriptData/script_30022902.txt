@@ -1,0 +1,473 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0149" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00000229_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev002_29b_0000", "ev002_29b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000229_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「ん……来てくれたんだ。なんの用って……もう、分かってるんでしょ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000229_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「私のこの格好……目をそらしたの、見えてたんだから。それで、その後も\n　ちらちら見てはそらしてたでしょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「見たかったけど、皆の前だと照れて見られなかったんでしょう？　分かって\n　るから……あなた、こういうの好きだったんだね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000229_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ここなら二人きりだから……ずっと見てても大丈夫。いつも見せないところ\n　とか、際どいところとか……ほら」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000229_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ね、好きなようにじっくり見て？　んっ、すごい視線……見られてるだけで\n　身体が熱くなっちゃう」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000229_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「でも……見てるだけでいいの？　私、あなたになら触られてもいいんだよ？\n　触るだけじゃなくて、もっと凄いことも……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_01" ]},
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「きゃっ！！　んっ、急に、あっ、んっ……凄い……オチンチン、がちがちに\n　なってる……んんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「んっ、視線も……私の全部、見られてる……そんなに見たかったんだ。いい\n　よ。いっぱい見て……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_02" ]},
+		{"command":[ "SETTEXT", "「あんっ……視線だけで感じちゃいそう……身体の中、きゅんきゅんってして\n　る……あなたに見られてるから……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_01" ]},
+		{"command":[ "SETTEXT", "「ほら、確かめてみて……そのオチンチンで、私の身体が……うさぎさんの\n　身体がどうなってるのか、確かめてみて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_06" ]},
+		{"command":[ "SETTEXT", "「んんっ、ああああっ！！　入って、きた！！　はあっ、あっ、凄い、お腹の\n　中、いっぱいに……あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev002_29b_0000", "ev002_29b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「んんっ、中、ごりごりって、あなたのオチンチンがこすって、あんっ、あっ、\n　気持ちいいっ！！　んんんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「もっと、もっとして！！　あなたのオチンチン、もっと感じさせてっ！！\n　んっんっんっ、あっ、凄いっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「奥のところ、ごつごつって、ほら、私のオマンコが悦んでるの、分かるで\n　しょっ、んんっ、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あなたのオチンチンを大好きって抱きしめて、んっ、ちゅっちゅってキス\n　してる、んくうっ、はっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「んんっ、ふうっ、あっ、んっ、中で、またおっきくなってる！！　ふああ\n　あっ、あなたの気持ちいいのが、伝わってくるっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あっあっあっ、あんっ、んっ！！　んくうっ！！　ふうううっ、私の中が、\n　ぐちゅぐちゅってかき混ぜられて、ひあああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「気持ちいい！！　気持ちいいのっ！！　あなたのオチンチンでごりごりって\n　されて、気持ちいいっ！！　ふううっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「身体の中、熱くなって、どろどろになって、んんっ、あんっ、ああっ！！\n　あなたのオチンチンで溶かされてるっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「ふううううっ、ああっ、ダメ、ダメダメっ、こんな、こんな気持ちいいの、\n　おかしくなっちゃう！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「ふあああっ！！　んんっ、急に激しく、あっ、うっ、あんっ！！　もっと\n　気持ちよくなれって、んんっ、あうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「これ以上気持ちよくなったら、頭の中まで溶けちゃう！！　あなたのオチン\n　チンのことしか、考えられなくなっちゃう！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「ひあっ、ああああっ！！　それでいいからって、んっ、あっ、あうっ、んう\n　っ！！　奥、ずこずこするの、ダメっ、ふううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あんっ、んっ、今、私凄い顔になってる……あなたのオチンチンで、顔まで\n　ぐじゅぐじゅになってる、んううううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「ふうううっ、んっ、その顔が興奮するって、んうっ、はっ、あっ、意地悪！！\n　あんっ、そんな意地悪言われたら、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「オマンコがきゅんきゅんしちゃう！！　あなたのオチンチン、大好きって\n　抱きしめちゃうっ！！　ふああああああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あんっ、んっ、あなたも、気持ちいいのね……んうっ、顔と、オチンチンで\n　わかる……あんっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「私の中で、オチンチンが硬く熱くなって、ごりごりしてきて……んんっ、\n　それに、そんな情熱的に見られたら……んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「いつもと違うから余計興奮したって、嬉しいっ、ふうううっ！！　あなたの\n　ためだから、この格好は、あなたのためだから、あうっ、うっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あっ、またオチンチンが大きく……んっ、今のでもっと興奮したって、ふふ\n　っ、嬉しい。私の気持ち、伝わって……ひあっ、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あああああっ、んっ、あっ、また、ずちゅずちゅって、中が……んんんっ、\n　私の中、あなたの形に変わって……ふうううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「んんんっ、うっ、はっ、あっ、あんっ、んっ！！　もう、私の全部、あなた\n　のオチンチンで蕩かされて……んんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「んうっ、あっ、んっ、もう、もうダメ……ダメ、オチンチンで、あなたのオ\n　チンチンで、イっちゃう、あくうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「ひうっ、あっ、あっ、そんな、今、そんなに激しくされたら、あっ、んっ、\n　イく、本当に、イくっ、イっちゃう！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「ああああっ、あなたのオチンチンもぱんぱんになってる、んっ、イくのね、\n　私といっしょに、イっちゃうのね！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「ああああっ、あっ、イく、イく、イっく、ふああああああああああああああ\n　ああああああああああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_09" ]},
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「んくううううっ！！　お腹の中、熱々の精液が来てるううううううう！！\n　ふうううっ、あああっ、あっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「私の中、どろどろにされて、どくどく注がれて……んんんっ、お腹いっぱい\n　になってる……ひうううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_08" ]},
+		{"command":[ "SETTEXT", "「んんっ、まだ、出てる……んっ、んうっ、いいよ、あなたの気持ちいいの、\n　全部出して……受け止めてあげるから、あんっ、あああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_09" ]},
+		{"command":[ "SETTEXT", "「ふうっ、ふっ、お腹の中、全部あなたに染め上げられてる……蕩かされて、\n　かき混ぜられて、注がれて……んっ、ふっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_08" ]},
+		{"command":[ "SETTEXT", "「ふうっ、んっ……まだ出てるし……オチンチンも硬いまま……もう一回、\n　したいの？　いいよ。何回でも……あんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_07" ]},
+		{"command":[ "SETTEXT", "「んっ、ふっ……私の中を、またガチガチのオチンチンでいっぱい、ごつごつ\n　って奥を……ね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "PLAYANIM", "0", "ev002_29b_0000", "ev002_29b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あっ、やっ、あんっ、あっ、あっあっあっ、ふううううっ！！　二回目なの\n　に、凄い、んうううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あんっ、あっ、はっ、あっ、あなたの顔……私をそんなに見つめて……んっ、\n　男の人って感じ……ふうううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「私、今あなたに抱かれてるって、男の人に抱かれてるって、そう思っちゃう、\n　んっ、ああっ、はあっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「さっき出された精液で、中がぬるぬるって、ふうううっ、あなたのオチンチ\n　ンが、もっと奥まで来て、ひうっ、あっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「私のと混ざって、ああああっ、んっ、凄い、腰、ぶつかって、ふあああっ、\n　あっ、あんっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「んううううっ、オチンチンが、私の中にあるの、凄くよく分かって……んっ、\n　きゅうううってオマンコが……んくうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あんっ、あっ、あああああっ！！　凄い、さっきイったばかりだから、中、\n　熱くて、あなたのオチンチンも熱くて……ふうっ、あっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「お腹の中、火傷しそう……オチンチンで火傷しそうっ！！　あああああっ、\n　んっ、ふっ、あんっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「ふううううっ、頭の中まで、かき混ぜられてるみたい……んっ、あなたの\n　視線と、オチンチンで、私の全部、ふあああっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「全部、かき混ぜられて、もう、あなたのことしか考えられなくなっちゃう\n　……ふううっ、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「私の中、全部あなたに満たされて……んんっ、ふっ、ああああっ、気持ちい\n　いっ、幸せ……あうっ、ふっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あなたの顔も、身体も、オチンチンも、全部、全部好き……好きっ！！\n　だからもっと、激しく、ああああっ、んっ、ふうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んっ、あっ、はっ、中で、また大きくなってるの、わかる……私の身体で、\n　気持ちよくなってくれてるの、わかる、あんっ、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「もっと、もっと激しくして！！　私の中に、消えないぐらいあなたのしるし、\n　いっぱいつけて……ああっ、んっ、んうっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「私も、オマンコであなたのおちんちんにいっぱいキスするから、こうして、\n　きゅって、あっ、ああっ、んっ、ごりごりって、きた、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「ああっ、オチンチン、ぶるぶるしてる、私の中で、出したいって震えて、\n　ふううっ、いいよ、また、いっぱい出してっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あなたの精液、いっぱい出して！！　私の中、満たしてっ！！　んっ、あっ、\n　はああああっ！！　私も、私もまたイくから、んっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あっあっあっ、イく、イく、またイくっ！！　あなたのオチンチンで、また\n　イっく、んんんんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_12" ]},
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「イくうううううううううっ！！　ふああああああっ！！　精液、出されてる\n　うううううううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「二回目なのに、濃いのが全部私の中に、ああっ、あんっ、んっ、ふうううう\n　ううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_11" ]},
+		{"command":[ "SETTEXT", "「んふうっ、あっ、うっ、んんっ、奥に、私の奥にどくどくって、注がれてい\n　るのがわかる……んうっ、あっ、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_12" ]},
+		{"command":[ "SETTEXT", "「ふふ……凄い、出されてるだけで気持ちいい……あなたの精液でお腹の中が\n　悦んでる……んっ、うっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_11" ]},
+		{"command":[ "SETTEXT", "「ふううううっ、オマンコが最後の一滴まで欲しがってるの、わかるでしょ？\n　きゅっきゅって締めつけて、んんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あんっ！！　ほら、あなたも応えてくれるから……んっ、甘えて、オマンコ\n　で抱きついちゃってる……ふっ、あっ、んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_10" ]},
+		{"command":[ "SETTEXT", "「うふふ、たっぷり愛してもらって……嬉しい。お腹の中があなたの愛で満杯\n　になってるのがわかる……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「これ……絶対赤ちゃんできちゃうよね。私とあなたの赤ちゃん……ふふ、\n　きっと可愛い子供になるわ。でも……一人じゃ可哀想よね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「ねえ、知ってる？　うさぎって多産の象徴でお守りになってたりするんだっ\n　て。私もあなたの子供、一杯産みたい」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「だからね、これからもいっぱいっぱい愛して、いっぱい子供を作ろうね。\n　きっと、幸せで楽しい家族になれるから。愛してる、あなた」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_15" ]},
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「んううっ、なんで、オチンチン抜いて……ひあああああっ、身体に、いっぱ\n　い……んんっ、熱いっ、あんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あうっ、んっ、私の身体、あなたので染められてる……中も外も、あなたの\n　精液で、あっ、んっ、ふうううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_14" ]},
+		{"command":[ "SETTEXT", "「ふうっ、ふっ……んんんっ、肌にべっとり貼りついて……あなたが気持ちよ\n　かったのが、精液に現れてる……あんっ、まだ出るの……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「私の身体もあなたにマーキングされてる……ふふっ、誰が見ても、私があな\n　たのものだってわかるぐらい……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000229_02_13" ]},
+		{"command":[ "SETTEXT", "「嬉しい……それぐらい、私に独占欲を抱いてくれたんだもの……心配しない\n　で、私はずっとあなたのもの」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あなたがしたかったら、いつでもこういうことしていいし、どこでもしてい\n　いよ。それぐらい、あなたのこと好きだから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「中でも、外でも私の身体に出していいし、口でも顔でも、好きな所に出して\n　くれていいの」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「あなたにされるなら、なんでも受け入れるわ。なんだってしてあげる。だけ\n　ど、だけどね、一つだけ、お願いがあるの」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「有名な話だけど、うさぎは寂しいと死んじゃうって。私も寂しいと哀しく\n　なっちゃう。あなたがいないと、泣いちゃうかも」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "カグヤ" ]},
+		{"command":[ "SETTEXT", "「だから私を泣かせないように、これからももっとずっと私の側にいて。私が\n　寂しがらないように……お願い、大好きなあなた」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_002_2904410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

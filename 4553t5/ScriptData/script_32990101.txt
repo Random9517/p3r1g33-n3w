@@ -1,0 +1,1195 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_01" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM3" ]},
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SELECT", "全て再生","LABEL1","Ｈシーンへジャンプ","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0017" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM3" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「――七夕なー」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "これはまだ７月に入る前の事だ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「どうしたの今更」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103101" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "見回りの途中、校内にいつの間にか設置されてる笹を見て思わずつぶやいてし\nまった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あの生徒会長、また面倒なイベント増やしてくれたなって思ってさ」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "あちこちに立てられている笹は、一本ごとに部活や委員会に割り当てられてい\nる専用のものだ。後で一番綺麗に飾られている笹は表彰とかされるらしい。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「対抗戦みたいになると何も起きないで平和に終わるわけもなし……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「まあまあ、今から心配してもしょーがないっしょ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103102" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「終わった後も、ゴミの片付けとかあるあるだろうし。みんなちゃんとやって\nくれるのかね」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「ふふ、さっすが風紀委員長、きびしー♪でも、もうちょっと風流に考えた方\nがいいんじゃない」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103103" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「まーそうなんだろうけど。はぁ……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「諦めなって。というか、今更じゃないの？これで今年の七夕は禁止ですとか\n言ったらそれはそれで生徒会も巻き込んだ大戦争だし」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103104" ]},
+		{"command":[ "SETCHARA", "1", "char_00029901_01", "10", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "1", "TRUE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「くそう、逃げ場がねえ……！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「それこそ今更だよねー。お、あったあった♪ちょっと寄ってって良い？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103105" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "6", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPCHARA", "1", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そう言ってせつなが指さした先にも、なかなかに立派な笹が立ててあった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あれ、たしかウチら風紀委員の分だよな」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あたしまだ短冊結んでなくてさー。ちゃちゃっと結んじゃうから、ね。ね？\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103106" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "0", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ダメなんて言わないって」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "見回りの途中だけど特に騒ぎも起きてないし。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「やたー。んじゃちょっと手伝ってね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103107" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "8", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_01" ]},
+		{"command":[ "SETTEXT", "というわけで丁度近くに出しっぱなしになってた脚立を支える役目を任された\nのだった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んー、この辺でいいかなー」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103108" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ずいぶん高い所に結ぶんだな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "――俺の角度からからみえる物についてはあえて何も言わない。他に男がいた\nら直ぐに止めるけど。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「ま、そのへんは乙女の秘密ってヤツだし？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103109" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あんまり危ない結び方するなよ？この脚立なんかがたついてるし」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "外に出しっぱなしだったし、ちょっと安定が悪かった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「ま、ソコはカレシを信じてるって感じ、で――うわぁっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103110" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "わざとではなくて、少しがたついてせつなが慌てて――俺の方を見て、はっと\nする。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_02" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「……ところで、今まで見てた物はどうでしたか？たっぷり見てた筈の風紀委\n員長さん」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103111" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「なんか今日のは普段より小さめの俺が好きなヤツで、大変良い眺めでした。\nうわ、蹴ろうとするなって！？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "脚立の上から足を伸ばして俺に当てようとしてくる。その動きでさっきとは違\nう感じで見える。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「い、今更じゃない！？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「見せても良い時に見せるのと、なんか見られてるのは違うからね！？　もー\n、見るなって言っても遅いかー」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103112" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "諦めて短冊を結びに戻るせつな。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「そうやって他の子が短冊結んでる時も下からのぞいてたりしたの？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103113" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_03" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「してない。そもそも脚立使うって言い出したのせつなだろ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「そうなんだけど風紀委員その辺無防備な子わりといるし～」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103114" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「俺はせつな意外には紳士だよ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「紳士、草はえるｗｗｗｗｗｗｗ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103115" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_05" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "今、口では言いづらいなんかニュアンスでアレな扱いを受けたのは分かる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「千秋ちゃんとか『おにーちゃん肩車して？』とか言いそうだし、会長も普通\nにしそうだし？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103116" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_01" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「せつな……肩車するか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「目がエロいからダメー。あとイタズラしそうだし、太ももの感触めっちゃ覚\nえようとしそう」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103117" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「――するだろうな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "とはいえ最近のアニメ見たりゲームする時のお気に入りの姿勢は、ベッドの下\nに俺、上にせつなが座って肩車みたいな体勢だし今更ではないのか。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "けれどせつなは部屋で二人だと割と甘えてくるし、外と態度が違うし――", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「…………かーいちょー？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103118" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_05" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "あ、なんか笑顔が怖い。俺を見てる目の奥が虫を見るような空気になってる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「せつなは短冊に何書いたんだ？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「露骨な話題そらしだけどまあいいか。そんなん決まってるの、わかんないか\nなー」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103119" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_01" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "声優とかアニソン歌手とかだっけ――と思ったのだけど。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「わたくし、江藤せつな。卒業したら動画投稿して広告収入で生活したいと―\n―」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103120" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「やめろお！　前に言ってた夢と違うじゃねえか、バーチャルとか付く方なら\nまだ分かるけどさあ！？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あはははは、まあウソだけどねー？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103121" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ドッキリさせやがって……本当は何書いたんだよ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「……秘密。言ったら叶わなくなるし？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103122" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_03" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「それはおみくじだろ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「まま。ちょっと恥ずかしい感じなんで、こうやって高い所に結んでる時点で\n、カレシには察して欲しいトコなんだけど？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103123" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「でも後で片付ける時に見られるかもしれないんじゃ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あ、それは大丈夫。短冊にあたしの名前書いてないし。完全犯罪ってやつ？\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103124" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_01" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「使い方違うの分かってるよな！？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "――俺もせつなも、本気でこんな話をしてる訳じゃない。付き合ううちに、こ\nんな軽口を叩けるようになっていた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「けどそうだなあ、見られて恥ずかしいって。俺のお嫁さんとか？　ははは、\nまさかなあ――」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「――ていやああっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103125" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_04" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0017" ]},
+		{"command":[ "PLAYSE", "WAR_SE11" ]},
+		{"command":[ "SETTEXT", "突然せつなが脚立の上から俺の上にとびかかって押し倒してきた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「おうわあああ！？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "空中技というより、抱きついて押し倒してきた感じなんでなんとか受け止めた\nものの馬乗りされて襟首を捕まれる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「え、うそ。マジで？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「知られたからには生かしてはおけない……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103126" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "4", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "あ、涙目で顔真っ赤でこれマジのやつっぽい！？", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「い、いやだ、死にたくない……！　死ぬならせつなになんか良い感じにくっ\nついて幸せなまま死にたい！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「いいよー？　大好きなふとももで挟んだままイカせてあげよっかー？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103127" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "だめだ目が据わってる……！", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ち、ちが、コレには訳があって！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "お腹の上に乗ってるせつな、軽いし柔らかいし、さっき見た下着で今くっつい\nてるんだよなあ――じゃなくて！", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「ん、お？　これ会長の短冊じゃーん。アタシばっか知られてるのは恥ずかし\nいから見てもいいよねー？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103128" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "8", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "結び損ねて持ったままだった短冊が、のしかかられた時に俺のポケットからす\nこしはみ出ていた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "それをせつながシュッと掴んで取り出してしまう。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あ、あっ……あっ……！？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「『好きな人と、いつまでも幸せに過ごせますように』……え、おおう。……\nこれマジ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103129" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "9", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「まじです……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「しかも短冊に名前書いて無いし。ここでおさえなかったら完全犯罪モノとか\n……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103130" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "2", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ですね……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "恥ずかしさのあまり顔を覆う俺と、扱いに困るせつな。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そう、俺は自分で書いた事をせつなも書いてるんじゃなかろうかと思って、口\n走ってしまった結果がコレだ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そしてせつなが無言のまま俺から下りて立ち上がる。", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「……近いとこ、並べて結んどこっか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103131" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「おねがいします……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "それから無言で改めて脚立を立てて、俺達はもう１枚短冊を笹に結んだのだっ\nた……。", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETIMAGE", "1", "cbg_0020" ] },
+		{"command":[ "DISPIMAGE", "1", "true" ] },
+		{"command":[ "FADEINIMAGE", "1", "NORMAL" ] },
+		{"command":[ "WAITTIME", "2" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0010" ]},
+		{"command":[ "FADEOUTIMAGE", "1", "NORMAL" ] },
+		{"command":[ "WAITTIME", "2" ]},
+		{"command":[ "WAITMOVE" ]},
+		
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM6" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0006" ]},
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「――明日は久々の休みだ！！」", "NORMAL" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「マジおつかれー♪　……いや、ほんとマジで」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103201" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "8", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「……色々、あったからね」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "七夕前のアクマ騒動、魔王の襲来、ラブラブ短冊に嫉妬するＭＭ団、いつも通\nりの部活同士の襲撃、そしてまた襲撃。どうして結婚出来ないのと闇に落ちか\nける香織ちゃん。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "色々あって休みらしい休みも無く、最近は土日も学校に詰めてた気がする。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「こうやって会長のトコくるのいつぶりだっけ……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103202" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そもそも、せつなと二人っきりになるのが、七夕の短冊結んだ時……以来？\n」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「――その間、カレシはアクマ騒動という名目で他の子とイチャイチャしてた\nと」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103203" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "5", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そんな事考える余裕無かったんだよなあ……せつなが足りない……たっぷり\n補給しないと……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "もそもそとせつなの所に近づき膝枕して癒やされる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「アタシって太ももから吸収出来るの……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103204" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「割と。ああ……久々……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなの柔らかい太ももで膝枕して、癒やされていくのが分かる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「１週間くらいで大げさだなー。織姫と彦星なんて１年に１回しか会ってない\nっていうのに」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103205" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「……１年もせつなに会えなかったら死ぬな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "今、膝枕されながら本気でそう思う。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あはは、大げさー。つか、１年も会えなかったらむしろ浮気とかしちゃって\nるんじゃないのー？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103206" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "6", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「しない、だろうなあ。……うん、今ちょっと想像したけどしない――せつな\n？」", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "顔をあげると、せつなの頬が真っ赤になってた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あんだけ可愛い幼なじみとか委員会の仲間がいて、そういう事言っちゃうん\nだもんなあ、ずるいと思わない？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103207" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そう言われても彼女はせつなだけだし」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「むう。しょうがない、割と本気っぽいし、今日はお疲れのカレシにサービス\nしたげよう」", "NORMAL" ]},
+		{"command":[ "SETCHARA", "1", "char_00029901_01", "10", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "1", "TRUE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103208" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そう言ってせつなは俺の頭を撫でて、ふふんと笑った。", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "1", "FALSE" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_06" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM7" ]},
+		{"command":[ "SETTEXT", "俺をベッドに押し倒すと、せつなはたっぷりと見せつけながら下着を脱いで、\nわざとらしくみえる所に放り投げる。", "NORMAL" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "普段、いざエッチをする時には割と俺任せで、せつながここまでしてくれた事\nはほとんど無い。――頼み込んだらやってくれるけど。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「……せつな、さん？　なんか今日、サービス良くない？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "けれど、無理にとりつくろってる訳ではなくせつなは余裕のまま俺を上から見\n下ろしてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "見た目、というか普段の服のセンスとかつるんでる友達とか考えるとイメージ\n通りなんだけど、エッチに関しては、俺任せが多かった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「こういうエッチとか得意なギャルっぽい感じのもいいかなーって思って」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103209" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「無理してる訳じゃない、のは分かるけど。あとこういうのも嬉しいけど、ど\nうしたの？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んー。ろくに会えなくて寂しかったなーっていうのはアタシも一緒っていう\nのと――」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103210" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「その間、他の女子と一緒にいるトコ見てたから、八つ当たり的な？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103211" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「八つ当たり？　え、浮気とかしないぞ！？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「そこは分かってるって。嫉妬というより独占欲というかコレはアタシのだぞ\nーって、マーキングしたい感じというか――」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103212" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "なんだろう。せつなの目が、怒ってる訳じゃないけど、怪しい光を見せる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「――なんか、久々にあってエッチするぞってなったら、スイッチはいっちゃ\nった感じ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103213" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「……どんなスイッチか聞いていいよね？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「寂しかったって泣いてる会長みたら、可愛がって、滅茶苦茶にして、鳴かせ\nたい――的なヤツ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103214" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あ、分かる。それ俺がせつなに良く思うやつだ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「それそれ♪　いやあ、いままでされる側だったけど、こういう気持ちかーっ\nて♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103215" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "分かる。せつなへの気持ちが溢れた時、傷つけたいとかは全く思わないんだけ\nど、セックスが止まらない感じというか。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "――うん？", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「というわけで、今日はたーっぷり可愛がったげるから♪やったね、めちゃカ\nワの白ギャルに搾り取られるとか、ちょっとマジ幸せすぎない？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103216" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「……つまり、今までの仕返しでもあるんだよな？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなは無言でウィンクをすると、俺のモノに手を添えながらゆっくりと腰を\n沈めてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_07" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「く、ぅっ……あ、ああ、きもち、いい……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あは♪　今までごめんねー、見た目ばっかギャルで、中身めっちゃウブでさ\nー。んんぅっ……めっちゃ、勃起してる……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103217" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ずぶずぶと柔らかい肉を押し分け、俺のモノが飲み込まれていく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「でも、色々、仕込まれたし？　あは、ノリで始めてみたけど、なんかめっち\nゃ楽しくなってきた……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103218" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなは俺のモノを根本まで銜え込み完全に密着させる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そしてそのままの姿勢で、俺に見せつけるように腰を上下に揺すってくる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「すっご……もうパンパンに、なってる……♪大きくしすぎ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103219" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "飲み込まれてる所が俺の方からは丸見えだった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ヤバい。せつなにエッチなオモチャにされるの、滅茶苦茶興奮する……！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「でしょー？　あは、凄い期待した目でこっち見て来るの可愛いー♪　あ、勝\n手に動いちゃダメだからねー」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103220" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "手を伸ばして俺の頭や顔を撫でながら、普段遊んでいる時のような顔で笑う。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そして体を支えるように手をつくと、そのままゆっくりと腰を動かし始めた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「ふぁ、あああ……んん、くっ……ふ、ぁ……あはぁ♪挿れる時より、抜く時\nのが……気持ちいーんだよねえ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103221" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_08" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺に見せつけるように腰の部分をくねくねと動かす。せつながそんな事をして\nくれる、というのがますます興奮する。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あ、ああ……っ」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「ふ、ぅ……あぁ……んん……。この辺、とか……ち○ちんの、先のトコ？　\n膨らんでる、フチのトコ、好きだよねー……んぅっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103222" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなが体を傾けて、モノのカリ首をこすり上げてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「はぁあああ♪　ここ、ひっかく時……きもちいいんだよねえー、あたしも…\n…これ、結構好きー♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103223" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_09" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "快感に熱い吐息をこぼしながらも、せつなはまた俺のモノを飲み込んで、前後\nにぐりぐりと腰を揺する。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あっ……待っ……ああっ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「やーだ。アタシが待ってって言っても、まってくれた事、無いのに、なんで\n待ってあげないとなんないの？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103224" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_08" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなは少し怒った顔をして、俺の体に爪を立ててくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「これ……奥、当たるの、気持ちいい……。今日は、あたしが……んぅっ♪　\n好きに、楽しませて、もらうんだし？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103225" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "みっちりと俺のモノをくわえ込んだまま、せつなが腰を上下に動かし、くねら\nせる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "その快感に負けて、俺も腰が勝手に震えてしまう。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んっ……ダメ、って……言ったのに、動いちゃって……しょうがない、なあ\n、もう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103226" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "お互いに敏感な部分が擦れ合い、快感が高まっていく。せつなの割れ目からは\n愛液がにじみ出し、カリ首でひっかくようにかきだしていく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んんんっ♪　おなかの、なかで……さきっぽ、めっちゃ膨らんでる……はな\nしてたら、想像……しちゃった？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103227" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そ、そうかも……しれない……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "勃起の具合なんて、自分じゃまともにコントロール出来ない。ただ、せつなが\n上で自分から腰をくねらせてるのは、新鮮な興奮があった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「は、ぁ……ん、やっと、慣れて……来た……かな。そんじゃ、ちょっと強め\nに……動こっか♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103228" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そう言いいながら俺の胸元をくすぐるように指で撫で、腰を動かし始める。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んっ……！　んんっ……ふう、ん……くぅ……んんんっ……ふぅ、はぁ……\nん、んぅっ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103229" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_09" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなの膣中の締め付け方がまた変わって、ぬるりと絡みついてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "腰を落とされる度に、膣中が収縮してすぼんだ膣口が吸い付くようにまとわり\nついてくる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「女の子に、好きなようにされても、おちんちん、がっちがちにしちゃうんだ\n……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103230" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_08" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなの腰の動きがどんどん大きくなっていく。少し荒れる時には強めに膣中\nの肉壁でこすり上げられて、快感が大きく響く。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「せつな、ちょっと、強い……っ」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んんー？　そんなん、いつもアタシに……んっ……やってる、事だよね？　\n何が、ダメなのか……わっかんない、なぁ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103231" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "珍しく、ほんとうに珍しく、嗜虐的とでもいうのか。そんな笑みを浮かべたせ\nつなが快感に息を弾ませる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺のモノはこの状況にビクビクと震えて、腰が勝手に突き上げてしまう。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んぅっ……ナカで、震えてる……ふぁ、あああ……ん、あはっ……いいよー\n、そんくらい、なら……アタシも、気持ち、いいし……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103232" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "言いながら、せつなが俺の上に手をついてぐっと力を込めると、またモノがぎ\nゅっと締め付けられた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あ、あああっ！？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「こーやって……きゅって、するの……好き、だよねえ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103233" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "からかうように締め付けたり、腰を強くおしつけてくる。一気に性器同士の密\n着感がまして、根本から快感が駆け上がってくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あ、やっば……遊んでたら……アタシも……気持ち良いの、ガマン……でき\nなく、なってきてるっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103234" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなの余裕のあった動きが乱れて、俺の上での動きが不規則なものに変わっ\nていく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んぅっ……♪　は、ぁあっ……や、ふぁ……あ、ああっ……♪　ん、んぅっ\n……は、ぁ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103235" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_09" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "時折背を震わせながら、せつなの方から腰の動きを速めていく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "割れ目に巻き込まれるように泡立つ愛液が、ぬちゃぬちゃといやらしい音を立\nてる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「は、ぁ……ん、んぅっ……♪動いて……もっと、奥……突いて……気持ちよ\nく、してくれる？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103236" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_08" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あ、ああ……！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなのおねだりにドキドキしながら、腰を下から突き上げる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あんっぅっ！　あ、あぁあ……んく、ふぁ、ああ……ああっきもち、いっ…\n…♪　ふぁ、あああっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103237" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_09" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなは俺の動きにあわせて、自分は上下せずに腰をくねらせて密着させてく\nる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "互いに、震えて不規則になる動きのせいで予想外のタイミングで快感が駆け上\nがってきてしまう。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あ、あぁあっ……んく、ふぅ……あ、あっ……腰、勝手に……ふるえ、ちゃ\nうっ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103238" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺の上で跳ねるせつなの足が、快感にあわせてか時々ヒクヒクと震える。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そのたびに締め付けられる膣中で、俺のモノも反発するように膨れ上がってい\nた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「せつな、これ……無理、出そうっ……！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「えぇー？　んぅっ……アタシ、もうちょっと……だから、もうちょい、頑張\nれ、ない……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103239" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_08" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなはイタズラっこみたいな顔で楽しそうに笑いながら腰の動きを止めずに\nこっちを見下ろしてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "きつく締まる膣中で、回すようにこすりつけられる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「本当に、そろそろ……っ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "普段は、きちんとせつなをイカせようと耐えているけれど弄ばれるようなエッ\nチで自分のペースがつかめず、いつまで耐えられるか分からなかった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「ん、んぅっ……しょうが、ない……なぁ……じゃ、このまま……ナカ、いっ\nぱい出して♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103240" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「ほら、せーえき、んぅっ……はぁっ……いつもみたいに、溢れるくらい、出\nせるでしょー♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103241" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "わざと俺を興奮させるような物言いをしながら、腰を密着させてぐりぐりとひ\nねってくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなもなんだかんだでイキそうになっていて、締まる膣中が小刻みに震えて\nいた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あ、ああ、出す……だす、から……！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んっ……だして、たくさん……アタシも、んっ……イキ、そ……だから……\n♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103242" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "せつなをイカせるまでは、とガマンして俺からも一番奥を突き上げる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "射精をガマンしてる苦しさと、駆け上がってくる快感に、頭がクラクラしてく\nる……！", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あ、ああ……も、いく……あ、あっ……いっちゃう……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103243" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_09" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「せ、せつな……っ！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んくっ、あ――あぁぁあああああーーーーっ……！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103244" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETTEXT", "せつながビクンと身を震わせて全身をこわばらせた瞬間、手で握り混むような\n強さで締め付けられた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_10" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "それに耐えられず、俺もガマンしていたモノを膣中にそのまま吐き出した。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「ふぁぁああ……あ、あああ……ん、んくっ……！は、ぁあ……あぁあ……！\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103245" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「あぁ……あはぁ！　……おなかの、なかでめっちゃ……どくどく、出て……\n震えてるぅ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103246" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "こっちの視線を意識しながら、丁度その『出てる』だろう辺りを指でなでたり\nするせつな。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺のモノは何度も震え、今もせつなのナカに精液を吐き出し続けてていた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んぅっ……はー……出し過ぎ……ほら、もう……溢れてる……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103247" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029901_01_11" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "繋がってるところにせつなが指を伸ばすと、白い濁った液体を救い上げて指で\nにちゃにちゃちのばして見せる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "それが妙に気恥ずかしくて、俺は目をそらしてしまうと、せつながますます楽\nしそうな顔で笑う。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「――エッチ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103248" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "今日はせつなの方がエッチだと思ったけれど、それで二度とこういうのしてく\nれないのもイヤなので、なんとか飲み込んだ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0006" ]},
+		{"command":[ "SETTEXT", "――その後、たっぷりエッチして、シャワーもあびてごろごろしながら休んで\nた頃。", "NORMAL" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「――いやー、カレシが忙しくて寂しいってトモダチに愚痴ったりしたんだけ\nどさー」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103249" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "6", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "今日のノリは何だったの？　と聞いた返事がコレだった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「そっから、普段のエッチの話になって。アタシがめっちゃ受け身なのがウケ\nるとか笑われて？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103250" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「……え。話したの？　普段の、エッチの、話？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「いや、流石に応援団のボンボンもたされたとか、コスプレの話とかは……あ\nー、えっとあんましてないケド？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103251" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "2", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "あ、これは少ししたな！？", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「んでまー、そういえばアタシから、食っちゃったりってあんましてないなー\nって思って？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103252" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「せつな基本的に受け身か誘ってくるばっかだもんな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "せつな" ]},
+		{"command":[ "SETTEXT", "「それ。だからやってみた。割と面白かったんで、これからはたまにこんなん\nも良いかと思う。むふー」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_299_0103253" ]},
+		{"command":[ "SETCHARA", "0", "char_00029901_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "満足げに俺にくっついて甘えてくるせつなだけど。", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "これは最近たまにやってる、コスプレめいたシチュエーションにのっとったエ\nッチなのか。それともこれはこれで素なのか、判断が難しかった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

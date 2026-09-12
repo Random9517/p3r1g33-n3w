@@ -1,0 +1,487 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0051" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00000330_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev003_30b_0000", "ev003_30b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000330_01", "4", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「あー……ちょっと、いいかい？　あたしの質問に、正直に答えてほしいんだ\n　けど」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000330_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「あんた……あたしの水着、どう思う？　今回の任務のために、新しくしたん\n　だけどさ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「その……最近の流行じゃないっていうか、センスが古いっていうか、とにか\n　く若いコの好みじゃない……みたいな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000330_01", "0", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「と、とにかく！　どうなんだい？　この水着、悪くないだろう？　老けて見\n　えるとかおばさん臭いとか……ないよね！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000330_01", "3", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「そんなことない……。なんだか、あたしが無理やり言わせたみたいじゃない\n　かい？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「証拠をみせるって……ちょっと、急に水着を脱ぎだすんじゃないよ！　もう、\n　チ〇ポが甘く勃起してるじゃないか……ふふ、あたしのせいだって？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000330_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「だ、だったら……あたしが責任をもって、そのチ〇ポをヌいてやらないとい\n　けないね……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_01" ]},
+		{"command":[ "SETTEXT", "「ん……っ。マ〇コの入り口に、チ〇ポをこすりつけて……。あんっ、もう腰\n　が動いているじゃないか……」", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_02" ]},
+		{"command":[ "SETTEXT", "「どんどん、硬くなって……んぁっ、熱いね……やけどしそうだよ……。んん\n　っ、あたしのマン汁で、冷やしてやらないと……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_01" ]},
+		{"command":[ "SETTEXT", "「ふふっ、そりゃね、こんなふうにバカ正直に勃起したチ〇ポをこすりつけら\n　れたら、オンナは反応しちまうもんさ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_02" ]},
+		{"command":[ "SETTEXT", "「どんどん、マ〇コから汁が……。んんっ、あ、溢れてきて……。はぁ、はぁ、\n　い、いいよ……こんなあたしを、抱きたくてたまらないんだろう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_06" ]},
+		{"command":[ "SETTEXT", "「ああぁあんっ！　き、きた……っ！　すごく……大きく膨らんでいるじゃな\n　いか……こんなに……ああ……ん……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev003_30b_0000", "ev003_30b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「マ〇コがいっぱいに……あんたのチ〇ポで、満たされているのを感じて……\n　んんっ、そんなにじっくり……動いて……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「ああ、あたしのマ〇コを味わっているんだね……んんっ、あたしも、あんた\n　の勃起チ〇ポ感じるよ……ぉ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「ガチガチで……反り返って……ああんっ、マ〇コのヒダを、カリがゆぅっく\n　り、ぞりぞりって……はぁ……んくぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「マ〇コが、反応する……っ！　んっ、ああ、チ〇ポ……ぎゅうっと、締めつ\n　けちまうよ……んぅっ、ふぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「な、なんだい……こんなに締めたら、すぐ、イきそうだって……？　別にあ\n　たしはかまわないよ、あんたが、気持ちよくイッてくれれば……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「あぁんっ！　急に、ピストンのペースがあがって……んっ、んぁっ、ああぁ\n　っ、ん、ああ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「そんなに激しくして、んぁ、あたしのことをイかせようとしてるのかい？　\n　くっ、んふっ、チ〇ポが……ああぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「マ〇コをいっぱい、奥まで、んぐっ、チ〇ポが届いて……んぁあっ、はぁ、\n　亀頭が、子宮……まで……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「い、いい、あたしも……感じるぅ……っ！　ああっ、マ〇コをずぶずぶ、突\n　かれまくって……んっ、あっ、ああ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「余裕が、なさそうだね。んっ、強がったって無駄だよ、そんな切なそうな声\n　を漏らしながら、腰振っちゃってさ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あたしの身体が魅力的だから、腰が止まらないって？　お世辞でもうれしい\n　よ、んんっ、お世辞なんかじゃないって？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あぁんっ！　ま、まあ、そうだね……んんっ、チ〇ポのほうは正直みたいだ\n　し……んぁっ、はぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「限界まで勃起して、んくっ、あたしのマ〇コをかき混ぜるみたいにピストン\n　してるんだし、ね……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あんたの言葉、今日のところはチ〇ポに免じて信じてやるから。んんっ、も、\n　もっと激しくしていいよ……あたしのマ〇コ、好きにさせてやるよ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「ああぁあんっ！　ま、まだ激しくできるのかい。んんっ、チ〇ポ、が……は\n　ぁんっ、マ〇コの中、えぐってくる……ぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「はぁっ、ああっ、いいよ。あたしも、悦んでる……っ！　ほら、わかるだろ\n　う？　あたしのマ〇コも、蠢いてるのがさ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あんたのチ〇ポに、んぐっ、肉ヒダからみつかせて……っ！　あぁんっ、ガ\n　ッチガチのチ〇ポ、味わっちまってるよ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あたしからも、んっ、腰を動かしちまうね。はぁ、はぁ。ほら、どうだい？\n　こうして……ね……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「ああぁっ、いいね……。ふたりで動くと、これまでとは違うところにチ〇ポ\n　が届いて……こすれて……ああぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「ますます興奮して、マン汁もいっぱい溢れてくるよ……んっ、んふぅ……ほ\n　ら、音だって……じゅぶじゅぶって、大きくなっていくよ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「んぁっ、ああ、ここに……このまま、中出しまでしていいから……。あんた\n　が興奮したって証拠、あたしのマ〇コに流し込んで……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「んぁっ、ああっ、亀頭までパンパンに、破裂しそうなくらいになってる……！\n　んぐうっ、子宮口持ちあげられる……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「い、イク、あたしもこのチ〇ポにイかされちまうよ……！　ああっ、ほら、\n　もっと奥まで……チ〇ポねじこんで……ぇ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_09" ]},
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あああぁぁぁああぁぁ～～～～っ！！　い、いい……イク、イクイクイク～\n　～～～っ！！　はぁっ、はぁっ、あああぁぁぁああぁぁっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_07" ]},
+		{"command":[ "SETTEXT", "「い、いっぱい、熱い精液がくるっ、んぐっ、マ〇コから溢れちまいそうなく\n　らい、ドロッドロの精液……ああ……こんなに……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_08" ]},
+		{"command":[ "SETTEXT", "「あ、ああ……まだ、マ〇コが締まって……あんたの精液、残らずしぼりとろ\n　うと動いてる……ん、くぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_09" ]},
+		{"command":[ "SETTEXT", "「こ、こんなに……。ふふ……すこし気分が晴れたよ。チ〇ポでイかせてもら\n　って、すっきりしたからね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_07" ]},
+		{"command":[ "SETTEXT", "「でも……まだまだあんたは足りてないみたいだね。マ〇コの中で、ガチガチ\n　のまま……んっ、チ〇ポがビクついてる……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_09" ]},
+		{"command":[ "SETTEXT", "「しかたないね。最後までちゃんと面倒見てやるよ。ふふっ、あたしにザーメ\n　ンぶちまけたくてしょうがないんだろう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev003_30b_0000", "ev003_30b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あぁんっ！　またさっそくきたね……っ！　んっ、んんっ、ピストン……あ\n　あっ、マ〇コを突いて……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「んぁっ、ああっ、たっぷり濡れたあたしのマ〇コで、またザーメン、搾りと\n　ってやるから……んふふっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「中出し精液と、愛液……んぁっ、ぐちゃぐちゃに混ぜるみたいに、腰動かし\n　て……ああっ、いいよ……んっ、亀頭までガチガチだね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「マ〇コを、亀頭……っ！　あぁんっ！　ごりっとこすりあげられる感じ……\n　たまんないよ……はぁ、はぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あんたの息遣い……腰遣い……。んんっ！　あたしに欲情しているのが、伝\n　わってきて、ぞくぞくするね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「あたしの身体に、夢中になっているんだね……。はぁ、はぁ、うれしいよ…\n　…あたしも、お返ししないとね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「ほら、あたしの子宮……マ〇コのも～っと深いところまで、あんたのチ〇ポ\n　を招待してあげるよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「んっ、くっ、わかるだろう……ああんっ♪　子宮口、んふっ、チ〇ポに吸い\n　ついてきて、はぁ、はぁ、精液求めてる……っ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「こうやって、もっと、腰を……んくっ、腰、ぐりぐりおしつけて……ああっ、\n　チ〇ポがビクビク暴れまわって、気持ちいいんだね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あたしも感じてるよ……あんたのバキバキの勃起チ〇ポを子宮口で味わって\n　……んんっ、ますますマン汁あふれてくる……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んぁあっ、そう、そうだよ、もっと突いてきな……っ♪　チ〇ポで、んぐっ、\n　子宮口ゴツゴツして、ああぁんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「き、気持ちいい……っ♪　もっともっと、あたしのマ〇コに夢中になって、\n　腰を、チ〇ポを……はぁっ、ああっ、もっとぉ……っ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「スケベな汁にまみれたあたしのマ〇コ、バコバコってめちゃくちゃに……っ！\n　いっ、いい……っ！　チ〇ポいい……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あたしもまたイキそうだよっ！　い、イクから……あんたのチ〇ポでまた、\n　イかされる……マ〇コ、イク……ッ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あたしもとまらないよ……腰が動くし、マ〇コも締まるし……っ！　はぁっ、\n　はぁっ、だからあんたも……射精……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「だ、だしな……あたしが受けとめてやるから、ザーメン、でるんだろう？　\n　あたしに欲情して、また……たくさん……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「遠慮なんていらないから。あたしのことを魅力的だって思っているのなら、\n　どこにだしたってかまわないから！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あああっ、チ〇ポがさらに膨らんで、大きくなって……！　ああっ、イク、\n　イクんだね、チ〇ポ……ああっ、ああ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あたしも……もう……っ！　はぁっ、はぁっ、思いっきりイかされる……イ\n　ク、イク、イク……イク……ッ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004220" ]},
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_12" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "SETTEXT", "「あああぁぁぁああぁぁあぁ～～～～っ！！　し、子宮に……！　子宮にザー\n　メンが、くるぅううぅぅうぅ～～～～っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_11" ]},
+		{"command":[ "SETTEXT", "「はぁっ、ああっ、びゅくびゅく注がれてっ、イクッ！　マ〇コ、ああっ、イ\n　ッくぅううぅぅっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「パンパンの亀頭っ、ぐりって子宮に押しつけられてる……んっ、ぐっ、子宮\n　がゴクゴク、あんたのザーメン飲んでる……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_12" ]},
+		{"command":[ "SETTEXT", "「ああ……すごい……。２度目だってのに、なんて量……。こんなに、射精し\n　てくれちゃって……はぁ、はぁ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_10" ]},
+		{"command":[ "SETTEXT", "「な、なんだい……まだ、でるって……？　たしかにまだ、射精しているね…\n　…んっ、チ〇ポが跳ねて、ザーメン吐きだしてるよ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_12" ]},
+		{"command":[ "SETTEXT", "「ん……ふぅ……。やっと射精がおわったかい……？　はぁ……。熱いザーメ\n　ンをたっぷりだしてくれちゃって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_11" ]},
+		{"command":[ "SETTEXT", "「ま、あたしが射精させたんだから、いいけどね。それだけあたしが魅力的だ\n　ったってことだろう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_10" ]},
+		{"command":[ "SETTEXT", "「だからさ……もっとしようじゃないか。あんたが大好きなあたしの身体で、\n　もっともっと精液……しぼりとってやるよ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_11" ]},
+		{"command":[ "SETTEXT", "「……って、ちょっと、なにチ〇ポを抜こうとしてるんだい！　あたしのこと\n　を魅力的だって言ったのは嘘だったのかい？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_12" ]},
+		{"command":[ "SETTEXT", "「嘘つきには……お仕置きだよ！　ふんっ、干からびるまでザーメンだしても\n　らうから、覚悟しな！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_14" ]},
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「んんぅっ！？　ちょ、なにチ〇ポを引き抜いて……ああっ、身体に、精液が\n　……ぁ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_15" ]},
+		{"command":[ "SETTEXT", "「はぁっ、はぁっ、チ〇ポがびゅるびゅるってザーメンまき散らしてる……っ！\n　んっ、くぅ……身体を、ドロドロにされる……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あっ、ああ……イク……ッ！　ザーメンシャワーでイク……イかされて……！\n　ああっ、あああぁぁぁああぁぁ～～っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_13" ]},
+		{"command":[ "SETTEXT", "「全身ザーメンまみれだよ……んっ、なのに……すっごく気持ちよくて……ふ\n　ぅ……ふぅ……この匂いも……頭がクラクラするね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_14" ]},
+		{"command":[ "SETTEXT", "「はぁ……はぁ……。あたしのことをこんなにして……ほら、なにか言うこと\n　があるんじゃないかい……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_13" ]},
+		{"command":[ "SETTEXT", "「んもう、謝る必要はないよ。あたしが射精させたんだから。そうじゃないだ\n　ろう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_15" ]},
+		{"command":[ "SETTEXT", "「あんたが言う言葉は、『もっとヤらせてください』だよ。……って、なんだ\n　いその嫌そうな反応は」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_14" ]},
+		{"command":[ "SETTEXT", "「もうでないって？　こんなにチ〇ポを勃起させているくせに、なにを言って\n　るんだい」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000330_02_13" ]},
+		{"command":[ "SETTEXT", "「ほぉ……らっ！　またあたしのマ〇コに、チ〇ポがはいっちまったよ。次は\n　中出ししてもらうからね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "エファナティカ" ]},
+		{"command":[ "SETTEXT", "「あたしが魅力的だってこと、嘘じゃないってことをあたしに納得させてみな。\n　このチ〇ポと、ザーメンを使ってね♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_003_3004410" ]},
+		{"command":[ "WAITINPUT" ]},
+				
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

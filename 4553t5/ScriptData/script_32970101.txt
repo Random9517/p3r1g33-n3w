@@ -1,0 +1,1248 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_01" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SELECT", "全て再生","LABEL1","Ｈシーンへジャンプ","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0002" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「全国６２億の男子が皆そわそわする時期がやってきましたね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103101" ]},
+		{"command":[ "SETCHARA", "0", "char_00029701_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+	
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「６２億ってなんだよ？　世界人口の半分超えてるし、日本人全員男じゃない\nか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そんな世界線はイヤだぞ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「６２億はものの例えですよ。それほど多くの男子が待ち望んでいるというこ\nとです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103102" ]},
+		{"command":[ "SETCHARA", "0", "char_00029701_01", "5", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「よくわからない例えだが……もしかしてバレンタインのことを言ってるのか\n？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「さすが委員長、ご明察」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103103" ]},
+		{"command":[ "SETCHARA", "0", "char_00029701_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "たしかに、もうすぐやって来るバレンタインデーは、男子なら誰もがそわそわ\nせずにいられないイベントだ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「バ……バレンタインが、ななな何かっ？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「その名を口にするだけでも動揺してしまうんですね。さすが、ものすごい呪\n詛力です」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103104" ]},
+		{"command":[ "SETCHARA", "0", "char_00029701_01", "0", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「どちらかといえば祝い力じゃないか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「でも、たしかにいい思い出なんて１つもないから呪詛なのか……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「いい思い出、１つもないんですね。わかります」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103105" ]},
+		{"command":[ "SETCHARA", "0", "char_00029701_01", "5", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そこはわからないで欲しい。で、そのバレンタインがどうしたんだ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「街はもうバレンタイン一色ですよ。街中の隅々にまでチョコの甘い匂いが充\n満してます」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103106" ]},
+		{"command":[ "SETCHARA", "0", "char_00029701_01", "0", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「もうバレンタインまでガマンできないと思いませんか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103107" ]},
+		{"command":[ "SETCHARA", "0", "char_00029701_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「うむ、それは同感だ。好物は真っ先に食べるタイプだし、焦らされるのは得\n意じゃない」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「そうだと思いました。では、今度の休みに２人でチョコを買いに行きません\nか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103108" ]},
+		{"command":[ "SETCHARA", "0", "char_00029701_01", "1", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「もう買っちゃうのか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「買っちゃうんです。予行演習ですよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103109" ]},
+		{"command":[ "SETCHARA", "0", "char_00029701_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「予行演習……それはナイスなアイデアだ。楽しいことは何度あってもいいも\nんな！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「さすが委員長、見事なエピキュリアンぶり。では、次の休みに」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103110" ]},
+		{"command":[ "SETCHARA", "0", "char_00029701_01", "1", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ああ、行こう！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "というわけで、バレンタインを待たずして、", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんと２人でチョコを買いに行くことになった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM3" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_01" ]},
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「なんて美麗な……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103111" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "VERYSLOW" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんは、まるで取り憑かれたように、ショーケースの中の色とりどりのチ\nョコに見入っている。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そこに陳列されているのは、本当に宝石のように美しいチョコたちだ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「最近は色んなチョコがあるんだな。とても食べ物とは思えないようなきれい\nなのがたくさんあるぞ」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「まるで美しい一篇の物語のようですね。キラキラと輝いて、なんだかこれっ\nて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103112" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「宝石みたいだよな。まるでチョコの宝石箱や～、ってやつだ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「いえ、そうではなく」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103113" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「え、違うの？なんだ、やった俺が恥ずかしいじゃないか」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「新手の羞恥プレイですね。それもいいんですが」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103114" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いいのか……。で、宝石じゃなかったらなんなんだ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「なんだかすごく……淫靡です」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103115" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「は？　なんで淫靡？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「美味しいものってすごくいやらしくないですか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103116" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そういう特殊な感性は俺にはないな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「そうですか？　でも、チョコは元々媚薬ですよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103117" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「アステカの皇帝は、ハーレムに入る前にはチョコを摂取していたそうです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103118" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「マジで？　でも確かに、チョコを食い過ぎると鼻血出すとか言うよな。それ\nだけ精力増強効果があるってことか」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「私は見ているだけで鼻血が出てきそうです。ああ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103119" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いや、妙な声出さないでくれる？ここ、健全なお店だから」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "店員" ]},
+		{"command":[ "SETTEXT", "「…………」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "店員さんが冷たい目でこっちを見ていて居たたまれなくなる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「見てないで買おう。今日は俺がおごるぞ」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「委員長がですか？　でも、バレンタインなのに」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103120" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「まだバレンタイン前だからいいだろ？　味見ってことで」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「そういうことでしたらぜひ。本番には私が選りすぐりのものを差し上げます\nので」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103121" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そりゃ楽しみだ。じゃあ、どれがいい？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「そうですね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103122" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんは真剣な顔でチョコを見つめる。", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_02" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「どれにしましょうか。どれも淫猥で悩ましいです……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103123" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いえ、違うんですよ店員さん。このこと、ＳＮＳでつぶやいたりしないでく\nださいね？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「うーん、迷います……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103124" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんはものすごく真剣だ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "それはまるで難しい哲学書でも読んでいるような表情で、そんな顔でどのチョ\nコにしようか悩んでいるのかと思うと思わず顔が笑んでしまう。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ん？　何を笑ってるんです？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103125" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いや、なんか可愛いなと思って」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「可愛い……不意打ちでそんなことを言われると思わず濡れてしまいそうです\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103126" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「濡れないで！　ダメ、絶対！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「じゃあ、こっちとこっち、どっちがいいと思います？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103127" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_03" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "どうやら２つまで候補を絞ったみたいだ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「えっと、そうだな……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「それじゃなくて、こっちもいいんじゃないか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺は２つとは違う隣のチョコを指差す。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「え？　せっかく２つに絞ったのにまた迷わせないでくださいよ～」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103128" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_02" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「はは、いっぱい悩んでいいぞ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「もう、イジワルですね。また濡れちゃいそうです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103129" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ダメ！　絶対！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0009" ]},
+		{"command":[ "SETNAME", "店員" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "SETTEXT", "「ありがとうございましたー」", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "店員さんに見送られて店を出る。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「チョコ、ありがとうございました」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103201" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "6", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんはチョコの入った紙袋を、まるで本物の宝石をそうしているように大\n事に抱えている。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "こんなに大事そうにしてもらえると、こっちもおごった甲斐があるってもんだ\n。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「では、早速これ、食べませんか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103202" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そうだな。じゃあ、その辺でドリンクでも買って食べるか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「いえ、できれば委員長の家で」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103203" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「俺んち？　まあいいけど」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「チョコを食べると色々抑えられなくなりそうなので」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103204" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "5", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「え？　それって……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「では、行きましょう」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103205" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そう言って歩き出す本庄さんは、すでに妖しい笑みを浮かべているのだった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0007" ]},
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ごちそうさまでした。まるで夢のような味でした」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103206" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM6" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "8", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "チョコを平らげた本庄さんは、本当に夢でも見ているような顔になっていた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「うん、マジで美味かったなー」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「はい。極上の恋愛小説を読み終えたような気分です」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103207" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「はは、それならよかった」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「あの店は当たりですね。本番もあの店のチョコを購入しましょう」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103208" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "1", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「もう目星はつけましたので、当日を楽しみにしていてください」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103209" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そりゃ楽しみだな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ですが、その前に……こっちのチョコもちょっと味見してみますか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103210" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "5", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「味見？　でも、もう全部食べちゃったろ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ですから、こうやって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103211" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんが、トロンとした目で俺に顔を寄せてくる。そして、そのまま俺にキ\nスをした。", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "1", "bg_0000" ] },
+		{"command":[ "FADEOUTCHARA", "0", "NORMAL" ] },
+		{"command":[ "DISPIMAGE", "1", "TRUE" ] },
+		{"command":[ "FADEINIMAGE", "1", "NORMAL" ] },
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ん……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103212" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「……ん……あ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "口の中に差し込まれてきた舌からほんのり甘みを感じる。チョコの味だ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEOUTIMAGE", "1", "NORMAL" ] },
+		{"command":[ "SETIMAGE", "0", "cbg_0007" ]},
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「……どう、ですか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103213" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "5", "CENTER", "0" ]},
+		{"command":[ "FADEINCHARA", "0", "NORMAL" ] },
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「すごく……いやらしい味がした」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ふふ、でしょう？　だからチョコは淫靡だと言ったんです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103214" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いや、いやらしいのは本庄さんだけどな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「これは、チョコの催淫効果のせいですよ。委員長だってもう効果が出てるじ\nゃないですか」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103215" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "5", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんの目が俺の股間に向けられる。そこはもう見てわかるほどこんもり盛\nり上がっていた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「これはチョコのせいか」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「はい、チョコのせいです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103216" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「じゃあ、仕方ないな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「はい。今日はチョコのお返しに、私にさせてください」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103217" ]},
+		{"command":[ "SETCHARA", "0", "char_00029703_01", "2", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "いやらしく濡れた瞳でそう言うと、本庄さんは俺のズボンに手をかけてきた。", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_04" ]},
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「もう、こんなになってますよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103218" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM7" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "すっかり屹立した俺のモノをうれしそうに見つめ、本庄さんがいやらしく微笑\nむ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「媚薬の効果はやっぱり素晴らしいですね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103219" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「チョコが媚薬ってのは本当だったんだな。本庄さんも……すっかり欲情して\nるみたいだし」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺のモノを見つめる瞳が、いやらしく濡れて光っている。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「はい、欲情してます……すごく……。もう体が火照ってしまって、熱くて…\n…」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103220" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "たまらなそうに身を震わせながら、本庄さんは俺のモノを握った手にギュッと\n力を込めた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「く、うう……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「委員長のコレも、もうガマンできないって震えてます」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103221" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「それは、本庄さんがそんなに握るから……おおっ！？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "根元をギュッと握られて、ペニスが鬱血したようにさらに漲ってくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「すごい、です……亀頭がこんなに膨らんで、もう破裂してしまいそうになっ\nてますよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103222" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そんなに握られると、マジで破裂しそうだって……くうっ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "気持ちいいというより、苦しさの方が勝っている感じだ。思わず腰が震えてし\nまう。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「あぁ、また震えてます。もうガマンできないんですね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103223" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ああ、もうガマンできない。だから、早く……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「はい……私ももう、ガマンできませんから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103224" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そう言うと、本庄さんは俺のモノに舌を伸ばしてきた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+	
+		{"command":[ "SETTEXT", "ザラッとした舌が、亀頭をペロリと舐め上げる。", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_05" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「お、おお……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ああ、美味しいです……。今日の委員長のコレ、なんだか甘い気がします」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103225" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「それは、本庄さんの舌が甘くなってるからじゃ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「そうでしょうか？　じゃあ、もっとよく確かめてみます。……れろ、れろれ\nろれろ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103226" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「う、うぅ……本庄、さん……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "すっかり敏感になっている亀頭に、たまらない刺激が立て続けに加えられる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「れろれろ、ちゅっ……れろれろれろ……。やっぱり、委員長の肉棒も今日は\nちょっと甘い気がします」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103227" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そうなのかな？まあ、美味しく舐めていただけるなら……ううっ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「はい、とても美味しいですよ。チョコに負けないぐらい美味しいです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103228" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そんなに？本庄さん、そんなに俺の……コレ、が好きなんだ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「はい、とっても。チョコも好きですが、委員長のこの怒張もとてもコクがあ\nって美味です」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103229" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「俺のにはそんなコクが！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「それに、この匂い……くんくん」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103230" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんは、俺のモノに鼻をつけて匂いを嗅ぐ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「くんくん……くんくん……あぁ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103231" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そんな、犬みたいに……ううっ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ああ、この匂い……たまらないです……。汗と尿と、それから老廃物の入り\n混じったような匂い」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103232" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「全然いい匂いそうじゃないんだけど？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「いいえ、私にはたまらない匂いです……。匂いと味は密接に結びつきあって\nるじゃないですか。匂いの強いものは美味しかったりしますよね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103233" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「くさやとかブルーチーズとか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「はい、そんな感じで……くんくん……あぁ、美味しそう……れろ……れろれ\nろれろ……ちゅっ、ぢゅるっ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103234" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "すっかりのぼせた犬のようになった本庄さんは、ますます大胆に俺のモノに舌\nを絡めてきた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「れろれろ、ぢゅぶっ、ちゅっ、れろれろれろ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103235" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "亀頭だけじゃなく、幹にまでねっとりと舌を絡めてくる。根元から先端に向か\nって長いストロークで舐め上げ、そのまま裏筋をペロペロと刺激する。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「う、く……本庄、さん……ううっ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「暴れちゃ、ダメですよ。じっとしててくれないと」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103236" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「でも、気持ち良すぎて……くぅ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「そんなに気持ちいいですか？もう、ガマン汁がこんなに溢れてきました。ほ\nら……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103237" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんは、尿道口から滲み出ているガマン汁を、舌の表面をこすりつけなが\nらペロリと舐め取る。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「はうっ……そんなの、舐めちゃ……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「コレ、すごく美味しいですよ。委員長のガマン汁……本当に、とっても甘く\n感じます」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103238" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「もっといっぱい、舐めさせてください……れろれろれろ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103239" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "固く尖らせた舌先で、尿道口をほじるようにしてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「お、おおうっ！？　そんな、中まで……くううっ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "体の中を舐め回されるような感触に、思わず腰が跳ねる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ひゃんっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103240" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "と、その拍子に逸物で本庄さんの顔をはたいてしまった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「あ……ゴメン」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「顔、おち○ちんで叩かれてしまいました。父親にも叩かれたことないのに」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103241" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そりゃそうだろ。あったら怖いよ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ふふ、この肉棒はとんでもない暴れん坊ですね。それなら、もう暴れられな\nいようにこう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103242" ]},
+		{"command":[ "WAITINPUT" ]},
+	
+		{"command":[ "SETTEXT", "本庄さんは、俺のモノをパックリと口で咥えてしまった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_06" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「お、ああ……本庄さん……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "亀頭全体が、本庄さんの温かな体温に包まれる。それこそチョコのようにじん\nわり蕩けてしまいそうな温度だ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「んぅ、ん……すごく、おっきい、です……んんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103243" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ちょ、う……咥えたまま喋ると、気持ちよすぎ……ううっ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "敏感な亀頭に歯茎や口の中がこすれて、じっとしているのが苦しいほどの快感\nが走る。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "思わず腰が引けそうになるが、パックリと咥えられているので逃げられない。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「あん、逃げちゃ、ダメです……んんっぷ……ぢゅぷっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103244" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETTEXT", "本庄さんが、咥えたまま頭を動かし始めた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「お、あ……あぁ……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "口をすぼめるようにして、やわらかな口の中で逸物をこすり上げてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "歯茎や頬の裏側が逸物にこすれるたび、たまらない快感が股間から全身に広が\nっていった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「んちゅっ、ぢゅぶっ、ぶぶっ、ぢゅるるるっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103245" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ちょ、ああ……ヤバイ、気持ちいい……本庄さん、また上手くなったんじゃ\n……ううっ！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「そうですか？　ぢゅるるるるるるるっ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103246" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「お、おおおおおっ！？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "苦しいほどの快感に、本庄さんの口の中でさらに逸物が猛っていくのがわかっ\nた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「んぷっ、んんうぅ……大きすぎです……んう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103247" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんが苦しそうに呻く。それでも本庄さんは俺のモノを離そうとはしない\n。むしろさらに強く吸い付いてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「んぷっ……んううっ、ぢゅぶぶっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103248" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「お、う……ああ……、まるで、俺のが食べられてくみたいな……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ん、んぷっ……もう本当に、食べちゃいたいぐらい美味しいです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103249" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_05" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんが亀頭の先を覗き込む。そこからは、ガマン汁がたっぷりと滲み出し\nていた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「あぁ、すごいです……おもらししたみたいにどんどん溢れてきます。まるで\n壊れた蛇口みたいですよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103250" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そんなふうに言われるとさすがに恥ずかしいんだけど」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「もっといっぱい、出していいですよ。この味、すごく好きです。もっと、味\nわわせてください」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103251" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「じゅるるっ、ぢゅぶぶぶっ、ぶぶぶぶっ！」", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_06" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103252" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんは、尿道口に直接口をつけると、そのまま強く啜ってきた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「お、おお……っ！！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "痺れるような快感が全身を走り抜け、全身が硬直してしまう。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「んぁ、美味しい……。ちょっと、精子の味が混じってきてるみたいです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103253" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そ、そんなのわかるのか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「はい……もうすぐ、出そうなんじゃないですか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103254" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ああ、たぶん……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "もういつイッてもおかしくないほど気持ちよくなっている。もう長くは持たな\nそうだ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「じゃあそれ、全部私に食べさせてください。委員長の、全部口に……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103255" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "のぼせたような表情でそう言うと、本庄さんは俺のモノに吸いついてきた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		 
+		{"command":[ "SETTEXT", "唇をすぼめたまま激しく頭を動かし、逸物を強くしゃぶり上げてくる。", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_07" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ぢゅぶっ、ぶぶっ……！　ぢゅぶぶっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103256" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「う、あ……あああっ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ぢゅるるっ、ぶぶぶっ、ぢゅぶっ、ぶぶっぶっ、ぢゅぶっ！んん、んっぷ…\n…！　ぢゅぶっ、ちゅぷぷっ、ぢゅぶぶっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103257" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "わざと卑猥な音を派手に立てながら、本庄さんが強く俺のモノをしゃぶる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "まるで股間から魂を吸い出されていくような快感に、俺はまともに声も出せな\nくなってしまった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「早く、出ひて……委員長の精子、いっぱい、飲ませて……ぶぶっ、ぢゅるぶ\nっ、ぢゅぶぶっ、ぶっぷぷ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103258" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「う、お、ああ……！　そんな激しくされたら、もう……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「いいですよ……いくらでも……何度でも出して……全部私が、飲んであげま\nすから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103259" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ぢゅぶっ、ぢゅるるっ……！　れろれろれろ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103260" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "咥えたままで口の中で踊る舌が、先端のあらゆる感じる部分を刺激してくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「う、あ、ああ……そんな……ああっ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「れろれろ、ぢゅぶぶっ……！れろ、ぢゅぶっ！　れろれろっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103261" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「はう、っく……うう」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "逸物を吸われるたび、腰が情けなくヒクヒク踊ってしまう。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "下腹に溜まった熱いものが、ペニスの方へと勢いよく流れ込んでいくのがわか\nった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「く、う……もう、出る……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「出ひて……いっぱい、くださいっ……！んちゅっ！　ぢゅぶぶっ、ぶぶぶぶ\nっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103262" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「お、おお……出る……ぞっ！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「ん、んっ……！　ぢゅぶぶぶぶぶっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103263" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「おおっ！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETTEXT", "腰を突き上げながら、俺は本庄さんの口内でイッた。", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_09" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「んんんんんんんんんんんんんんんっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103264" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "思い切り放った俺の射精を、本庄さんは低く呻きながら喉の奥で受け止める。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「う、ああ……！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺はその喉に亀頭をこすりつけながら、さらに思い切り射精した。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「んんんっ！　んぐっ、んっ、んんっぷ、んんん～～～！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103265" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "一向に勢いの衰えない射精の勢いに驚きがらも、本庄さんは逸物から決して口\nを離そうとはしない。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「んぐっ、んんっ……！　んんっぷ……んんんっ！んぁ、んっ……んんんんっ\n！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103266" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "むしろ強く吸いついてすべてを吸いつくそうとするように、俺の放った大量の\n精をすべて口で受け止めた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「んん、んっ……んぁ、はぁ……ん……♪」", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029701_01_10" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103267" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "出された精液を一滴も逃すまいとするように、本庄さんは慎重にペニスから口\nを離す。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "こぼれそうになった精液まで、ペロリと舌で舐め取った。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「あぁ、すごい量です……しかも、すごく濃くて……こんなにいっぱい溜まっ\nてたんですね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103268" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そうだな、ちょっと久しぶりだったから」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「今日の委員長の精液、濃厚ですごく美味しかったすよ。今たぶん、お腹の中\nでチョコと混ざってます」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103269" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「それはちょっとアレだなぁ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「そうですか？　チョコと委員長の精液のコラボレーション、私にはとっても\n美味でした。クセになりそうです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103270" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「え？　マジで？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「お店のチョコはまだまだ種類がありましたし、バレンタインまで毎日お店に\n通いませんか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103271" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「毎日？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「はい」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103272" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本庄さんが色っぽい微笑を浮かべる。チョコは媚薬だ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "当然食べて終わりというわけにはいかないだろう。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "翡翠" ]},
+		{"command":[ "SETTEXT", "「明日はどのチョコにしましょうか。ふふ、楽しみです」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_297_0103273" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そ、そうだな……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "バレンタイン本番まで体が持つだろうかと、思わず心配になってしまう俺だっ\nた……。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

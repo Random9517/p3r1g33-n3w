@@ -1,0 +1,485 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0051" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00018216_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev182_16b_0000", "ev182_16b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETCHARA", "0", "char_00018216_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「それにしても、まさか休暇で訪れたビーチで隊長さんに出会えるとは……\n　中々どうして、運命を感じたりしちゃいませんか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETCHARA", "0", "char_00018216_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ふふっ、隊長さん、丁度一人みたいだし、しばらく一緒に泳いで遊びましょ♪\n　私、結構泳げたりするんですよー？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETCHARA", "0", "char_00018216_01", "8", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「あ……ふふっ、隊長さん、後ろー！　きゃっー♪　――ぷはぁ！　ふふふっ、\n　すっごく大きな波でしたねー♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETCHARA", "0", "char_00018216_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「――あんっ♪　どうしたんですか、隊長さん、こんな野外で突然人のおっぱ\n　いを鷲掴みにしたりしてー？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「わたしの魅力的すぎる水着姿に、我慢の効かない獣になっちゃいましたか？\n　ふふっ、まったく、えっちでどうしようもない隊長さんですねー♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604105" ]},
+		{"command":[ "WAITINPUT" ]},
+				
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETCHARA", "0", "char_00018216_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「――え？　水着？　あっ、本当だ、さっきの波で流されちゃったんだ……\n　それで咄嗟に手で隠してくれたんですね、ありがとうございます」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「んー……どうしましょう、近くに浮いてたりは……しないですね。流石に\n　おっぱい丸出しのまま、探し回れませんし……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETCHARA", "0", "char_00018216_01", "1", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「って、隊長さん？　少ないとはいえ、周囲に人がいるんですよ？　それなの\n　に、どうしてそんなにオチンポ、固くしちゃってるんですか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETCHARA", "0", "char_00018216_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「わたしのおっぱいを触って、興奮しちゃいました？　本当に仕方がない人\n　ですねぇ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「でも……ひと夏のアバンチュールには、そういう刺激があってもいいかも、\n　ですね♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_01" ]},
+		{"command":[ "SETTEXT", "「ふふっ、いいですよ、ここでえっち、しちゃいましょうか♪　スリル満点の、\n　開放的なエッチ……きっと、とっても気持ちいいですよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「大丈夫、誰にも見つかりませんって。遠めで見られても、ただ恋人がイチャ\n　イチャしてるだけにしか見えませんよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「それに……ここまで誘われて、隊長さんは止める事、できますか？　――ふ\n　ふっ、素直なのは、いいことです♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「じゃあ……はい、来てください、隊長さん。そのバキバキオチンポを、わた\n　しのオマンコに、ずっぽりハメちゃってくださいな♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_05" ]},
+		{"command":[ "SETTEXT", "「あっ、んんぅんっ♪　ふふっ、なんだ、やっぱりノリノリじゃないですか、\n　あぁんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_06" ]},
+		{"command":[ "SETTEXT", "「最初から、こんなに深くっ……あっ、んぁんっ！　オチンポの先っぽが、子\n　宮に届くぐらい腰を突き出しちゃって、ああぁんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_05" ]},
+		{"command":[ "SETTEXT", "「はい、大丈夫です――ふふっ、誘ったのはわたしの方から、ですよ？　隊長\n　さん以上に期待、しちゃってましたから♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev182_16b_0000", "ev182_16b_0023", "true", "ALL" ]},
+		{"command":[ "SETTEXT", "「あっ、あぁんっ、ああぁんっ！　そうです、隊長さんは何も気にせず、ただ\n　腰を振ってくれればいいんですっ、んっ、んあんんっ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「そうやってわたしの腰をもって、叩きつけるように腰をパンパンってっ、ん\n　あっ、あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「やっぱり、後ろから突かれると身体の芯まで、オチンポの気持ちよさが響く\n　みたいでっ、あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「ふふっ、ふふふっ♪　すごい解放感ですね♪　こんな野外で、誰にでも見ら\n　れちゃうような場所でっ、んんっ、くうんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「おっぱい丸出しのまま、隊長さんにオチンポで喘がされちゃってますっ……！\n　あぁ……すごいドキドキするぅ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、あぁんんっ……♪　隊長さんも、いつもよりペースが速いで\n　すねっ……！　このスリルに、興奮しちゃってるんですねー♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「オチンポも、心なしかいつもより固くて太い、ようなぁ……んあっ、あっ、\n　あぁんんっ！　めりめりって、オマンコの肉、掻き分けてくるぅ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「乱暴にっ、何度も何度も赤ちゃんの部屋を叩いてっ、ひっ、あっ、くぅんん\n　っ！　分かってますよっ、私の方からもっ、んんん～っ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「あなたが喜ぶ、オマンコの締め付けかたぁ……あっ、くぅんっ！　中を全部\n　グネグネさせて、根元からオチンポをぎゅ～ってぇ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「んあっ、あっ、あぁんんっ……！　オチンポの突き込みに合わせて、わたし\n　もお尻を打ち付けて、んあぁんっ！　一緒にパンパン、しますねっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、あぁんんっ！　ああ、気持ちいい、太陽の下でする開放的な\n　エッチって、こんなに気持ちいいですねー♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「ふふっ、ふふふっ、夏の魔力ってやつでしょうか♪　これぇ、癖になっちゃ\n　ったらどうしよー♪　あっ、んあぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「誰かにバレちゃうかもしれない、もうバレてるかもしれないのにぃ！　くぅ\n　んっ！　んあっ、あぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「声を我慢するとか、考えられないですっ！　全部を解放したほうが絶対気持\n　ちいいからぁ、ひっ、あっ、んあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「んんっ、あっ、あぁんんっ♪　オチンポ、ビクンってしたぁ……！　んんぅ\n　んっ♪　分かってます、もう限界なんですよねぇ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「あっ、あぁんっ♪　いいです、よぉ……！　んあっ、ああんっ！　わたしも\n　そろそろですからっ、んぅんんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「全部受け止めますからぁ、一緒にイっちゃいましょうね♪　スリル満点の野\n　外えっちで、わたしのオマンコに射精してくださいな♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「んあぁんっ！　あっ、ああっ、んあぁんんっ♪　すごいっ、もっと激しくな\n　ってっ、あっ、くぅんんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「出してっ、そのまま奥に出してぇ……！　イクッ、わたしも一緒にイク、か\n　らぁ、あぁんっ♪　ザーメンミルクいっぱい膣内出ししてぇ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_09" ]},
+		{"command":[ "SETTEXT", "「イっくうぅんんんっ～～！　出てるぅ♪　熱々な濃厚ザーメン、オマンコに\n　直接流れ込んでくるぅ～♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_08" ]},
+		{"command":[ "SETTEXT", "「なんか、これ、すごい……！　絶頂のフワフワした感覚と、海で全身が浮い\n　ているような感覚が合わさってっ、あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「不思議な感じっ……心地いいのが、ずっと続いているような感じで……あっ、\n　んぅんんっ……うっ、あっ、ふあぁんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_09" ]},
+		{"command":[ "SETTEXT", "「ああ、やっぱり膣内出し、好き……お腹の奥から熱くなるこれぇ……ふふっ、\n　幸せ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_08" ]},
+		{"command":[ "SETTEXT", "「ふぅ……いつもなら、絶頂の熱が冷めるまで身体を休ませるところですけど\n　……下半身が海につかってるからですかねぇ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「お腹の奥は、出してもらった精液でとっても熱いのに、身体の火照りは、簡\n　単に冷めていく……ふふっ、なんだかまるで、サウナみたいですねぇ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_07" ]},
+		{"command":[ "SETTEXT", "「この心地よさのまま、もう一度……来てください、隊長さん♪　もっともっ\n　と夏の暑さに負けないぐらい求め合って、とけあいましょう♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev182_16b_0000", "ev182_16b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「んあぁんっ！　あっ、ああっ、あぁんんっ♪　ふふっ、相変わらずわたしの\n　弱いところ、全部把握されちゃってますねぇ、んぅんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「奥をガンガン突かれるのも好きだけどぉ、あっ、んぅんっ！　浅い所をしつ\n　こくズボズボされる、そのやり方、んぅんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「あっ、あっ、あっ、あっ、あぁんっ！　精液でぐちゅぐちゅになってるオマ\n　ンコの中、オチンポで掻き回されるの、気持ちいい……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「ほらぁ、隊長さんのだーい好きな、おっぱいもぉ、あぁんっ♪　さっきはお\n　っぱいを隠すために触っただけでしたもんねぇ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「後ろからオチンポで突きながら、いっぱい揉みしだいてっ、乳首をくりくり\n　してください♪　あっ、んぅんっ！　んふっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「わたしも、こうやってぇ……んふぅんっ♪　腰をぐりぐりって回して、もっ\n　とオチンポを気持ちよくしてあげますねぇ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「お尻ずりずり、ずりずり～♪　私だって、あなたが好きな動きは全部把握し\n　てるんですからぁ♪　あっ、んんっ、んあぁんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「ふふっ、隊長さん、気付いてますか？　あっちで泳いでる人、さっきからわ\n　たしたちの事、チラチラ見てる気がしませんか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「もしかしたら、バレちゃってるかもしれませんねぇ♪　声とか掛けられちゃ\n　ったら、どうしましょう、ああっ、ドキドキしますねぇ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「んあぁんっ♪　ふふっ、隊長さんもこのスリルに興奮しちゃいましたぁ？　\n　オチンポ、一気に跳ねて、大きくなって、あぁんんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「――ふふっ、そうですね、本当にバレちゃう前に……ラストスパートと、い\n　きましょうかぁ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、くぅんんっ！　それっ、すごいぃ……！　腰をガッチリつか\n　んで、身体を力づくで引き寄せて、オチンポ叩きつけるみたいにぃ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「ひゃうっ、あっ、あぁんんっ！　オチンポ一突きごとに、頭の中まっしるに\n　なるぐらい、気持ちいいのが身体を走り抜けてっ、あぁんんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「すっかり下りて来ちゃってる子宮を、オチンポが押し戻すみたいにガンガン\n　ってっ、あひっ、あっ、ああっ、あぁんんっ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「だめぇ、こんなの大声出ちゃうっ！　本当に誰かに喘ぎ声聞かれて、スリル\n　満点のドキドキえっち、バレバレになっちゃうぅ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「あっ、んあっ、ああぁんんっ！　オマンコの奥ぅ、熱いの来る、大きいの来\n　るぅ……！　出して、またザーメンいっぱい、びゅーびゅー出してぇ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「また一緒にっ、あっ、くぅんんっ！　イクッ、イクイクっ、イックうぅぅん\n　んっ～～♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_12" ]},
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「ふあぁんんん～～っ♪　ふふっ、ふふふっ♪　またこんなにいっぱい出てっ、\n　あっ、くぅんんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「あっ、んぅんんっ♪　すごいっ、わたしも何度もイッちゃってますぅ……♪\n　こんなお外で、太陽の下で、何回もイってるのぉ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_11" ]},
+		{"command":[ "SETTEXT", "「注ぎ込まれるザーメンは熱くて、お腹の中火傷しちゃいそうなのに、海につ\n　かってる下半身は冷たくてっ……んんぅんんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「またこれ、ふわふわ漂うような感覚……すごく心地よくて……ずーっと浸っ\n　ていたくなっちゃいますねぇ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_12" ]},
+		{"command":[ "SETTEXT", "「んぅんっ♪　ああでも……射精、終わっちゃう……んんっ、最後までしっか\n　りおまんこでぎゅーって搾り取ってあげますからぁ。んぅんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_11" ]},
+		{"command":[ "SETTEXT", "「このままぜーんぶ、出し切っちゃってくださいねぇ♪　あっ、んんっ、んぅ\n　んんっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_12" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……んっ……どうですか、満足、できましたか？　……ふふっ、\n　本当ならこのままもう一度、と言いたいところですけど……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_10" ]},
+		{"command":[ "SETTEXT", "「本当に誰かにバレる前に、引き上げないとですねぇ♪　だけど……あと少し\n　だけ、繋がったまま海を漂っていましょうか」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「それにしても、スリル満点の野外えっちがここまで気持ちいいとは……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「ドキドキ満点の、ひと夏のアバンチュール……とっても素敵な夏の思い出に\n　なっちゃいましたね、ふふふっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_15" ]},
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「ああぁんんっ！　ああ、オチンポ抜けちゃったぁっ、んぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「でもっ、あっ、くぅんんっ！　熱々ザーメン、背中にぶっかけられるのも、\n　これはこれでいいかもぉ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_14" ]},
+		{"command":[ "SETTEXT", "「すぐに海水で洗い流すこともできます、からぁ……んぅんっ！　もっとかけ\n　て！　全身ドロドロになっちゃうまで、精液のシャワーを浴びさせて！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_15" ]},
+		{"command":[ "SETTEXT", "「んぅんんっ～！　誰に見られるか分からない、こんな野外で精液塗れにされ\n　ちゃうなんて……ふふふっ、すっごくドキドキしちゃいます♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_14" ]},
+		{"command":[ "SETTEXT", "「ふぅ……このまま少し、ゆっくりしたいところですけど……流石にそろそろ\n　引き上げないと、本当に誰かにばれちゃうかもですねぇ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00018216_02_13" ]},
+		{"command":[ "SETTEXT", "「あっ――隊長さん、やばいです……さっき見てるかもって言った人、こっち\n　に近づいてきてません？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「い、いくらドキドキを楽しんでいたからといって、本当にばれて裸を見られ\n　ちゃうのは話が違います！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「えっと、えっとぉ……あ！　隊長さん、あそこの岩場！　私の水着ひっかか\n　ってます！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「ほら、早くさっきみたいにおっぱい隠してください！　とっとと逃げますよ\n　ぉ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "ハルミ" ]},
+		{"command":[ "SETTEXT", "「最後は死ぬほど恥ずかしい思いをして終わるなんて！　そんなひと夏のアバ\n　ンチュール、求めてなーい！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_182_1604410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

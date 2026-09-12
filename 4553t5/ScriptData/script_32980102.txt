@@ -1,0 +1,1351 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_01" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "WAITMOVE" ]},
+
+		{"command":[ "SELECT", "全て再生","LABEL1","Ｈシーンへジャンプ","LABEL2" ]},
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0015" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SETTEXT", "物事に興味を持つ理由は人それぞれだ。", "NORMAL" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+				
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「えへへ。なんだか嬉しいな。ラクロスに興味を持ってくれるなんて」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104101" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "6", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "恋人が打ち込むスポーツを理解したい。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "その気持ちから俺は栞にラクロスの手ほどきを受けることになった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「今日は練習休みだから。失敗しても私しか見てないから気にしないでね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104102" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「失敗する前提！？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「最初からうまく出来る人はいないよ。失敗は当然のことだよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104103" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "4", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "もっともらしいことを言いながらも、栞はニヤニヤした顔を隠すことが出来な\nい。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "0", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「でも……あなたの場合は、恥ずかしいミスをしそうだから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104104" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "8", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「その言葉後悔するなよ！俺の秘めたる才能に刮目しろ！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「期待してるね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104105" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "0", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "少しも期待している気配のない、生暖かい視線を受けながら俺はラクロスに挑\n戦するのだった。", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「おかしい。こんなはずじゃなかったのに」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ぷ……ふふ……。大丈夫大丈夫。失敗は成功の母だから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104106" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "慰めながらも栞は肩を震わせ、必死に笑いを堪えていたがそれも当然のことだ\nった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "まずストリングにボールが入らない。たまに入ってもショットはうまくいかず\n、ボールは明後日の方向に飛んでいく。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「でも反対のゴールに飛んでくのは初めて見たよ。ふふふ。あはははははっ！\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104107" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "6", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "堪え切れずに栞は目に涙を浮かべて笑い出した。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "それも屈辱だけど、俺の失望はそこではない。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「普通教えてくれるっていうのは、手取り足取りしてくれるものじゃないのか\n？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「それは……色々と危険だもん。分かるでしょ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104108" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "1", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「む、むぅ……。確かに」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "メチャクチャに振り回したクロスが、栞に直撃するかもしれない。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "練習が進むにつれて俺と栞の距離はどんどん開いていってしまっていた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「……密着したらオオカミになりそうだし」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104109" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「何か言ったか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ううん。でも教える声も届かないよね。ごめんごめん。もう少し近くで教え\nるから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104110" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "4", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「頼む。せめて一度くらいうまくやりたい」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "意識を集中してクロスを引いたその時──奇跡が舞い降りた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_01" ]},
+		{"command":[ "SETTEXT", "「！！！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104111" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM8" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「え？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "クロスが栞のシャツを捲りあげ……、可愛らしいおへそを露にしたのだった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ちょ、ちょっとストップ！やっ！　引っかかって……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104112" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ご、ごめん！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "名残惜しいがシャツから引き抜こうとするけれど俺のクロス捌きではそれもお\nぼつかない。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「な、なにやってるのぉ！？だからストップ！　動かしちゃダメぇえええ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104113" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_02" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "なんだかエロく聴こえてしまうようなセリフと共に、チラリとブラジャーがシ\nャツの下からまろび出た。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「み、見ないで～～！　もう！　あっち向いてて！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104114" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "到底聞けないお願いをしながら栞はどうにか絡まったクロスをシャツから引き\n剥がした。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0015" ]},
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「わ、悪い」", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "あれは幻だったのか？", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そう思う程にあっけなく日常の景色が戻ってきてしまった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「し、仕方ないよ。事故だもん」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104115" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "4", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そうだよな。事故だもんな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「だから気にしないで」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104116" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "2", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "頬を染めているけれど怒った様子はない。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「それより、練習に戻ろう！ほら！　集中しないと怪我するよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104117" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "さっきの出来事を忘れようとするように栞は俺に練習を続けることを促す。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そうだな。頑張るよ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「うん！　頑張って！あなたはやれば出来る子なんだから！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104118" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "栞とのラクロスの練習の中で、俺の目的は今定まった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俄然やる気になり俺はクロスを振り回すのだった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0020" ]},
+		{"command":[ "SETTEXT", "そして、あれから１週間――", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0015" ]},
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「う～～ん。あまりうまくならないね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104119" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "残念ながら俺のクロス捌きに一向に上達の気配はなかった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「一度うまくいけばすぐだと思うんだ。成功の経験を反復してモノにすればい\nいんだから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104120" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "4", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "まさにその通り。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "この１週間、俺はあの時の成功体験を繰り返し思い浮かべ、反復トレーニング\nに励んでいた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「何がいけないのかな。フォーム、チェックするからもう一度……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104121" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "7", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "背後から栞が近づいてくる気配に、俺の集中力は高まっていく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "STOPBGM" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "何度も何度も確認した必殺の間合い。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ここだ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺は鋭くクロスを後ろに引く動作に入る。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「きゃっ！　あぶな……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104122" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "3", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_01" ]},
+		{"command":[ "SETTEXT", "練習の成果は確実に現れた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM8" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「きゃああああ！　ちょっとストップ！クロス、止めて！　ストーップ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104123" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "あの時を完璧に再現するように……、シャツの下から栞の肌と下着が露になっ\nた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ごめん。また事故った」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「わ、分かってるから……狙って出来るなら、もっと上手くなってるもんっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104124" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_03" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "上達しないクロス捌きも、俺の意図を事故と思い込ませることに貢献していた\n。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「でも見ちゃダメぇ～～。もう、どうしてこんなハプニングばっかり……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104125" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "クロスを服の隙間から取り出し、栞は肌を隠せる安堵にため息をつくが……。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「えええええ！？　う、嘘ぉおおおお！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104126" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_01" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "シャツが舞い降りる前に、俺のクロスはまたもシャツを正確に捲りあげていた\n。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ごめんごめん。事故だから」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「こ、こんな事故、何度も起こるわけないよねぇ！？まさか……ずっとこの練\n習を？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104127" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「なんのことかな？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "とぼけながら俺は反復練習のその先の領域へと到達しようとクロスを動かす。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ふぇぇんっ、やだぁぁ～～！　なにやってるのぉ！？ブラ、捲ろうとしない\nでぇ～～！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104128" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_02" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺はシャツが降りるまでの僅かな間に、カップの繋ぎ目にクロスをひっかけた\n。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "日々の研鑽は今、実を結ぶ──", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「いい加減に……しなさーい！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104129" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_04" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "PLAYSE", "WAR_SE10" ]},
+		{"command":[ "WAITMOVE" ]},
+		
+		{"command":[ "SETTEXT", "だが達成を目の前にして突き飛ばされてしまった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "女の子のブラジャーという最後の砦の強固さは、俺の野望を阻んだのだった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0015" ]},
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ほっんとうに！その努力をなんで普通の方向に向けられないの？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104130" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「いや。普通じゃないから頑張れたというか……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "言葉を届かせるために声を張り上げないといけない程に二人の距離は開いてし\nまった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そのことに俺は練習の意義を見失って、意気消沈していた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「はぁ……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "モチベーションは上がらず、口から出るのはため息ばかり。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「はぁ。仕方ないなぁ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104131" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "見かねた栞がクロスを最大限に警戒しながら俺の方に近づいてくる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「えい！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104132" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "8", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「わっ！」", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そして間合いを一気に詰め──", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺の背中に抱き着くようにしてクロスを持つ手に手を重ね合わせた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「これならやる気になるでしょ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104133" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「う、うん！　もちろん！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「まったく……。この方が安全とか、絶対におかしいよね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104134" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "4", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "この距離では俺の必殺のラクロス捌きを活かせない。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "でも、当初望んだ手取り足取りの練習がようやく実現したのだ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「お……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「そうそう。やれば出来るじゃない！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104135" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "8", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "すんなりとストリングに収まるボール。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "栞は嬉しそうに後ろから俺をハグしてくれた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「動機はともかく長い時間握っていたんだから。クロスの扱いはうまくなって\nるはずだよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104136" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「みたいだな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「すぐにゴールも決められるようになるから。そうなったら……何かご褒美、\nあげてもいいよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104137" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "6", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ご褒美、という言葉に俺は喉を鳴らしそうになる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「……二人きりの時なら、その、えっちなことでも」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104138" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "それは魅力的だけれど……、俺には果たせなかった野望があった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「だったら練習の時には、フロントホックのブラでお願いします！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "3", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0020" ]},
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ぜーったいに、イーヤッ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104139" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "野望への足掛かりはあっかんべーと共に力いっぱい拒否された。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺の夢が叶う日は、まだまだ遠い未来になりそうだった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "cbg_0003" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM1" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3" ]},
+		{"command":[ "SETTEXT", "練習中に軽く足を捻っただけなのに、俺は心配した栞に保健室に連れて来られ\nてしまった。", "NORMAL" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「一応湿布はしておこうね。後で痛くなるかもしれないし……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104201" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "7", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ゆっくりでいいから」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ベッドに腰かけた俺の前に跪いて治療をする栞に声をかける。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「うん。しっかりと剥がれないようにするから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104202" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そう。焦ってもらっては困るのだ。", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "眼下に広がる絶景……つまりは部活着の隙間から覗く谷間と下着を少しでも長\nく見ていたいんだから。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "さっき下から捲りあげたのも趣があったが、上から見えるのはまた違った感動\nがある。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「うまくいかないなぁ。ねえ、何か固定出来るもの持ってたり……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104203" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "7", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "治療を中断して俺を見上げた栞の言葉が途切れる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "胸の谷間を見ていた俺は、恐る恐る栞の顔へと視線を向ける。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「……どこ見てるの？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104204" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ものすごい迫力の笑顔だった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そして残念ながら胸の谷間は、視線に気づいた栞によって隠されてしまった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「そんなに見たいものなの？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104205" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そんなに見たいものだよ！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そこに下着があれば、そこに谷間があれば！", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺は何度だって見ることを試みるだろう。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「こっそり盗み見なくても、二人きりの時なら……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104206" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "2", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "頬を染めて栞は周囲を見回して、しまった！　という顔になる。", "NORMAL" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "3", "CENTER", "0" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「二人きり、だよな？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「そ、そうだね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104207" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "2", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺が身を乗り出した分、栞は後ずさった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「見たいです！　ものすごく見たいです！栞のブラと胸の谷間！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「す、ストレートだね、相変わらず」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104208" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "呆れたため息をつきながらも、栞は後ずさった分の距離を詰め直す。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「言ったのは私だもんね。少しだけなら……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104209" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "4", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "PLAYSE", "WAR_SE6" ]},
+		{"command":[ "SETTEXT", "窓の外に人気がないのを確認すると、栞は部活着の上着を脱ごうとする。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ちょっと待った！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ふ、ふぇ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104210" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "3", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "首から上着を引き抜こうとした姿で栞は動きを止める。まさに頭隠してブラ隠\nさずの状況だった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「全部脱ぐなんて無粋すぎる！栞は半脱ぎの文化が分かってない！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「そんな文化知らないよ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104211" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "1", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「知らないなら教えるから！　俺の言う通りに脱ぐんだ！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「え、え、えええ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104212" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "3", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "混乱した栞に、俺の力強い言葉は刺さるようで。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「まずは顔をちゃんと出して！それから上着は胸の上に乗せるようにして……\n」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「こ、こう！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104213" ]},
+		{"command":[ "SETCHARA", "0", "char_00029802_01", "1", "CENTER", "0" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "軽いパニックになった栞は、俺に言われるがままに服を脱いでいくのだった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_05" ]},
+		{"command":[ "SETTEXT", "しばらく後、ベッドの上には理想的な半脱ぎの栞がいた。", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "WAR_BGM7" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ふ、ふぅ……ま、待って。まだ、うごかない、で……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104214" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ご、ごめん。興奮しすぎた」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「本当だよ……。なんで下着まで脱がされてるかなぁ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETTEXT", "正しくは言われるがままに栞が自分で脱いだんだけど。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そこにはさすがに触れないことにしておく。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「少し、このままでいて。いつもより……大きい気がするから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104216" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「栞がいつもより可愛いからだよ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "部活着を乱した栞に、ほとんど愛撫することもなく、俺は勃起した逸物を突き\n入れていた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「もう。興奮しすぎだよ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104217" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "少し苦しそうに栞は唇を尖らせる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「でも……ちょっとだけ気持ち、分かったかも」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104218" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「ん？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "呼吸が落ち着いてきた栞は、俺の全身をじーっと見つめてきた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「シャツから覗く胸板とか……ちょっと好きかも」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104219" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "少し赤くなりながら、栞は微かに笑みを浮かべる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そういえば俺の姿も半脱ぎと言えなくもなかった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「同志よ！」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「そんな同志になりたくないよ！はぁ……あなたの趣味が伝染ったかなぁ……\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104220" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「まあ夫婦は似てくるって言うしな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「そうかもね。ん……ふぅ……はふぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104221" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺を見つめている栞の瞳が徐々に潤んでいくように感じる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "膣壁はこなれてきて、締め付けるだけではなく蠢きだして準備が整いつつある\nことを告げる。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「動いて……いいよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104222" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「うん……。でもその前に」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ずり落ちて胸を隠そうとしていた上着を捲りあげる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ほ、本当に好きなんだね。変態さんかな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104223" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そんなこと言っていいのか？シャツ、全部脱いじゃうぞ？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「……そのままでお願いします」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104224" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "おどけあって、俺たちは小さく笑いあう。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "目をそっと閉じた栞に軽く口づけをすると、俺は腰を動かし始めた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ひゃっ、あっ……！　あ、んっ……あっ、あっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104225" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_06" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETTEXT", "挿入が突然だった分を取り戻すように、俺はゆっくりと栞の膣内を往復してい\nく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「あっ、うっ……すごく、感じちゃうっ……んあっ……！あぁ……でも……も\nっと早くしても、大丈夫、だからっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104226" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「うん。段々とな」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "段々と水音は大きくなり、動きやすさは増していく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ふぅ、あぅ、あ……うん、それくらいが、いいかも。ふぅ、あ……っくぅ、\nはぅ……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104227" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "意外とボリュームのある栞の胸は上着が落ちてくるのを食い止めている。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そのために絶妙な半脱ぎ具合は維持されていた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「あっ……んぅっ、あっ！　はぁう、んぅうう……っ、やっぱり……いつもよ\nり、大きい、よね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104228" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「栞だっていつもより濡れてるだろ」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「そ、そんなこと……、んぅ、あっ、ないもんっ……、んぅっ……、あっ……\nあっ！　っくぅ、あああんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104229" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ふぁ……ぁ……っ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104230" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ギリギリまで引き抜いた時に、溜まっていた愛液が溢れ零れていく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「スカート、汚れちゃうな」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「……いいよ。後で着替えるんだし」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104231" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "言われてみれば、この姿で帰るわけではないのだ。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "それに気が付くと、俺の中の理性のリミッターが一つ外れた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「そうか。なら……」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ふぁああっ！？　あっ、やぁ！　そ、んなに、はげしっ、っくぅ！　あっく\n、ぅう、あ、はぅうううっ！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104232" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_07" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "栞の腕を掴んで身体を持ち上げるようにしながら、挿入の動きを大きくしてい\nく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "不安定に揺れる身体に腰を打ち付けられると思わぬ刺激があるようだ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「んっ、くぅうう！　当たってるぅ……！いつもと、違うところに、はぅ！　\nま、またぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104233" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "背中は浮き上がりふわふわした中では、繋がった部分にイヤでも栞の意識が集\n中していく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「あぅ、あっ！　あっ！　んぅうう！　ふぁあああっ！感じるっ！　あなたを\n、すごく、感じる……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104234" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本来なら少しずつ昂っていく感覚を、一気に与えられて栞はどうにか受け入れ\nている。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "手をしっかりと掴まれているので、身体を隠すことも当然できない。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "隠れかけていた胸は腰を動かすだけで捲り上がりまた姿を現す。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「栞。見てみなよ」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「あ、あっ……なんだか、揺れて、えっちだよぉっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104235" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETTEXT", "露出した自分の胸が弾むのを見て、栞は頬を赤くする。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "自分の半脱ぎの姿に恥ずかしさと興奮を覚えて、膣内からさらに愛液が溢れ出\nしてきた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「んぅ、あぅ、やっ、ふぁっ……んんっ！音、すごく、してて、はずか、ん、\nはぅっ、あっ！？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104236" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "腰をぶつける音、愛液がかきだされる水音。ベッドがきしむ音。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "その全てが快感と恥ずかしさに繋がり、栞はさらに悶えていく。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「だったら音が聴こえないくらい……声、聴かせて」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「そっちの方が恥ずかしいよぉ！で、でも……声も、とまら、ない、よぉ、は\nぅ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104237" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「止めなくていいから」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "栞の身体と口から奏でられるハーモニーに、俺の興奮も限界まで高まっていく\nようだった。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「んぁああああ！　もう、わからない、よぉっ、へんに、なっちゃう……っ！\n　ああああんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104238" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「俺も……もう……っ！」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「すごい、すごいよぉ……っ！こんなの、すごすぎて、んぅ、はぅうううっ！\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104239" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "崩れ落ちていきそうな栞の身体を支えるが、俺の方も目の前がくらくらしてき\nた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「なあ。栞……？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ふぇ……な、なに？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104240" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "高まってくる射精感の中、俺は栞にぶつけたいことを口にしていた。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「かけても……いいか？」", "NORMAL" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「え？　かけるって……んぅ、はぅ……っ！私に、せーし……かけ、たい、の\n？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104241" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「うん。ダメか？」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "栞を俺の白濁で汚したい。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そうすることで……栞が俺に染まる気がした。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ど、どうしたの？　急に……？んぅ！　あ、はぁああ！　くふぅ、あああ！\n」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104242" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "返事をすることさえさせないように、俺は栞を激しく突き続ける。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "答えられなければ、それは俺の勝手だ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "栞は後で俺に怒ればいいのだ。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「あっ、あっ……いい、よっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104243" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "なのに喘ぐのを堪え、栞はどうにか俺に返事を返す。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "なおも言葉を紡ごうとする栞に、俺は腰の動きを緩慢なものにしていた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「着替えて帰るんだし……。それに、私も……あなたに汚されたい」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104244" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「変、だよね？　でも、そうした方が……、全部、あなたのものになれる気が\nするの」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104245" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "あなた" ]},
+		{"command":[ "SETTEXT", "「栞……」", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "本当に、恋人は考えが似てくるのかもしれない。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "そのことが嬉しくって……、俺は想いの全てを込めてラストスパートに入る。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「はあああぁんっ！　いっ、いいよぉっ！　すごく、いいっ！っく、ふぁっ！\n？　い、イク、イっちゃう……っ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104246" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ずり落ちそうな上着は、また激しい動きに捲りあげられる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「はぅ……！　あっ、む、胸まで、感じて……っ！ひぅ、も、もう、もう……\nっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104247" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "その際に乳首がこすれて、栞は新たな刺激に悶えて俺の手を強く握り返す。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「来るのぉ！　すごいの、きちゃうよぉおおお！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104248" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "浮かび上がった腰は俺との繋がりを確かにしようと、栞の方から押し付けられ\nる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺の突き入れと栞が押し付けるのが重なり──", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「あ、あああああああああああああああ……っ！！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104249" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_08" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "最奥を勢いよく穿った瞬間、栞は身体を反り返らせて大きな声を上げる。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "達してベッドに沈み込んでいく栞から逸物を引き抜くと──", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ふぁ……！　あ、あぁ……っ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104250" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "俺は栞の身体に白濁を吐き出していく。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「熱いの、いっぱい、かかって、るぅ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104251" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "秘所の周りに、なだらかなお腹に、胸の膨らみに、蕩けた顔に汗に濡れた髪の\n毛に。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "部活着のスカートにも上着にも、すべて俺の精液が降り注いでいった。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「はぁはぁ……。熱い、よぉ。本当に、からだ中全部……せーしでいっぱいだ\nよぉ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104252" ]},
+		{"command":[ "SETIMAGE", "0", "still_00029801_02_09" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "ぐったりとしながら、栞は白濁に染まった自分を見る。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETNAME", "栞" ]},
+		{"command":[ "SETTEXT", "「ふあぁ……あなたの匂いがする……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_298_0104253" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "栞の甘い香りと混ざり合った不思議な匂い。", "NORMAL" ]},
+		{"command":[ "DISPNAME", "FALSE" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "SETTEXT", "それが鼻をくすぐるのが、今はたまらなく幸せに感じた。", "NORMAL" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "EXIT" ]}
+	]
+}
