@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script>
+      (function() {
+        // 1. Suppress uncaught errors from external scripts, translations, or WebGL shader initialization
+        function isIgnorableError(err, msg) {
+          var text = String((err && err.message) || msg || '');
+          if (text.indexOf('fetch') !== -1 && text.indexOf('getter') !== -1) return true;
+          if (text.indexOf('Shader not compiled') !== -1) return true;
+          if (text.indexOf('WebGL') !== -1 && (text.indexOf('context') !== -1 || text.indexOf('shader') !== -1)) return true;
+          if (text.indexOf('removeChild') !== -1 && text.indexOf('not a child') !== -1) return true;
+          if (text.indexOf('insertBefore') !== -1 && text.indexOf('not a child') !== -1) return true;
+          if (text.indexOf('translate.google') !== -1 || text.indexOf('gen204') !== -1) return true;
+          return false;
+        }
+
+        // 2. Google Translate / Browser Auto-Translate DOM reconciliation fix for React
+        if (typeof Node === 'function' && Node.prototype) {
+          var originalRemoveChild = Node.prototype.removeChild;
+          Node.prototype.removeChild = function(child) {
+            if (!child) return child;
+            if (child.parentNode !== this) {
+              if (child.parentNode) {
+                try {
+                  return child.parentNode.removeChild(child);
+                } catch (e) {
+                  return child;
+                }
+              }
+              return child;
+            }
+            try {
+              return originalRemoveChild.apply(this, arguments);
+            } catch (e) {
+              return child;
+            }
+          };
+
+          var originalInsertBefore = Node.prototype.insertBefore;
+          Node.prototype.insertBefore = function(newNode, referenceNode) {
+            if (!newNode) return newNode;
+            if (referenceNode && referenceNode.parentNode !== this) {
+              if (referenceNode.parentNode) {
+                try {
+                  return referenceNode.parentNode.insertBefore(newNode, referenceNode);
+                } catch (e) {
+                  return newNode;
+                }
+              }
+              return newNode;
+            }
+            try {
+              return originalInsertBefore.apply(this, arguments);
+            } catch (e) {
+              return newNode;
+            }
+          };
+
+          var originalReplaceChild = Node.prototype.replaceChild;
+          Node.prototype.replaceChild = function(newChild, oldChild) {
+            if (!oldChild) return oldChild;
+            if (oldChild.parentNode !== this) {
+              if (oldChild.parentNode) {
+                try {
+                  return oldChild.parentNode.replaceChild(newChild, oldChild);
+                } catch (e) {
+                  return oldChild;
+                }
+              }
+              return oldChild;
+            }
+            try {
+              return originalReplaceChild.apply(this, arguments);
+            } catch (e) {
+              return oldChild;
+            }
+          };
+        }
+
+        window.addEventListener('error', function(event) {
+          if (isIgnorableError(event.error, event.message)) {
+            event.preventDefault();
+            event.stopImmediatePropagation();
+            return true;
+          }
+        }, true);
+
+        window.addEventListener('unhandledrejection', function(event) {
+          if (event.reason && isIgnorableError(event.reason, event.reason.message)) {
+            event.preventDefault();
+            event.stopImmediatePropagation();
+          }
+        }, true);
+
+        var prevOnError = window.onerror;
+        window.onerror = function(msg, url, line, col, error) {
+          if (isIgnorableError(error, msg)) {
+            return true;
+          }
+          if (typeof prevOnError === 'function') {
+            return prevOnError.apply(this, arguments);
+          }
+        };
+
+        // 3. Safely configure a setter for window.fetch if missing
+        try {
+          var origFetch = window.fetch;
+          var activeFetch = origFetch;
+          var targets = [window];
+          if (window.Window && window.Window.prototype) targets.push(window.Window.prototype);
+          var proto = Object.getPrototypeOf(window);
+          if (proto) targets.push(proto);
+
+          for (var i = 0; i < targets.length; i++) {
+            try {
+              Object.defineProperty(targets[i], 'fetch', {
+                configurable: true,
+                enumerable: true,
+                get: function() {
+                  return activeFetch;
+                },
+                set: function(newFn) {
+                  activeFetch = newFn;
+                }
+              });
+            } catch (_) {}
+          }
+        } catch (_) {}
+      })();
+    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="alternate icon" type="image/svg+xml" href="./favicon.svg" />
+    <title>Visual Novel Scene Viewer</title>
+    <meta name="description" content="Visualizador de escenas estilo novela visual japonesa con miniaturas dinámicas, esqueletos Spine (SETCHARA / DISPCHARA), Event Visuals reconstruidos con SpriteDicing (SETIMAGE) y reproductor de diálogos interactivo." />
+    <meta property="og:title" content="Visual Novel Scene Viewer" />
+    <meta property="og:description" content="Visualizador de escenas estilo novela visual japonesa con miniaturas dinámicas, esqueletos Spine (SETCHARA / DISPCHARA), Event Visuals reconstruidos con SpriteDicing (SETIMAGE) y reproductor de diálogos interactivo." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="./assets/index.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
