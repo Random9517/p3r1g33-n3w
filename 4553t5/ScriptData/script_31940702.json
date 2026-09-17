@@ -14,7 +14,7 @@
 		{"command":[ "DISPCHARA", "0", "TRUE" ]},
 		{"command":[ "DISPTEXT", "TRUE" ]},
 		{"command":[ "DISPNAME", "TRUE" ]},
-		{"command":[ "SETTEXT", "「まったく、時間帝国の追っ手から逃れるための戦力アップの為、銀月の魔力\n　を用意してまで使い魔の召喚儀式を行ったというのに――」", "NORMAL" ]},
+		{"command":[ "SETTEXT", "「時間帝国の追っ手から逃れるための戦力アップの為、銀月の魔力\n　を用意してまで使い魔の召喚儀式を行ったというのに――」", "NORMAL" ]},
 		{"command":[ "PLAYVOICE", "v2_194_0704101" ]},
 		{"command":[ "WAITINPUT" ]},
 

@@ -1,0 +1,493 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0078" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00003011_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev030_11b_0000", "ev030_11b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETCHARA", "0", "char_00003011_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「折角の海だというのに、ビーチパラソルの下で寝ているだけ、というのは\n　少しもったいないですよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETCHARA", "0", "char_00003011_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「くすっ、そんなに驚くようなことですか？　私が突然現れることなんて、\n　いつものことでしょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETCHARA", "0", "char_00003011_01", "8", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「皆様が楽しそうに休暇を堪能しているのが目に入ってしまいまして……私も\n　ご一緒させて頂きたいなぁ、と顕現してしまいました」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETCHARA", "0", "char_00003011_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「まぁ……まるで私が一緒だと、ゆっくり休暇を過ごせないかのような言い草。\n　確かに少し……周囲の視線を集めてしまっているようですが……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETCHARA", "0", "char_00003011_01", "3", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「あら、いきなりを手を引いて、どこに――もっと人目のつかない場所？　私\n　の水着が大胆過ぎるから視線を集めている？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		{"command":[ "SETIMAGE", "0", "bg_0051" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETCHARA", "0", "char_00003011_01", "3", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「――確かに、ここなら他の人の目はありませんね。折角ならと、あなたが\n　好みそうな水着を選んでみたのですが……少し失敗してしまいましたか」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETCHARA", "0", "char_00003011_01", "4", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ごめんなさい、騒ぎを起こして休暇の邪魔をしてしまったようで……その\n　お詫び、という訳ではないのですが……気持ちいいことなど、如何ですか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETCHARA", "0", "char_00003011_01", "6", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ふふっ、気が付いてますよ、さっきから視線がずっと私の胸に向いているの。\n　オチ○ポも……水着の上から分かるぐらいに、大きくなってますよね？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETCHARA", "0", "char_00003011_01", "8", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「折角の休暇ですもの。身体を休めるのもいいですが……蕩けるような快楽で、\n　心も一緒に癒されてみませんか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_01" ]},
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「……人気がないとはいえ、野外で……太陽の下でこんな格好を晒してしまう\n　のは、やはり少し恥ずかしいですね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「ですが……んんっ……このドキドキも素敵です……さぁ、いつでもどうぞ\n　……私の方も、もう準備はできていますから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_02" ]},
+		{"command":[ "SETTEXT", "「あなたの立派なバキバキオチ○ポで……私のこと、いっぱい可愛がって\n　くださいな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_06" ]},
+		{"command":[ "SETTEXT", "「んんっ、あぁんっ……！　ふふっ、元気いっぱいのオチ○ポが、入って\n　きましたっ……んっ、あっ、んんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あぁぁ……んんっ、はぁっ、相変わらず、太くて長くて……んんっ、あっ、\n　んぅんっ……深くまでオチ○ポが、届いていますっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_05" ]},
+		{"command":[ "SETTEXT", "「この体勢だと、私から大きく動くことはできませんから……んんっ……全て、\n　あなたにお任せしてしまっても構いませんか……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_04" ]},
+		{"command":[ "SETTEXT", "「ふふっ、もちろん、さっきから熱い視線を注ぎ続けているこの胸も、好きに\n　堪能してもらって構いません」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_05" ]},
+		{"command":[ "SETTEXT", "「私の身体全てをお預け致します……お好きなように動いて突いて、揉んで\n　舐めて……心行くまで、可愛がってくださいませ……あっ、あぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev030_11b_0000", "ev030_11b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「はんっ、あっ、あっ、はぁん……！　最初から、すごい勢いっ……あっ、く\n　ぅんっ……！　オマ○コが摩擦で擦れてっ、あぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、んふっ、ふぅんっ……！　私、この体勢で犯されるの、結構\n　好きなんですよね……あなたのモノにされているという感覚が強くて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「脚をみっともなく開かされるのは、恥ずかしくもあるのですが……んっ、あ\n　ぁんっ……それがまた、ドキドキして気持ちよくて……んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「ああ、オマ○コが繋がっている所、丸見えになっちゃってます……あっ、ん\n　んっ……！　はしたなく愛液が溢れちゃうところまで、全部見えてる……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「体勢的に私から腰を動かすことはできませんが……んぅんっ……！　こうし\n　て、おまんこをぎゅーってしてあげる事はできますっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「オチ○ポを根元から、ぎゅーってっ……あっ、んぅんっ……！　オマ○コを\n　使って締め付けてっ、あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「私もたくさんご奉仕しますから、一緒に気持ちよくなりましょうね……\n　あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んんっ……！　あなたの男らしく、ごつごつした指が私の胸に沈んでっ……\n　あっ、んんっ、んふぅんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「そのまま乳首もっ……あっ、くぅんっ……！　すごい、自分でも驚くぐらい、\n　乳首が勃起してしまっています……あっ、んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「んっ、あっ、んんぅんっ……！　どうですか、気持ちいいですか？　私の\n　身体全てで、あなたのことを癒すことができていますか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「――ふふっ、聞くまでもなかったですね。さっきから目元を蕩けさせて、\n　とっても可愛らしい表情になっていますもんね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「オチ○ポも……あっ、んぅんっ……！　今にも爆発しそうなほど大きくなっ\n　て、子宮に届くぐらい深く……あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「分かります、そろそろですね……私の膣内に、びゅーびゅーって出したがっ\n　ているが伝わってきますよ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、あぁんんっ……！　私も一緒ですから……あっ、あぁんっ\n　……！　このまま最後まで、共に果ててしまいましょうね……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あっ、くぅんっ！　んんっ、あっ、あぁんんっ……！　すごい、こんな野外\n　で、いつ人に見つかるか分からないのにっ、私っ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「んあぁんっ！　もう、イキそうです……！　あっ、あぁんっ……！　あなた\n　の逞しい熱々オチ○ポで、オマ○コ気持ちよくなります……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「出してください、このまま私の一番奥に！　オチ○ポ、子宮にくっつけて、\n　精液いっぱい、出してください……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あっ、ああっ、あぁんんっ！　イク、イクイク、イックうぅぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_09" ]},
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「んあぁぁあんっ……！　あぁっ……出てますっ……いっぱい、精液、ドクド\n　クって……子宮に直接、流れ込んでくるっ……んあぁんんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_08" ]},
+		{"command":[ "SETTEXT", "「ふふふっ……やっぱりいいですね、膣内出しは……オマ○コ全てで、あなた\n　の熱を感じることができて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_09" ]},
+		{"command":[ "SETTEXT", "「あっ、んぁんっ……！　すごい、小さく何回もイってしまいます……オマ○\n　コの痙攣、止まらなくって……んんっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_08" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……あぁ……ダメ、出してもらったばかりの精液が、子宮に入り\n　きらなくて……逆流していってしまいます……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「何て下品な音……恥ずかしい、ですけど……ふふっ、あなたが私で癒された\n　音だと思えば、少し愛おしくもありますね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_07" ]},
+		{"command":[ "SETTEXT", "「ふぅ……流石に炎天下でのセックスは、体力を使いますね……お互い汗まみ\n　れになってしまいましたわね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_08" ]},
+		{"command":[ "SETTEXT", "「ひゃぁんっ……そ、それ、汗をのばすみたいに太腿をすりすりするの……あ\n　っ……く、くすぐったいので、ほどほどにして頂けるとっ……んぅんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_07" ]},
+		{"command":[ "SETTEXT", "「ほ、ほら、いつまでも人の太ももを撫でていないで……あなたも、一度出し\n　たぐらいでは満足できていないでしょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「オチ○ポも……んんぅんっ……私の膣内で、まだこんなにも固いまま……\n　私もまだ少し、物足りないですから……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「このまま、続けてくださいませ……お互いの頭の中が蕩け切るまで、強く\n　激しく、気持ちよくなりましょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "PLAYANIM", "0", "ev030_11b_0000", "ev030_11b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「はっ、んふっ、あぁっ……！　出されたばかりの精液がっ……ぐちゅぐちゅ\n　って、かき混ぜられますっ……あふっ、あ、んんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「オマ○コ、ぬるぬるになっているからっ……あっ、んぅんっ……！　さっき\n　よりも早く、擦れてっ、あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「私も……んんんっ……！　もっと強く、オマ○コで締め付けますわ……あっ、\n　んぅんっ……！　お尻に力を込めて、もっときつくっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あなたのオチ○ポにも、もっともっと、喜んで欲しいですからっ……あっ、\n　ああっ、んあぁんっ……！　んっ、んぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「ひゃぁんっ……！　そ、それ、また太腿を、あなたの手の平が滑ってっ……\n　んんっ、あっ、んふぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「く、くすぐったい……のも、ありますけどっ……あっ、くぅんっ……！　そ\n　の触り方、とてもいやらしくて、気持ちいいかも……んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あっ、くっ、うぅんっ……！　また胸もっ、太腿と同じように汗まみれの手\n　で揉まれてっ、んんっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「指の間で乳首を擦られるその動きっ、あっ、あぁんっ……！　気持ちよすぎ\n　ますっ、あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「ご、ごめんなさい、私だけ、先に少しイってしまいましたわ……さっきから、\n　快感の波が全然治まらなくてっ……あっ、んあぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「今もまた、イき続けてっ……んんっ、あぁんんっ……！　でも大きいのは\n　まだ、ですからっ……んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「最後はまた一緒に絶頂を迎えましょう……！　あなたのオチ○ポで、一番\n　大きい絶頂を、私のオマ○コにっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、あぁんんっ……！　私も最後まで、おまんこぎゅーぎゅーっ\n　てしますからっ、一緒に蕩け合いましょう……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「んあっ、ああっ、んあぁんんっ！　来たっ、オチ○ポまた膨らんでっ、ビク\n　ビクしてっ、あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「ふふ、ふふふっ……余裕のない表情で、必死に腰を振る姿、とってもかわい\n　い……出して、そのまま、私の膣内でまたっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あぁんんっ！　私もイク、一番大きいのが来るからぁ……！　んぁあぁんぅ\n　っ！　イク、オマ○コイクっ！　イックうぅぅうんっ～～……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_12" ]},
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「んあぁんんっ！　ああ……また来てるぅ……ドクドクって、子宮に直接、\n　濃厚な精液が、流れ込んできますわっ……んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、くぅんんっ……！　イク、またイクっ、何回でもイクっちゃ\n　いますっ……！　あっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あっ、んぁんっ……！　すごい、射精をしながらも、腰の動き、全然止まら\n　ないっ……あっ、んんぅんっ！　んあっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_11" ]},
+		{"command":[ "SETTEXT", "「あなたの子種が私の中に溜まっていくのが分かる……お腹の奥が温かくて\n　……何て幸せな熱なのでしょう……んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「でも……あぁ……そろそろ、終わってしまうのですね……勢いがおさまって\n　……んんっ……精液がまた、逆流していってしまいますわ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……んんっ……どうですか？　今度こそ、全部出し切れましたか？\n　私の身体、ご満足いただけました？　心は癒されましたか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_10" ]},
+		{"command":[ "SETTEXT", "「――ふふっ、それはなによりです。私も……とても温かいものを、たくさん\n　いただきました……ありがとうございます」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_11" ]},
+		{"command":[ "SETTEXT", "「ああ駄目、まだオチ○ポ抜かないで……もう少しだけ、このまま……あなた\n　の熱を、感じさせてください」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_10" ]},
+		{"command":[ "SETTEXT", "「あなたも疲れたでしょう？　ほら、両手をこっちに……ぎゅーっと抱き合っ\n　て、心地よい余韻に身を任せましょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「言ったでしょう、あなたと休暇を過ごしたくて押しかけてしまったと。今だ\n　けは……皆様の事を忘れて、私だけのあなたでいてくださいな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_15" ]},
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「んあぁんんっ……！　ああっ、オチ○ポが抜けちゃいましたっ……んんっ、\n　くうぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「でも、全身に精液を掛けられるのも……んんんっ……これはこれで……あっ、\n　んぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「ただでさえ、暑さで全身汗まみれなのに、その上から精液が降り注いで……\n　んんっ……ふふっ、全身ぬるぬるになってしまいますね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_14" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ、はぁ……んんっ……二回目だというのに、なんて精液の量……\n　私の顔にまで届いて……甘く痺れる、素敵な匂い……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_13" ]},
+		{"command":[ "SETTEXT", "「膣内出しも素敵ですが……こうして全身を精液塗れにされるのも、私はあな\n　たのモノだと言われているみたいで、悪くありませんね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_14" ]},
+		{"command":[ "SETTEXT", "「ふぅ……流石に、この状態で皆様の元に戻る訳にはいきませんね。シャワー\n　……を浴びに行くにしても、人の目がありますし……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「――え？　ならこのまま海で遊ぶ？　身体も綺麗になるし、一石二鳥？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETIMAGE", "0", "still_00003011_02_13" ]},
+		{"command":[ "SETTEXT", "「それはいい考えですわね。折角の休暇ですもの、楽しみませんと損、ですわ\n　よね。――ただ、あと少しだけ……このまま、ゆっくりしませんか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「あなたも疲れたでしょう？　ほら、両手をこっちに……ぎゅーっと抱き合っ\n　て、心地よい余韻に身を任せましょう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "牛神様" ]},
+		{"command":[ "SETTEXT", "「言ったでしょう、あなたと休暇を過ごしたくて押しかけてしまったと。今だ\n　けは……皆様の事を忘れて、私だけのあなたでいてくださいな」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_030_1104410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}

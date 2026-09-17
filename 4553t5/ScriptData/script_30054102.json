@@ -1,0 +1,478 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0004" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00000541_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev005_41b_0000", "ev005_41b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000541_01", "0", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「……なんですか、そのキョトンとした目は。ただでさえだらしない顔が、\n　もっと大変なことになってますよ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000541_01", "0", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「女王としての威厳？　雰囲気が緩い？　ウチが厳格な女王になったと聞いて、\n　ずっとビクビクしていたのに拍子抜け？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000541_01", "1", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「まぁ確かに、女王をしてる時はウチも、もう少しこう、キリッとしてますけ\n　ど……どんなに立場が変わっても、ウチはウチ、ですよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000541_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「折角あなたと……主様と二人っきりなんですから……ほら、察してください\n　……まったく、どれだけ時が経っても鈍くてだめだめですねー、主様は」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000541_01", "4", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「――大丈夫、分かっています。だけどウチにとって、主様は主様ですから。\n　そこに違いはありません」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETCHARA", "0", "char_00000541_01", "5", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「ずっと探していたんです……もう一度、あなたに合いたかったから……\n　あなたに愛して、ほしいから……ずっとずっと、ずーーーっと……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_02" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「なのでぇ……ふふ、我慢なんて、出来るはずありませんよね？　ウチの心が\n　満たされるまで、たーっぷり相手をしてもらいます♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ふふふ、慌てた素振りを見せた割に、主様もやる気満々じゃないですか。\n　目つきがとってもいやらしくなっていますよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_01" ]},
+		{"command":[ "SETTEXT", "「分かりますか、少しだけ胸、大きくなったんです。全体的に肉もつきました\n　し、主様好みの身体だと思いませんか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_02" ]},
+		{"command":[ "SETTEXT", "「んんっ……ふふっ、まだ触ってもいないのに、オチンチンこんなにも固くし\n　ちゃって……相変わらず、仕方がない人ですね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「あんっ……いきなり胸に手を伸ばしてくるとは、なんと不敬な……ふふ、\n　もちろん、主様相手だと、許しちゃうんですけどね……んんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ、んんっ……これだぁ……ウチは、ずっとこうしていたかった\n　……主様と肌を重ねて、もっと近くで熱を感じたかった……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_01" ]},
+		{"command":[ "SETTEXT", "「一人は寂し、かった……大事な部下は当然、いますけど……主様だけじゃな\n　くて、あの日々を過ごしたみんながいない、から……んんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「女王がこんな弱い姿見せちゃ駄目って、分かっているんです……でも、今だ\n　けは……甘えさせてください……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_02" ]},
+		{"command":[ "SETTEXT", "「ああ……主様だ……夢にまで見た、主様の身体……すんすん……匂いも、\n　素敵……んんっ……ずっとこうしているのもいい、けど……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_03" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ、んん……そろそろ入れたくなって、来ましたよね？　いえ、\n　違います……ウチがもう待ち切れない……んんっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「発情しきったヌルヌルのオマンコで……主様のオチンチン、全部食べちゃい\n　ますね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_06" ]},
+		{"command":[ "SETTEXT", "「んあぁんんっ！　あっ、んんぅんっ……！　あふぅっ……太いのがずぶって\n　……んぅんっ！　入って来てるぅ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「すごく久しぶりの主様のオチンチン……これを待ってたの、ずっと欲しくて\n　……あっ、んぅんっ……！　オマンコ、寂しかったんです……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「はぁっ、はぁ、んんっ……！　ああ駄目、入れただけでイっちゃいそうになっ\n　ちゃった……そんな勿体ないことできない……もっと長く楽しまないと……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「だから、最初はゆっくり動いていきますね……んんっ、あっ、んぁんっ……\n　ぎゅーって押し付けて、腰を前後に揺するみたいに……んぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104121" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+
+
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev005_41b_0000", "ev005_41b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「はっ、あっ、んんっ……！　久しぶりだから、ですかね……んぁんっ……\n　オチンチン少し苦しい、けど、んんぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「亀頭が子宮を押し上げる感覚が、あっ、あぁんんっ……！　気持ちよすぎて\n　っ、んんっ……！　ふふふ、もっと欲しくなっちゃいます……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、くぅんっ！　もっと激しくしたいです、けどぉ……あっ、ん\n　んっ……！　まだ我慢、もっとじっくり楽しみたいから、我慢っ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「あぁ、でも駄目……無理です、これぇ……！　長年我慢してきたんです、主\n　様のオチンチンがここにあるのに、もうこれ以上我慢なんて、無理ぃ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んあっ、あっ、あぁんんっ……！　お腹の裏側っ、オマンコの一番気持ちい\n　い所、オチンチンでズリズリって引っ掻いてっ、んあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「主様の方からも、お願いします……下からズンって突いてくださいっ……！\n　子宮まで乱暴に突き上げるみたいに、激しくっ、んあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「オチンチン、きたぁ……！　あっ、おっ、くぅんんっ！　あ、ありがとう\n　ございます、主様ぁ……ウチの我儘をきいてくれてっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「何回も想像して、夢にまで見たんです……！　主様のオチンチンで、いっぱ\n　い愛してもらう夢っ……あっ、くんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ふふ、ふふふ♪　本物がここにある、ウチのオマンコを貫いて、子宮まで\n　可愛がってくれてるっ、あっ、んんっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ウチ、女王にまでなったのにっ、んんっ、ああぁんっ！　下品でごめんなさ\n　い、はしなたくてごめんなさいっ……んあっ、おっ、くぅんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「でもっ、今だけは、あの頃のように……あぁんっ！　主様だけのウチで\n　いさせてください！　ウチだけの主様でいて欲しいです……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「あっ、ひっ、ひゃぁんんっ！　んぁんんっ！　分かりますか、ウチの子宮、\n　もうすっかり下りてきちゃってますっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「主様の子種が欲しいって言ってっ……あぁんっ！　オチンチンが突き込ま\n　れる度、亀頭にちゅーちゅーって吸い付いてっ、あっ、あぁんんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「お、お願いします、このまま膣内に……んんっ、くふぅんっ！　出して、\n　ウチに種付けする勢いで、主様の精液を注ぎこんでぇ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_09" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んくぅうんんっ～～！　出てるぅ、熱いのっ、すごい勢いで来てるぅ……！\n　あっ、んぁんんんっ……！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ああ……ウチもイッてます……あっ、くっ、んんぅんんっ！　こんな幸せな\n　絶頂、どれぐらいぶりか、分からない……んんっ、んあぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「駄目、射精の勢い緩めちゃ、嫌です……オマンコもっと締め付けて、搾り取\n　ってあげますから、もっとぉ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んんっ、あっ、くぅんんっ……はぁ、はぁ……んんっ、ぎゅーって、オチン\n　チン根元から、締めあげて……あっ、くぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_08" ]},
+		{"command":[ "SETTEXT", "「お腹の奥……熱い……気持ちよすぎて、幸せで……ふふ、ふふふ……ああ、\n　本当に主様がここにいる……また会うことが、できたんですね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ふふふ♪　もちろん、一度だけで満足なんてしてませんよね？　というか、\n　ウチができるはずがありません♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_07" ]},
+		{"command":[ "SETTEXT", "「――もちろん、主様に拒否権なんてありませんよ。なにせ今のウチは我儘な\n　女王様、ですからね♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+	
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_09" ]},
+		{"command":[ "SETTEXT", "「このまま続けますよ……あっ、んんぅんっ……！　奥に出されたばかりの精\n　液を、オチンチンを使って掻き混ぜてっ、んふっ、くあぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev005_41b_0000", "ev005_41b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、ふあぁんんっ……！　そうだ、思い出して来たっ……この角\n　度がいいのっ、主様のオチンチンが一番気持ちいい所に当たる角度っ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「腰の振り方もっ、あっ、んあぁんっ！　こうやって大きく前後にグラインド\n　させてっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「また、主様の方からもぉ……んあぁんっ！　ひっ、ひゃぁんんっ！　その動\n　き、好きっ、ウチの動きに合わせてくれるの、嬉しいですっ、あぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「主様、手を握ってください……主様がここにいるって、もっとはっきり感じ\n　たいから………あぁんっ！　ぎゅってしてほしい、です！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ああ、ごつごつしていて、少し大きい、主様の手だ……温かくて、優しくて\n　……この手で頭を撫でてもらうの、好きだったんです……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「それに……すんすん……んぅんっ……主様の匂いがする……もっと、もっと\n　です……すぅー、はぁー……もっと全身で、五感で、主様を感じたい……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「失礼、しますね……んちゅ、ちゅ、れるぅ……ぷはぁ……ふふ、主様の味だ\n　ぁ……んちゅ、れるぅ……ここにいる、本当に主様がいるぅ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「あぁんんっ！　すごいっ、一気にオチンチンが膨れ上がってっ……！　ふふ\n　っ、ウチに指を舐められて、興奮しちゃったんですか♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「あっ、んんっ、んあぁんんっ……！　はい、このまま一緒に、最後までっ…\n　…んうんんっ！　頭を真っ白にして、とけあいましょう！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「久しぶりですけどっ、主様の好きな動きは全部覚えてる、忘れたことなんて\n　一度もない、からぁ……！　あっ、んんっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「オマンコ締め付けて、オチンチン乱暴にずぼずぼってぇ……！　あっ、おっ、\n　くぅんっ！　亀頭を子宮にぶつける勢いで、もっと激しくっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んあっ、あっ、ああぁんっ！　んふぅんっ！　ああ……ふふふ♪　快感に顔\n　を蕩けさせちゃってる主様、とってもかわいいです♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ウチの事も――ふふふ♪　嬉しい、もっと褒めて、可愛いって言って……\n　離れていた時間が埋まるぐらい、もっと、もっとぉ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んあっ、あっ、あぁんっ！　んぅんんっ！　来る、オマンコの奥から大きい\n　のが来ます！　また一緒にイク、主様と一緒にイきたいの！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「また膣内に……ああでも、全身にぶっかけてもほしい……あっ、あぁんっ！\n　主様の精液でマーキングもされたいの……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「主様に全部任せますっ……！　あっ、んんっ、くんんっ！　主様の好きな所\n　に出してっ！　膣内でも外でもいいからっ、あっ、ああっ、ああぁんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ドロドロ精液ぶちまけて！　ウチの全部が蕩け切っちゃうぐらい、気持ちよ\n　くしてぇ～～～～！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_12" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んあぁぁぁんんっ！　出てるっ！　熱々精液、また子宮に直接っ……！　イ\n　ク、イクイク、イックうぅぅんんっ～～～～！！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「これっ、全部ほしいですっ！　一滴残らず全部子宮で受け止めてっ……あっ、\n　んんっ！　主様の熱を、オマンコで留めておきたい、ですっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ああでも……んんっ！　駄目っ、あっ、くぅんっ……！　射精の勢い、すご\n　過ぎてぇ……オマンコから逆流していっちゃいますっ……んぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「もったいない、けど……ふふふ♪　それだけいっぱい主様が出してくれてる\n　ってことでもあるんですよね、あっ、んんっ、あぁんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_11" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁ……んんっ……ああ、残念……勢いがどんどん弱まって来ちゃい\n　ました……もっとずっと、この熱を感じていたかったのに……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んっ……流石に、もう一回は――そうですよね、これだけ出してくれました\n　もん……オチンチン、萎んできちゃいました……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_10" ]},
+		{"command":[ "SETTEXT", "「それでも……もう少しだけ、このまま……繋がったまま、ウチと一緒にいて\n　くれませんか？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「――ふふっ、嬉しい……本当は主様が最初に言ったような、女王としての\n　威厳あるウチの姿もみてほしかったですけど……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「やっぱり、ウチと主様の関係は、こっちの方が自然かなって……ああ、ウチ\n　の主様……ウチだけの、主様……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_11" ]},
+		{"command":[ "SETTEXT", "「今度は絶対に手放したりしませんから……覚悟、しておいてくださいね？\n　ふふふふ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_15" ]},
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んあぁんんんっ！　これぇ、ドロドロ精液をぶっかけられる感覚っ！　これ\n　も久しぶりでっ、あっ、くうぅんんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「気持ちいいっ、主様の精液シャワーでイクの、気持ちいいですっ！　あっ、\n　んんっ、あぁんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ああ、全身をマーキングされるっ、主様の濃密な匂いが、こんなにもいっぱ\n　い……すぅー、はぁー……なんて幸せな匂いっ……すぅー、はぁー……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「んんっ、あっ、くぅんんっ……！　主様の匂いを嗅ぐだけで、あぁんんっ！\n　すごい、何度もイっちゃう、匂いだけでっ、んぅんんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「もっと出して、玉の中が枯れ果てるまで、もっとぉ……！　んんっ、あっ、\n　くぅんんっ！　頭のてっぺんから足の先まで、ぐちょぐちょにっ、んんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「ふふっ、ふふふ……♪　まったく、女王であるウチを精液塗れにしちゃうな\n　んて、やっぱりどうしようもない主様ですねー♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_14" ]},
+		{"command":[ "SETTEXT", "「中々の不敬だと思うのですが、その辺り、どうお考えですか？　――ふふっ、\n　冗談ですよ、ウチが求めたこと、ですからね」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「どんな立場になったとしても、ウチはウチ……主様のオボロです。そしてあ\n　なたは、ウチの主様……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETIMAGE", "0", "still_00000541_02_13" ]},
+		{"command":[ "SETTEXT", "「――分かっています、この時間が長く続かないかもしれないことは……\n　だけど、今だけはどうか……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "オボロ" ]},
+		{"command":[ "SETTEXT", "「グレート・ルナリアムの女王ではなく、主様のオボロとして……この甘い夢\n　の中にいることを、許してください……愛していますよ、ウチだけの主様」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_005_4104410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}
