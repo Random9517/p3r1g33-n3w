@@ -597,7 +597,7 @@
             "x": 7424,
             "y": 144
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30014002.png",
@@ -607,7 +607,7 @@
             "x": 0,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30014101.png",
@@ -717,7 +717,7 @@
             "x": 2816,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30014701.png",
@@ -747,7 +747,7 @@
             "x": 3584,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30014902.png",
@@ -757,7 +757,7 @@
             "x": 3840,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30015002.png",
@@ -767,7 +767,7 @@
             "x": 4096,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30015102.png",
@@ -777,7 +777,7 @@
             "x": 4352,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30015202.png",
@@ -787,7 +787,7 @@
             "x": 4608,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30015302.png",
@@ -797,7 +797,7 @@
             "x": 4864,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30015402.png",
@@ -807,7 +807,7 @@
             "x": 5120,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30015502.png",
@@ -817,7 +817,7 @@
             "x": 5376,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30015602.png",
@@ -827,7 +827,7 @@
             "x": 5632,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30015702.png",
@@ -837,7 +837,7 @@
             "x": 5888,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30015902.png",
@@ -847,7 +847,7 @@
             "x": 6144,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30016002.png",
@@ -857,7 +857,7 @@
             "x": 6400,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30016102.png",
@@ -867,7 +867,7 @@
             "x": 6656,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30016302.png",
@@ -877,7 +877,7 @@
             "x": 6912,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30020101.png",
@@ -1157,7 +1157,7 @@
             "x": 6400,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30022202.png",
@@ -1167,7 +1167,7 @@
             "x": 6656,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30022302.png",
@@ -1177,7 +1177,7 @@
             "x": 6912,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30022402.png",
@@ -1187,7 +1187,7 @@
             "x": 7168,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30022502.png",
@@ -1197,7 +1197,7 @@
             "x": 7424,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30022602.png",
@@ -1207,7 +1207,7 @@
             "x": 0,
             "y": 576
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30022702.png",
@@ -1217,7 +1217,7 @@
             "x": 256,
             "y": 576
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30022802.png",
@@ -1227,7 +1227,7 @@
             "x": 512,
             "y": 576
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30022902.png",
@@ -1237,7 +1237,7 @@
             "x": 768,
             "y": 576
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30023002.png",
@@ -1247,7 +1247,7 @@
             "x": 1024,
             "y": 576
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30030101.png",
@@ -1587,7 +1587,7 @@
             "x": 2048,
             "y": 720
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30032702.png",
@@ -1597,7 +1597,7 @@
             "x": 2304,
             "y": 720
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30032802.png",
@@ -1607,7 +1607,7 @@
             "x": 2560,
             "y": 720
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30032902.png",
@@ -1617,7 +1617,7 @@
             "x": 2816,
             "y": 720
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30033002.png",
@@ -1627,7 +1627,7 @@
             "x": 3072,
             "y": 720
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30033102.png",
@@ -1637,7 +1637,7 @@
             "x": 3328,
             "y": 720
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30040101.png",
@@ -1857,7 +1857,7 @@
             "x": 1280,
             "y": 864
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30041702.png",
@@ -1867,7 +1867,7 @@
             "x": 1536,
             "y": 864
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30050101.png",
@@ -2367,7 +2367,7 @@
             "x": 6656,
             "y": 1008
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30053102.png",
@@ -2377,7 +2377,7 @@
             "x": 6912,
             "y": 1008
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30053202.png",
@@ -2387,7 +2387,7 @@
             "x": 7168,
             "y": 1008
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30053302.png",
@@ -2397,7 +2397,7 @@
             "x": 7424,
             "y": 1008
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30053402.png",
@@ -2407,7 +2407,7 @@
             "x": 0,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30053502.png",
@@ -2417,7 +2417,7 @@
             "x": 256,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30053602.png",
@@ -2427,7 +2427,7 @@
             "x": 512,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30053702.png",
@@ -2437,7 +2437,7 @@
             "x": 768,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30053802.png",
@@ -2447,7 +2447,7 @@
             "x": 1024,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30053902.png",
@@ -2457,7 +2457,7 @@
             "x": 1280,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30054002.png",
@@ -2467,7 +2467,7 @@
             "x": 1536,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30054102.png",
@@ -2477,7 +2477,7 @@
             "x": 1792,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30054202.png",
@@ -2487,7 +2487,7 @@
             "x": 2048,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30054302.png",
@@ -2497,7 +2497,7 @@
             "x": 2304,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30060101.png",
@@ -2787,7 +2787,7 @@
             "x": 2048,
             "y": 1296
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30061902.png",
@@ -2797,7 +2797,7 @@
             "x": 2304,
             "y": 1296
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30062002.png",
@@ -2807,7 +2807,7 @@
             "x": 2560,
             "y": 1296
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30062102.png",
@@ -2817,7 +2817,7 @@
             "x": 2816,
             "y": 1296
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30062202.png",
@@ -2827,7 +2827,7 @@
             "x": 3072,
             "y": 1296
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30062302.png",
@@ -2837,7 +2837,7 @@
             "x": 3328,
             "y": 1296
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30070101.png",
@@ -3027,7 +3027,7 @@
             "x": 512,
             "y": 1440
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30071402.png",
@@ -3037,7 +3037,7 @@
             "x": 768,
             "y": 1440
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30071502.png",
@@ -3047,7 +3047,7 @@
             "x": 1024,
             "y": 1440
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30080101.png",
@@ -3467,7 +3467,7 @@
             "x": 4096,
             "y": 1584
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30130802.png",
@@ -3477,7 +3477,7 @@
             "x": 4352,
             "y": 1584
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30130902.png",
@@ -3487,7 +3487,7 @@
             "x": 4608,
             "y": 1584
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30140101.png",
@@ -3657,7 +3657,7 @@
             "x": 1280,
             "y": 1728
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30141102.png",
@@ -3667,7 +3667,7 @@
             "x": 1536,
             "y": 1728
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30141202.png",
@@ -3677,7 +3677,7 @@
             "x": 1792,
             "y": 1728
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30141302.png",
@@ -3687,7 +3687,7 @@
             "x": 2048,
             "y": 1728
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30150101.png",
@@ -3867,7 +3867,7 @@
             "x": 6656,
             "y": 1728
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30170101.png",
@@ -4107,7 +4107,7 @@
             "x": 5120,
             "y": 1872
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30180902.png",
@@ -4117,7 +4117,7 @@
             "x": 5376,
             "y": 1872
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30181002.png",
@@ -4127,7 +4127,7 @@
             "x": 5632,
             "y": 1872
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30200101.png",
@@ -4507,7 +4507,7 @@
             "x": 0,
             "y": 2160
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30250802.png",
@@ -4517,7 +4517,7 @@
             "x": 256,
             "y": 2160
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30260201.png",
@@ -4847,7 +4847,7 @@
             "x": 1024,
             "y": 2304
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30301002.png",
@@ -4857,7 +4857,7 @@
             "x": 1280,
             "y": 2304
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30301102.png",
@@ -4867,7 +4867,7 @@
             "x": 1536,
             "y": 2304
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30330101.png",
@@ -4967,7 +4967,7 @@
             "x": 4096,
             "y": 2304
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30340101.png",
@@ -5057,7 +5057,7 @@
             "x": 6400,
             "y": 2304
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30380101.png",
@@ -5167,7 +5167,7 @@
             "x": 1536,
             "y": 2448
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30460101.png",
@@ -5197,7 +5197,7 @@
             "x": 2304,
             "y": 2448
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30490101.png",
@@ -5357,7 +5357,7 @@
             "x": 6400,
             "y": 2448
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30491202.png",
@@ -5367,7 +5367,7 @@
             "x": 6656,
             "y": 2448
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30491302.png",
@@ -5377,7 +5377,7 @@
             "x": 6912,
             "y": 2448
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30491502.png",
@@ -5387,7 +5387,7 @@
             "x": 7168,
             "y": 2448
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30500101.png",
@@ -6047,7 +6047,7 @@
             "x": 1024,
             "y": 2880
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30810101.png",
@@ -6197,7 +6197,7 @@
             "x": 4864,
             "y": 2880
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30811002.png",
@@ -6207,7 +6207,7 @@
             "x": 5120,
             "y": 2880
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30860101.png",
@@ -6257,7 +6257,7 @@
             "x": 6400,
             "y": 2880
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30870101.png",
@@ -6287,7 +6287,7 @@
             "x": 7168,
             "y": 2880
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30900101.png",
@@ -6497,7 +6497,7 @@
             "x": 4864,
             "y": 3024
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30980101.png",
@@ -6847,7 +6847,7 @@
             "x": 6144,
             "y": 3168
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31001502.png",
@@ -6857,7 +6857,7 @@
             "x": 6400,
             "y": 3168
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31001602.png",
@@ -6867,7 +6867,7 @@
             "x": 6656,
             "y": 3168
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31010101.png",
@@ -7017,7 +7017,7 @@
             "x": 2816,
             "y": 3312
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31040101.png",
@@ -9197,7 +9197,7 @@
             "x": 4864,
             "y": 4320
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31670702.png",
@@ -9207,7 +9207,7 @@
             "x": 5120,
             "y": 4320
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31680101.png",
@@ -9257,7 +9257,7 @@
             "x": 6400,
             "y": 4320
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31690101.png",
@@ -9847,7 +9847,7 @@
             "x": 6144,
             "y": 4608
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31821102.png",
@@ -9857,7 +9857,7 @@
             "x": 6400,
             "y": 4608
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31821202.png",
@@ -9867,7 +9867,7 @@
             "x": 6656,
             "y": 4608
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31821302.png",
@@ -9877,7 +9877,7 @@
             "x": 6912,
             "y": 4608
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31821402.png",
@@ -9887,7 +9887,7 @@
             "x": 7168,
             "y": 4608
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31821502.png",
@@ -9897,7 +9897,7 @@
             "x": 7424,
             "y": 4608
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31821602.png",
@@ -9907,7 +9907,7 @@
             "x": 0,
             "y": 4752
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31830101.png",
@@ -9997,7 +9997,7 @@
             "x": 2304,
             "y": 4752
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31840101.png",
@@ -10367,7 +10367,7 @@
             "x": 4096,
             "y": 4896
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31950101.png",
@@ -10517,7 +10517,7 @@
             "x": 256,
             "y": 5040
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31970101.png",
@@ -10607,7 +10607,7 @@
             "x": 2560,
             "y": 5040
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31990101.png",
@@ -10877,7 +10877,7 @@
             "x": 1792,
             "y": 5184
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32011102.png",
@@ -10887,7 +10887,7 @@
             "x": 2048,
             "y": 5184
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32011202.png",
@@ -10897,7 +10897,7 @@
             "x": 2304,
             "y": 5184
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32011302.png",
@@ -10907,7 +10907,7 @@
             "x": 2560,
             "y": 5184
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32011402.png",
@@ -10917,7 +10917,7 @@
             "x": 2816,
             "y": 5184
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32011502.png",
@@ -10927,7 +10927,7 @@
             "x": 3072,
             "y": 5184
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32011602.png",
@@ -10937,7 +10937,7 @@
             "x": 3328,
             "y": 5184
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32040101.png",
@@ -11617,7 +11617,7 @@
             "x": 5376,
             "y": 5472
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32220101.png",
@@ -11767,7 +11767,7 @@
             "x": 1536,
             "y": 5616
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32300101.png",
@@ -12557,7 +12557,7 @@
             "x": 6400,
             "y": 5904
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32590802.png",
@@ -12567,7 +12567,7 @@
             "x": 6656,
             "y": 5904
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32600101.png",
@@ -12657,7 +12657,7 @@
             "x": 1280,
             "y": 6048
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32620101.png",
@@ -13487,7 +13487,7 @@
             "x": 7168,
             "y": 0
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32970101.png",
@@ -13517,7 +13517,7 @@
             "x": 256,
             "y": 144
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_32980101.png",
@@ -13767,7 +13767,7 @@
             "x": 6656,
             "y": 144
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33090202.png",
@@ -13777,7 +13777,7 @@
             "x": 6912,
             "y": 144
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33090302.png",
@@ -13787,7 +13787,7 @@
             "x": 7168,
             "y": 144
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33100101.png",
@@ -13837,7 +13837,7 @@
             "x": 768,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33120101.png",
@@ -14067,7 +14067,7 @@
             "x": 6656,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33220101.png",
@@ -14117,7 +14117,7 @@
             "x": 256,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33240102.png",
@@ -14127,7 +14127,7 @@
             "x": 512,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33250102.png",
@@ -14137,7 +14137,7 @@
             "x": 768,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33270101.png",
@@ -14207,7 +14207,7 @@
             "x": 2560,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33300102.png",
@@ -14217,7 +14217,7 @@
             "x": 2816,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33310102.png",
@@ -14227,7 +14227,7 @@
             "x": 3072,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33320102.png",
@@ -14237,7 +14237,7 @@
             "x": 3328,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33320202.png",
@@ -14247,7 +14247,7 @@
             "x": 3584,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33330102.png",
@@ -14257,7 +14257,7 @@
             "x": 3840,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33340102.png",
@@ -14267,7 +14267,7 @@
             "x": 4096,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33350102.png",
@@ -14277,7 +14277,7 @@
             "x": 4352,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33350202.png",
@@ -14287,7 +14287,7 @@
             "x": 4608,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33360102.png",
@@ -14297,7 +14297,7 @@
             "x": 4864,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33370102.png",
@@ -14307,7 +14307,7 @@
             "x": 5120,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33380102.png",
@@ -14317,7 +14317,7 @@
             "x": 5376,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33390102.png",
@@ -14327,7 +14327,7 @@
             "x": 5632,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33390202.png",
@@ -14337,7 +14337,7 @@
             "x": 5888,
             "y": 432
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_33420102.png",
@@ -14347,6 +14347,6 @@
             "x": 6144,
             "y": 432
         },
-        "anim": false
+        "anim": true
     }
 ]
