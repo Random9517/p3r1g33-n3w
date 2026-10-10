@@ -1,0 +1,480 @@
+{
+	"scriptCommands" :  [
+		{"command":[ "FADEIN", "NORMAL" ]},
+		{"command":[ "SETIMAGE", "0", "bg_0041" ]},
+		{"command":[ "DISPIMAGE","0", "TRUE" ]},
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "PLAYBGM", "BGM_015" ]},
+		{"command":[ "LOADANIMIMAGE", "0", "anim_00001810_02" ]},
+		{"command":[ "SETANIMRANGE", "0", "ev018_10b_0000", "ev018_10b_0023" ]},
+		{"command":[ "WAITMOVE" ]},
+		{"command":[ "SPOTCHARA", "0", "1", "2", "3"]},
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETCHARA", "0", "char_00001810_01", "1", "CENTER", "0" ]},
+		{"command":[ "DISPCHARA", "0", "TRUE" ]},
+		{"command":[ "DISPTEXT", "TRUE" ]},
+		{"command":[ "DISPNAME", "TRUE" ]},
+		{"command":[ "SETTEXT", "「参ったね……街がすっかり爛れた空間になったと思ったら……いつの間にか、\n　私までサキュバスになるなんて……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004101" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETCHARA", "0", "char_00001810_01", "4", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「身体がピリピリするよ……魔力を直接肌先に感じるというか……ふぅ……\n　はぁ……もどかしい感じがする……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004102" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETCHARA", "0", "char_00001810_01", "2", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「……そうだよね。街中でもみんなくんずほぐれつヤッてる訳だし……今更\n　一組増えたってどうってことないよね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004103" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「そういうことだからさ……はい、ズボン脱ごうか……何をモジモジしてるの？\n　君だってシたいんじゃないの？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004104" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETCHARA", "0", "char_00001810_01", "1", "CENTER", "0" ]},
+		{"command":[ "SETTEXT", "「人目が気になる……？　何を今更……分かったよ、それじゃ……こっちに\n　来て……ほら、早く」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004105" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "FADEOUT", "NORMAL" ]},
+		{"command":[ "DISPCHARA", "0", "FALSE" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_01" ]},
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「フフ……これだけ路地裏に引っ込めば、とりあえずは大丈夫だよね？　悪い\n　けど、こっちも我慢の限界なんだ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004106" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_02" ]},
+		{"command":[ "SETTEXT", "「はぁ……んっ、何だ……色々言ってた割には勃起してるじゃない……君のお\n　チンポだって、その気になってる訳だ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004107" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_03" ]},
+		{"command":[ "SETTEXT", "「それなら、もう何も気兼ねすることはないよね？　跨がらせてもらっちゃい\n　まぁす……んくっ……ふぅぅぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004108" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_05" ]},
+		{"command":[ "SETTEXT", "「はぁぁ……おチンポが、みっちり詰まってる……おマンコがいっぱいに\n　なったよぉ……んぁふぅぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004109" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_04" ]},
+		{"command":[ "SETTEXT", "「どうかな？　私のおマンコも、準備は出来てたからね……ヌルヌルになって\n　たでしょ……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004110" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_06" ]},
+		{"command":[ "SETTEXT", "「くぅぅ……そうだよねぇ……こんなに発情してるんだったら、発散するには\n　セックスするしかないよねぇ……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004111" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「ああ、お構いなく……私の方で、動かしていくから……君はマグロ状態\n　だって構わない……それでも気持ちよくしてあげるからね……フフ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004112" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "NORMAL" ]},
+		{"command":[ "PLAYANIM", "0", "ev018_10b_0000", "ev018_10b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「んっ、ふっ、はぁっ、んくぅぅぅっ……あぁ……擦れて、いい感じだよねぇ\n　……上からプレスするなんて……全然慣れないけど……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004113" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「結構ハマっちゃうかも……あっ、んっ、おマンコが……欲しがって動いちゃ\n　うからぁ……うんっ、ああぁっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004114" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「フフ……いいね……ちょっとオスを支配する感じ……こういう風にして欲し\n　かったんでしょ？　欲望が……透けて見えるよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004115" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「君の視線も、気になるところを行ったり来たりして忙しそう……揺れてる\n　おっぱいが見たいのかな？　繋がってるおマンコがお気に入り？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004116" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「どこでも好きなだけ見ていいよ……そうすることで、君のおチンポも元気\n　いっぱいになるみたいだしね……フフ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004117" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「うんっ……んっ、はぁっ……あぁ……んっ♪　今の……ヤバいね。ビクって\n　したよ……私が一方的に責めてるようで、ちゃんと弱点突いて来るんだ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004118" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「偶然……？　どうかな……君のことだから、さり気なく私を誘導していても\n　不思議じゃない……もっとおマンコを使って確かめないとね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004119" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "SETTEXT", "「あふっ、はっ、ふんっ……いい……んくぅ……おチンポがヒダをグリグリ\n　扱いてくるの……すごくいいね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004120" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「やっぱりじっとしてられない感じ？　私の動きに合わせて、自然に腰がヘコ\n　ヘコしちゃってるよね……フフ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004121" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「ああ、もちろんダメじゃないよ。そうやってズリズリおチンポ頑張ってくれ\n　る方が私としても気持ちいいしね……んっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004122" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「もっと腰を回して……私のおマンコ……開発してもらおうかな……♪　あぁ\n　……止まらないかも……んっ、あっ……あひぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004123" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「んくぁっ、いいね……スイッチ入ってきたぁ……おチンポっ、グイグイ来て\n　るっ、中っ……擦りまくってるぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004124" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「すごい声……？　そうだね……でも、どうせ周りもよろしくやってるみたい\n　だしさぁ……聞かせておけばいいんじゃない？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004125" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「フフ……そうだね……サキュバスになると、そういうトコ、大胆になるのか\n　も……恥ずかしくない訳じゃないんだけど……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004126" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「そういうのも、ゾクゾクするスパイスになっちゃうって言うか……気持ちい\n　い回路に繋がっちゃうの……ヤバいよね……んひっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004127" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「あっ、んはうっ、はぁっ、私も……もっと欲望丸出しになってるみたいっ♪\n　ピストンしまくりっ……おマンコっ、ヒクヒクしっぱなしぃっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004128" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「んぁぁっ、もっとシコシコするからっ、あふうっ、私の……Ｇスポっ……\n　お返しにっ、キメてぇっ……んぁぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004129" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「やば……それぇ……効くぅぅぅっ……おチンポが下からガンガン突き上げて\n　っ、おマンコっ……分からされてるぅ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004130" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「はぁ、はぁっ……エッチな愛液……ドバドバ出てる……アタマの脳汁と一緒\n　に……めちゃくちゃハイになっちゃう……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004131" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「あっ、ふっ、ああっ……このまま続けたら……もう、イクの……すぐっ、\n　だよねっ？　　中出し……しちゃっていいからねっ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004132" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「ていうか……中出しじゃないと……ダメだからっ、おチンポ抜かないで……\n　直接……出してっ、ねっ……そうっ、このまま……激しくっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004133" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「はぁうんっ！　私も……イクからっ、はぁぁんっ！　路地裏セックスでっ、\n　おマンコっ……イっ、クゥぅんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004134" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_09" ]},
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「んんんんっ……！　はぁぁ……出てるっ……中出しっ……くぅぅんっ、熱い\n　っ……のぉっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004135" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_08" ]},
+		{"command":[ "SETTEXT", "「はぁぁ……すごい……サキュバスって、やっぱり精液が大事なんだ……この\n　染み渡る感じ……初めてぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004136" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_09" ]},
+		{"command":[ "SETTEXT", "「んっ、おチンポ……ビクビクしてる……私がいっぱい飲んでるからだよね？\n　んふぅ……もっと出してぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004137" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_08" ]},
+		{"command":[ "SETTEXT", "「あぁん……終わっちゃった……？　はふ……でも、魔力が漲るような感じ\n　……精液って、パワーあるんだねぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004138" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_07" ]},
+		{"command":[ "SETTEXT", "「フフ……少し張り切りすぎたかな？　でも、君も気持ちよかったんじゃない\n　かな……なんか、そういう顔してるしね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004139" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「うん、とりあえずは人心地がついたって感じだね。街が、あんな風になっち\n　ゃうのも、仕方ないよね……なにせ、サキュバスなんだから」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004140" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「ところでさぁ……今出したばかりで聞くのもなんだけど……まだおチンポ\n　……イケるよねぇ？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004201" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「ほら、サキュバスにとってはザーメンなんて、いくらあっても嬉しいもの\n　じゃない？　おマンコの中で、もっとしたいって言ってるし……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004202" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「フフ……そうだね、イヤって言ったって、この繋がったままの状況なら、\n　逃げられる訳ないし……そもそも、逃げる気もなしと……んぁっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004203" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+		
+		{"command":[ "SETANIMSPEED", "0", "FAST" ]},
+		{"command":[ "PLAYANIM", "0", "ev018_10b_0000", "ev018_10b_0023", "true", "ALL" ]},
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「んっふ……そうそう、開き直って……私のおマンコ……引き続き楽しんで\n　……あっ、あぁんっ！　また突き上げっ……来てるぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004204" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「うんっ、あぁっ、くぅんっ！　フフ……当たり前だけど……中出しされて\n　ぐちゃぐちゃになってるから……おマンコの音もすごいねぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004205" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「路地裏でも……これだけ派手な音が聞こえたら……もうバレバレだよね……\n　どこからか覗かれてたりして……はぁ……んっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004206" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「でも……それで、止まるわけないしっ……こんな気持ちいいおチンポ……\n　離さないよねぇっ……はぁんっ、ごりゅごりゅするぅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004207" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「はぁっ、子宮口っ……繰り返しツンツンされてっ……すごっ、か、感じるっ\n　……気持ちよすぎるぅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004208" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「フフ……負けないよ……？　このぶっといおチンポ責めを……柔らかくいな\n　して……やんわり……絡みつかせてぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004209" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「いやらしい膣圧で……ぎゅって締め付け返すぅっ……♪　フフっ……うめき\n　声が聞こえたよ？　そんなに、気持ちいいんだ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004210" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「なら、もっと可愛がってあげなくちゃ……♪　こんな責めっ気たっぷりに\n　なるなんて……自分でも不思議な気分……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004211" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETANIMSPEED", "0", "VERYFAST" ]},
+		{"command":[ "SETTEXT", "「はんっ、ふっ、あぁっ……気持ちいい……おマンコが、完全におチンポに\n　馴染んで……ずっと動いてられるぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004212" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「フフ……！　いいねぇ……こうしてお互いにサカりあって……身体……どん\n　どん熱くさせてくの……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004213" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「汗も……おマンコのお汁も……どんどん湧き出てぇ……重なってるトコ……\n　すごいことになっちゃってるぅ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004214" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「はっ、おぉっ、あぉぉっ……また、ビクビク跳ねてる……あぁっ、激しく\n　……おマンコっ……かき回されてぇっ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004215" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「はひっ、あっ、あひぃっ！　ヤバ……あぁっ、これ続けたら、またイキそっ\n　……んんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004216" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「でも……負けてられないからねっ……んっ、おマンコに魔力を込めてぇ……\n　ほぉら、極上の締め付けぇっ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004217" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「ふっ、んふぅっ、あぁっ……おチンポ……限界来てるよね？　んっ、いいよぉ\n　……このまま、後は出すのを待つだけぇっ♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004218" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETANIMSPEED", "0", "MOMENT" ]},
+		{"command":[ "SETTEXT", "「はぁっ、んっ、また中出しするっ？　おチンポ抜いて……ぶっ掛けてもいい\n　からねぇっ、あっ、ひぁっ、はひぃんっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004219" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「私も……このままイっちゃうからっ！　サキュバスおマンコっ、最後の最後\n　までたっぷり味わってねっ、はひぁっ、イっ……くうぅぅぅっ！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004220" ]},
+		{"command":[ "WAITINPUT" ]},
+
+
+
+		{"command":[ "SELECT", "そのまま射精","LABEL1","外して射精","LABEL2" ]},
+
+
+		{"command":[ "LABEL", "LABEL1" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_12" ]},
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「んくぁぁぁっ……！　出てっ……２発目の中出しぃっ……濃厚精液っ……\n　ビュクって来るぅっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004301" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_11" ]},
+		{"command":[ "SETTEXT", "「あぁぁ……このイキかた……初めてかもぉ……さっきより脳にズンと来る\n　……ドバドバ脳汁出てるアクメ……ヤバすぎぃ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004302" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「ふひぃ……おマンコ……ぷじゅって潮吹いてる……お漏らししてるみてゃい\n　にぃ……はへぇ……垂れてるのぉ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004303" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_12" ]},
+		{"command":[ "SETTEXT", "「あぁ……まだおチンポビクビクしてぇ……射精続けてる……逞しすぎて……\n　好きになっちゃいそぉ……はへぇ……♪」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004304" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_11" ]},
+		{"command":[ "SETTEXT", "「んぁぁ……はぁ、はぁ……終わった……？　うん……めちゃくちゃ、エナジ\n　ーもらった……これがサキュバスの吸精なんだね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004305" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_10" ]},
+		{"command":[ "SETTEXT", "「こんなに感じると思わなかったから……これ、病みつきになっちゃうやつだ\n　ね……元に戻れなくなっちゃうよ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004306" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「それにしても、サキュバスって……毎日、こんな感じで過ごしてるのかな…\n　…？　だとしたら、ある意味尊敬しちゃうけど……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004307" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「実際はもう少し穏やかなのかな……フフ……今度本物に聞いてみるしかない\n　かな。え……絶対、こんなに貪欲じゃない……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004308" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_11" ]},
+		{"command":[ "SETTEXT", "「そうかも……慣れてないからかな……また、ウズウズして来ちゃったし……\n　もう一回しちゃう？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004309" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_10" ]},
+		{"command":[ "SETTEXT", "「なんて……冗談だよ、冗談……でも、また身体が疼いたら、君にお願いしち\n　ゃうと思うから……その時はよろしくね……フフ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004310" ]},
+		{"command":[ "WAITINPUT" ]},
+		{"command":[ "JUMP", "END" ]},
+
+
+		{"command":[ "LABEL", "LABEL2" ]},
+		{"command":[ "STOPANIM", "0" ]},
+		{"command":[ "FADEOUT", "SLOW" ,"WHITE"]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_15" ]},
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「んふぁぁぁぁっ！　ビュビュって来たぁっ……ぶっ掛け……されてるっ、\n　精液……出てるぅんっ……！」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004401" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_14" ]},
+		{"command":[ "SETTEXT", "「フフ……中出しだけじゃ飽き足らずで……私を白濁まみれにしたかったんだ\n　ね……あぁ……ベトベトして……すごいよ……これぇ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004402" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_15" ]},
+		{"command":[ "SETTEXT", "「んっ、ちゅぷっ……後から後から噴水みたいに出てる……これ……サキュバ\n　スだから、余計に出やすくなってるのかな……？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004403" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_14" ]},
+		{"command":[ "SETTEXT", "「あぁぁ……身体がジンジンする……気持ちいいよ……おチンポ抜けたのに\n　……まだおマンコ……気持ちよくて……イってるの……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004404" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_13" ]},
+		{"command":[ "SETTEXT", "「んっ……はぁぁ……射精も終わったみたいだね……はふぅ……余韻がすごい\n　ね……まだ、頭がフワフワしてる感じがするよ……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004405" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_14" ]},
+		{"command":[ "SETTEXT", "「ちゅぷっ……うわぁ……何だか、精液の味まで美味しく感じちゃってる……\n　私、これ……元に戻れるのかな……戻らなくてもいいのかな？」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004406" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETIMAGE", "0", "still_00001810_02_13" ]},
+		{"command":[ "SETTEXT", "「っと……そう言えば、外だったね、ここ……結局、見物人は現れずじまい\n　……みんな、よろしくやってるからかな……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004407" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「せっかくだし、この余韻を楽しむのも悪くないよね……フフ……え……もう\n　どいて欲しい？　もう……野暮なことを言うね……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004408" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「まあ、私の欲求不満も少しは解消されたし、君には感謝してるよ。うん、暫\n　くは困ったら君を頼ればいいってことが分かったし……」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004409" ]},
+		{"command":[ "WAITINPUT" ]},
+
+		{"command":[ "SETNAME", "グリムロック" ]},
+		{"command":[ "SETTEXT", "「そういうわけで、またムラムラした時はお願いするね。何なら、今から続き\n　を……フフ……冗談だよ」", "NORMAL" ]},
+		{"command":[ "PLAYVOICE", "v2_018_1004410" ]},
+		{"command":[ "WAITINPUT" ]},
+		
+		{"command":[ "LABEL", "END" ]},
+		{"command":[ "EXIT" ]}
+	]
+}
