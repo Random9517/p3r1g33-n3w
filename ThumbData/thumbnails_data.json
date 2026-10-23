@@ -877,7 +877,7 @@
             "x": 6912,
             "y": 288
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30016302",
@@ -2517,7 +2517,7 @@
             "x": 2816,
             "y": 1152
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30060101",
@@ -4997,7 +4997,7 @@
             "x": 4864,
             "y": 2304
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_30340101",
@@ -9017,7 +9017,7 @@
             "x": 256,
             "y": 4320
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31650101",
@@ -9957,7 +9957,7 @@
             "x": 1280,
             "y": 4752
         },
-        "anim": false
+        "anim": true
     },
     {
         "filename": "script_31830101",
